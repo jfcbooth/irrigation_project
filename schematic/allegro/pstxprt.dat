@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Apr-12-2022 at 16:55:34 }
+{ Using PSTWRITER 17.2.0 d001Apr-12-2022 at 18:14:45 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='IRRIGATION_PROJECT';
@@ -71,19 +71,19 @@ PART_NAME
  J2 '2-PIN_HEADER_CONN_5-146280-2__1':;
 
 SECTION_NUMBER 1
- '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS11576@LIBRARY1.2-PIN_HEADER.NORMAL(SCH_1)':
- C_PATH='@irrigation_project.schematic1(sch_1):ins11576@library1.\2-pin_header.normal\(sch_1)',
- P_PATH='@irrigation_project.schematic1(sch_1):page1_ins11576@library1.\2-pin_header.normal\(sch_1)',
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS20515@LIBRARY1.2-PIN_HEADER.NORMAL(SCH_1)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins20515@library1.\2-pin_header.normal\(sch_1)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins20515@library1.\2-pin_header.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- MS1 'MOISTURE SENSOR_22-28-4033_MOL_':;
+ MS1 'MOISTURE SENSOR_SAMTEC_TSW-103-':;
 
 SECTION_NUMBER 1
- '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS369@LIBRARY1.MOISTURE SENSOR.NORMAL(CHIPS)':
- C_PATH='@irrigation_project.schematic1(sch_1):ins369@library1.\moisture sensor.normal\(chips)',
- P_PATH='@irrigation_project.schematic1(sch_1):page1_ins369@library1.\moisture sensor.normal\(chips)',
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS22866@LIBRARY2.MOISTURE SENSOR.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins22866@library2.\moisture sensor.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins22866@library2.\moisture sensor.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -98,7 +98,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- SD1 'SD_CARD_87224-8_TYC_SD_CARD':;
+ SD1 'SD_CARD_CON8_1X8_TU_TSW_SD_CARD':;
 
 SECTION_NUMBER 1
  '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS5577@LIBRARY1.SD_CARD.NORMAL(SCH_1)':

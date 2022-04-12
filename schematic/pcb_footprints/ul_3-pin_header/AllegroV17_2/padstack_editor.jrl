@@ -1,0 +1,6 @@
+\t (00:00:00) padstack_editor 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Apr 12 17:49:05 2022
+\t (00:00:00)         Host=MCT163S08 User=jb7008 Pid=9736 CPUs=16
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\padstack_editor.exe D:\irrigation_project\schematic\pcb_footprints\ul_3-pin_header\AllegroV17_2\ex56y56d36p.pad
+\t (00:00:00) 
+\t (00:00:02)     Journal end - Tue Apr 12 17:49:07 2022

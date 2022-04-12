@@ -1,0 +1,56 @@
+\t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Apr 12 17:14:48 2022
+\t (00:00:01)         Host=MCT163S08 User=jb7008 Pid=11516 CPUs=16
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\irrigation_project\schematic\pcb_footprints\DRAFiles\87224-8_TYC.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 87224-8_TYC
+\d (00:00:04) Design opened: D:/irrigation_project/schematic/pcb_footprints/DRAFiles/87224-8_TYC.dra
+\i (00:00:04) trapsize 5227
+\i (00:00:04) trapsize 5465
+\i (00:00:04) trapsize 5227
+\i (00:00:05) trapsize 5227
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -494.788 374.803
+\i (00:00:09) trapsize 10454
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -488.517 368.530
+\i (00:00:09) trapsize 20908
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -898.439 309.988
+\i (00:00:09) trapsize 34358
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -1630.969 617.812
+\i (00:00:09) trapsize 17179
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -1668.762 631.555
+\i (00:00:09) trapsize 8590
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -1012.524 392.767
+\i (00:00:10) trapsize 17179
+\i (00:00:11) roam start
+\i (00:00:11) roam x 16
+\i (00:00:11) roam x 32
+\i (00:00:11) roam x 16
+\i (00:00:11) roam x 48
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x 32
+\i (00:00:11) roam x 32
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x 32
+\i (00:00:11) roam x 16
+\i (00:00:12) roam x 16
+\i (00:00:12) roam y -16
+\i (00:00:12) roam x 16
+\i (00:00:12) roam end
+\i (00:00:14) trapsize 10762
+\i (00:00:18) trapsize 17179
+\i (00:00:22) exit 
+\t (00:00:22)     Journal end - Tue Apr 12 17:15:09 2022
