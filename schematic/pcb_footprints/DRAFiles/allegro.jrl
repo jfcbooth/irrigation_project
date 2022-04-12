@@ -1,0 +1,118 @@
+\t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Apr 12 17:48:10 2022
+\t (00:00:01)         Host=MCT163S08 User=jb7008 Pid=8112 CPUs=16
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\irrigation_project\schematic\pcb_footprints\DRAFiles\22-28-4033_MOL.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 22-28-4033_MOL
+\d (00:00:04) Design opened: D:/irrigation_project/schematic/pcb_footprints/DRAFiles/22-28-4033_MOL.dra
+\i (00:00:04) trapsize 1762
+\i (00:00:04) trapsize 1811
+\i (00:00:04) trapsize 1762
+\i (00:00:05) trapsize 2041
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -242.273 73.435
+\i (00:00:08) trapsize 4082
+\i (00:00:15) setwindow form.mini
+\i (00:00:15) FORM mini class BOARD GEOMETRY 
+\i (00:00:17) FORM mini class PACKAGE KEEPOUT 
+\i (00:00:19) FORM mini class PIN 
+\i (00:00:24) FORM mini subclass TOP 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 12.473 -4.131
+\i (00:00:26) trapsize 2041
+\t (00:00:26) Pick to complete the window.
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 12.064 -4.539
+\i (00:00:26) trapsize 1021
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 7.165 -3.927
+\i (00:00:27) trapsize 2041
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 7.165 -3.927
+\i (00:00:27) trapsize 4082
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 7.165 -3.927
+\i (00:00:27) trapsize 8165
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 7.165 -3.927
+\i (00:00:27) trapsize 16330
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -929.618 -50.850
+\i (00:00:28) trapsize 8165
+\i (00:00:28) Esc 
+\i (00:00:28) Esc 
+\i (00:00:29) Esc 
+\i (00:00:29) zoom points
+\i (00:00:29) pick 12.473 -4.131
+\i (00:00:29) pick -531.172 318.248
+\i (00:00:29) trapsize 2115
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -179.178 170.597
+\i (00:00:29) trapsize 1058
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out -171.774 168.481
+\i (00:00:29) trapsize 2115
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out -171.775 168.482
+\i (00:00:29) trapsize 4231
+\i (00:00:32) roam start
+\i (00:00:32) roam end
+\t (00:00:32) Pick to complete the window.
+\i (00:00:33) zoom points
+\i (00:00:33) pick -352.002 20.408
+\i (00:00:33) pick -391.955 44.100
+\i (00:00:33) trapsize 155
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -371.590 27.870
+\i (00:00:34) trapsize 311
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -371.590 27.870
+\i (00:00:34) trapsize 622
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -371.465 27.746
+\i (00:00:34) trapsize 1244
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -371.216 27.248
+\i (00:00:34) trapsize 2487
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -371.216 26.751
+\i (00:00:34) trapsize 4975
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -371.216 26.751
+\i (00:00:34) trapsize 9949
+\i (00:00:37) grid toggle 
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in -186.158 257.577
+\i (00:00:38) trapsize 4975
+\i (00:00:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
+\i (00:00:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out -173.224 164.053
+\i (00:00:44) trapsize 9949
+\i (00:02:35) trapsize 15882
+\i (00:02:36) exit 
+\e (00:02:36) Do you want to save the changes you made to 22-28-4033_MOL.dra?
+\i (00:02:37) fillin no 
+\t (00:02:37)     Journal end - Tue Apr 12 17:50:45 2022

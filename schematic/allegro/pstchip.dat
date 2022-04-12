@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Apr-12-2022 at 16:55:34}
+{ Using PSTWRITER 17.2.0 d001Apr-12-2022 at 18:14:45}
 primitive 'C_0603_AVX_22PF';
   pin
     '1':
@@ -96,21 +96,21 @@ primitive '2-PIN_HEADER_CONN_5-146280-2__1';
     VALUE='solenoid';
   end_body;
 end_primitive;
-primitive 'MOISTURE SENSOR_22-28-4033_MOL_';
+primitive 'MOISTURE SENSOR_SAMTEC_TSW-103-';
   pin
     'VCC':
-      PIN_NUMBER='(1)';
+      PIN_NUMBER='(01)';
       PINUSE='UNSPEC';
     'GND':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(02)';
       PINUSE='UNSPEC';
     'SIG':
-      PIN_NUMBER='(3)';
+      PIN_NUMBER='(03)';
       PINUSE='UNSPEC';
   end_pin;
   body
     PART_NAME='Moisture Sensor';
-    JEDEC_TYPE='22-28-4033_MOL';
+    JEDEC_TYPE='SAMTEC_TSW-103-25-S-S-RA';
     VALUE='Moisture Sensor';
   end_body;
 end_primitive;
@@ -129,7 +129,7 @@ primitive 'R_0805_PAN_1K';
     VALUE='1k';
   end_body;
 end_primitive;
-primitive 'SD_CARD_87224-8_TYC_SD_CARD';
+primitive 'SD_CARD_CON8_1X8_TU_TSW_SD_CARD';
   pin
     '5V':
       PIN_NUMBER='(1)';
@@ -158,7 +158,7 @@ primitive 'SD_CARD_87224-8_TYC_SD_CARD';
   end_pin;
   body
     PART_NAME='SD_Card';
-    JEDEC_TYPE='87224-8_TYC';
+    JEDEC_TYPE='CON8_1X8_TU_TSW';
     VALUE='SD_Card';
   end_body;
 end_primitive;

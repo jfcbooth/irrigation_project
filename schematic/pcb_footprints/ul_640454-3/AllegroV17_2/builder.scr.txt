@@ -1,0 +1,4 @@
+skill load "D:/irrigation_project/schematic/pcb_footprints/ul_640454-3/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "D:/irrigation_project/schematic/pcb_footprints/ul_640454-3/AllegroV17_2" 
+skill LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_640454-3/AllegroV17_2/640454-3_TYC.xml" 
+exit 

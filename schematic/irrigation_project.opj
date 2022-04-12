@@ -1,0 +1,165 @@
+(ExpressProject "irrigation_project"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library2.olb"
+        (Type "Schematic Library")
+        (DisplayName ".\library2.olb"))
+      (File
+         "..\desktop\irrigation_project\desktop\irrigation_project\schematic\pcb_footprints\ul_2-pin_header\orcadcapturexml\library1.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "..\desktop\irrigation_project\desktop\irrigation_project\schematic\pcb_footprints\ul_2-pin_header\orcadcapturexml\library1.olb")))
+    (NoModify)
+    (File ".\irrigation_project.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\irrigation_project.dsn"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\IRRIGATION_PROJECT.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("Moisture Sensor"
+      (FullPartName "Moisture Sensor.Normal")
+      (LibraryName "D:\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY2.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (HC-05
+      (FullPartName "HC-05.Normal")
+      (LibraryName "D:\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY2.OLB")
+      (DeviceIndex "0"))
+    (LVR
+      (FullPartName "LVR.Normal")
+      (LibraryName
+         "\\FSERV\HOME\JB7008\DESKTOP\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (2-pin_header
+      (FullPartName "2-pin_header.Normal")
+      (LibraryName
+         "\\FSERV\HOME\JB7008\DESKTOP\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (2N7002WT1G
+      (FullPartName "2N7002WT1G.Normal")
+      (LibraryName
+         "\\FSERV\HOME\JB7008\DESKTOP\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (ATMEGA328-PU
+      (FullPartName "ATMEGA328-PU.Normal")
+      (LibraryName
+         "\\FSERV\HOME\JB7008\DESKTOP\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (MBR7545
+      (FullPartName "MBR7545.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\DIODE.OLB")
+      (DeviceIndex "0"))
+    (MbreakN3
+      (FullPartName "MbreakN3.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (MbreakN
+      (FullPartName "MbreakN.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (QbreakN
+      (FullPartName "QbreakN.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (TIp120
+      (FullPartName "TIp120.Normal")
+      (LibraryName
+         "\\FSERV\HOME\JB7008\DESKTOP\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (Clock
+      (FullPartName "Clock.Normal")
+      (LibraryName
+         "\\FSERV\HOME\JB7008\DESKTOP\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DHT20
+      (FullPartName "DHT20.Normal")
+      (LibraryName
+         "\\FSERV\HOME\JB7008\DESKTOP\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (Solenoid
+      (FullPartName "Solenoid.Normal")
+      (LibraryName
+         "\\FSERV\HOME\JB7008\DESKTOP\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (SD_Card
+      (FullPartName "SD_Card.Normal")
+      (LibraryName
+         "\\FSERV\HOME\JB7008\DESKTOP\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ATMEGA168-20PU
+      (FullPartName "ATMEGA168-20PU.Normal")
+      (LibraryName
+         "\\FSERV\HOME\JB7008\DESKTOP\IRRIGATION_PROJECT\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\irrigation_project.dsn")
+      (Path "Design Resources" ".\irrigation_project.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\irrigation_project.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\library2.olb")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 420"))
+      (Tab 0)))
+  (MPSSessionName "jb7008")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\SPB_17.2\tools\capture\library\pspice")
+  (ISPCBBASICLICENSE "false"))

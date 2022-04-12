@@ -1,35 +1,610 @@
-\t (00:00:20) allegro 17.2 S042 Windows SPB 64-bit Edition
-\t (00:00:20)     Journal start - Tue Apr 12 16:50:53 2022
-\t (00:00:20)         Host=MCT163S08 User=jb7008 Pid=9372 CPUs=16
-\t (00:00:20) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession jb7008 D:\IRRIGATION_PROJECT\SCHEMATIC\allegro\IRRIGATION_PROJECT.brd
-\t (00:00:20) 
-   (00:00:20) Loading axlcore.cxt 
-\t (00:00:20) Opening existing design...
-\i (00:00:20) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged IRRIGATION_PROJECT
-\d (00:00:20) Design opened: D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd
-\i (00:00:21) trapsize 13043
-\i (00:00:21) trapsize 13636
-\i (00:00:21) trapsize 13852
-\i (00:00:21) trapsize 16378
-\i (00:00:21) trapsize 15371
-\i (00:00:21) placementedit 
-\i (00:00:23) setwindow form.mini
-\i (00:00:23) FORM mini tree  CLK2 'Components by refdes' 
-\i (00:00:24) FORM mini tree 'MULTISEL YES' CLK2 'Components by refdes' 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) place manual 
-\e (00:00:24) Cannot load symbol 'XTAL_HC49SM-8-30-50-60-16-AT00'
-\i (00:00:25) pick grid 16477.40 9160.94
-\t (00:00:25) last pick:  16500.00 9200.00
-\i (00:00:25) placementedit 
-\i (00:00:28) trapsize 9629
-\i (00:00:31) setwindow form.mini
-\i (00:00:31) FORM mini tree 'MULTISEL YES' DHT1 'Components by refdes' 
-\i (00:00:31) FORM mini tree  DHT1 'Components by refdes' 
-\i (00:00:31) setwindow pcb
-\i (00:00:31) place manual 
-\e (00:00:31) Cannot load symbol 'CON4_1X4_P100UM_HDR2_TYC'
-\i (00:00:34) exit 
-\e (00:00:34) Do you want to save the changes you made to IRRIGATION_PROJECT.brd?
-\i (00:00:35) fillin no 
-\t (00:00:35)     Journal end - Tue Apr 12 16:51:08 2022
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Apr 12 18:14:49 2022
+\t (00:00:03)         Host=MCT163S08 User=jb7008 Pid=6220 CPUs=16
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession jb7008 D:\IRRIGATION_PROJECT\SCHEMATIC\allegro\IRRIGATION_PROJECT.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged IRRIGATION_PROJECT
+\d (00:00:06) Design opened: D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd
+\i (00:00:06) trapsize 8171
+\i (00:00:06) trapsize 8400
+\i (00:00:06) trapsize 8481
+\i (00:00:06) trapsize 11676
+\i (00:00:06) trapsize 11155
+\i (00:00:06) placementedit 
+\i (00:00:13) setwindow form.mini
+\i (00:00:13) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:00:13) FORM mini tree  'Components by refdes' 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) place manual 
+\w (00:00:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:13) Placing C2 / C_0603_AVX_22PF / 0603_AVX on Top.
+\i (00:00:16) pick grid 12671.92 10954.07
+\t (00:00:16) last pick:  12700.00 11000.00
+\t (00:00:16) Placing C3 / C_0603_AVX_22PF / 0603_AVX on Top.
+\i (00:00:16) pick grid 14055.12 10061.68
+\t (00:00:16) last pick:  14100.00 10100.00
+\w (00:00:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:16) Placing CLK2 / CLOCK_XTAL_HC49SM-8-30-50-60-16 / XTAL_HC49SM-8-30-50-60-16-AT00 on Top.
+\i (00:00:16) pick grid 12738.85 9503.94
+\t (00:00:16) last pick:  12700.00 9500.00
+\w (00:00:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:16) Placing D1 / MBR7545_0805_PAN_PWR_LED / 0805_PAN on Top.
+\i (00:00:17) pick grid 16353.02 9213.91
+\t (00:00:17) last pick:  16400.00 9200.00
+\w (00:00:17) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:17) Placing DHT1 / DHT20_CON4_1X4_P100UM_HDR2_TYC_ / CON4_1X4_P100UM_HDR2_TYC on Top.
+\i (00:00:17) pick grid 15237.53 12359.58
+\t (00:00:17) last pick:  15200.00 12400.00
+\w (00:00:17) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:17) Placing J1 / 2-PIN_HEADER_CONN_5-146280-2_TY / CONN_5-146280-2_TYCO on Top.
+\i (00:00:17) pick grid 10039.37 12515.75
+\t (00:00:17) last pick:  10000.00 12500.00
+\t (00:00:17) Placing J2 / 2-PIN_HEADER_CONN_5-146280-2__1 / CONN_5-146280-2_TYCO on Top.
+\i (00:00:17) pick grid 10083.99 9236.22
+\t (00:00:17) last pick:  10100.00 9200.00
+\w (00:00:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:18) Placing MS1 / MOISTURE SENSOR_SAMTEC_TSW-103- / SAMTEC_TSW-103-25-S-S-RA on Top.
+\i (00:00:18) pick grid 14992.13 7295.28
+\t (00:00:18) last pick:  15000.00 7300.00
+\t (00:00:18) Placing R1 / R_0805_PAN_1K / 0805_PAN on Top.
+\i (00:00:18) pick grid 14746.72 10552.49
+\t (00:00:18) last pick:  14700.00 10600.00
+\w (00:00:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:18) Placing SD1 / SD_CARD_CON8_1X8_TU_TSW_SD_CARD / CON8_1X8_TU_TSW on Top.
+\i (00:00:18) pick grid 12091.86 12582.68
+\t (00:00:18) last pick:  12100.00 12600.00
+\w (00:00:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:18) Placing U1 / ATMEGA328-PU_28P3_SPDIP28_SP_MC / 28P3_SPDIP28_SP_MCH on Top.
+\i (00:00:19) pick grid 11935.70 7830.71
+\t (00:00:19) last pick:  11900.00 7800.00
+\w (00:00:19) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:19) Placing U2 / LVR_DPAK-3_ONS_LVR / DPAK-3_ONS on Top.
+\i (00:00:20) pick grid 16152.23 8009.19
+\t (00:00:20) last pick:  16200.00 8000.00
+\w (00:00:20) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:20) Placing U3 / HC-05_CON5_1X5_P100RM_SHDR_TYC_ / CON5_1X5_P100RM_SHDR_TYC on Top.
+\i (00:00:20) pick grid 17468.50 6536.75
+\t (00:00:20) last pick:  17500.00 6500.00
+\i (00:00:20) placementedit 
+\i (00:00:47) drag_start grid 8076.12 13765.09
+\i (00:00:49) drag_stop 22398.95 5488.19
+\t (00:00:50) last pick:  22242.78 5287.40
+\w (00:00:50) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:00:51) last pick:  22287.40 5421.26
+\w (00:00:51) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:00:51) last pick:  21038.06 7317.59
+\w (00:00:51) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:02:42) Esc 
+\i (00:02:42) pick grid 18606.30 8745.41
+\t (00:02:42) last pick:  18600.00 8700.00
+\i (00:02:43) drag_start grid 21350.39 11712.60
+\i (00:02:43) drag_stop 20078.74 9370.08
+\i (00:02:43) pick grid 20078.74 9370.08
+\t (00:02:43) last pick:  20100.00 9400.00
+\i (00:02:44) zoom in 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom in 19297.90 9437.01
+\i (00:02:44) trapsize 5577
+\i (00:02:45) zoom in 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom in 11719.16 12114.18
+\i (00:02:45) trapsize 2789
+\i (00:02:46) zoom out 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom out 11808.40 11985.90
+\i (00:02:46) trapsize 5577
+\i (00:02:47) pick grid 12187.67 12487.88
+\t (00:02:47) last pick:  12200.00 12500.00
+\i (00:02:47) move 
+\t (00:02:47) last pick:  12100.00 12600.00
+\t (00:02:47) Moving SD1 / SD_CARD_CON8_1X8_TU_TSW_SD_CARD / CON8_1X8_TU_TSW.
+\t (00:02:47) Pick new location for the element(s).
+\i (00:02:52) pick grid 10648.30 6653.89
+\t (00:02:52) last pick:  10600.00 6700.00
+\i (00:02:52) placementedit 
+\i (00:02:53) pick grid 14853.68 6955.07
+\t (00:02:53) last pick:  14900.00 7000.00
+\i (00:02:53) zoom in 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in 14842.53 6932.76
+\i (00:02:53) trapsize 2789
+\i (00:02:54) pick grid 14836.95 7072.19
+\t (00:02:54) last pick:  14800.00 7100.00
+\i (00:02:54) pick grid 14887.15 7144.70
+\t (00:02:54) last pick:  14900.00 7100.00
+\i (00:02:54) move 
+\t (00:02:54) last pick:  15000.00 7300.00
+\t (00:02:54) Moving MS1 / MOISTURE SENSOR_SAMTEC_TSW-103- / SAMTEC_TSW-103-25-S-S-RA.
+\t (00:02:54) Pick new location for the element(s).
+\i (00:02:55) pick grid 13085.64 7847.46
+\t (00:02:55) last pick:  13100.00 7800.00
+\i (00:02:55) placementedit 
+\i (00:02:56) pick grid 16248.04 7975.74
+\t (00:02:56) last pick:  16200.00 8000.00
+\i (00:02:56) move 
+\t (00:02:56) last pick:  16200.00 8000.00
+\t (00:02:56) Moving U2 / LVR_DPAK-3_ONS_LVR / DPAK-3_ONS.
+\t (00:02:56) Pick new location for the element(s).
+\i (00:02:57) pick grid 13448.18 6843.52
+\t (00:02:57) last pick:  13400.00 6800.00
+\i (00:02:57) placementedit 
+\i (00:02:58) pick grid 17631.24 6893.72
+\t (00:02:58) last pick:  17600.00 6900.00
+\i (00:02:58) pick grid 17491.81 6955.07
+\t (00:02:58) last pick:  17500.00 7000.00
+\i (00:02:58) move 
+\t (00:02:58) last pick:  17500.00 6500.00
+\t (00:02:58) Moving U3 / HC-05_CON5_1X5_P100RM_SHDR_TYC_ / CON5_1X5_P100RM_SHDR_TYC.
+\t (00:02:58) Pick new location for the element(s).
+\i (00:03:00) pick grid 14050.54 7412.42
+\t (00:03:00) last pick:  14100.00 7400.00
+\i (00:03:00) placementedit 
+\i (00:03:01) pick grid 16437.67 9197.19
+\t (00:03:01) last pick:  16400.00 9200.00
+\i (00:03:01) move 
+\t (00:03:01) last pick:  16400.00 9200.00
+\t (00:03:01) Moving D1 / MBR7545_0805_PAN_PWR_LED / 0805_PAN.
+\t (00:03:01) Pick new location for the element(s).
+\i (00:03:01) pick grid 13749.36 8182.10
+\t (00:03:01) last pick:  13700.00 8200.00
+\i (00:03:01) placementedit 
+\i (00:03:02) zoom in 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom in 13766.09 8187.68
+\i (00:03:02) trapsize 1394
+\i (00:03:02) zoom in 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom in 13766.10 8187.68
+\i (00:03:02) trapsize 697
+\i (00:03:02) zoom in 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom in 13766.10 8187.69
+\i (00:03:02) trapsize 349
+\i (00:03:02) zoom in 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom in 13766.10 8188.38
+\i (00:03:02) trapsize 174
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 13770.29 8194.66
+\i (00:03:02) trapsize 349
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 13770.28 8194.66
+\i (00:03:02) trapsize 697
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 13771.68 8194.66
+\i (00:03:02) trapsize 1394
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 13771.68 8194.66
+\i (00:03:02) trapsize 2789
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 13771.68 8194.66
+\i (00:03:02) trapsize 5577
+\i (00:03:04) pick grid 14541.42 10548.30
+\t (00:03:04) last pick:  14500.00 10500.00
+\i (00:03:04) move 
+\t (00:03:04) last pick:  14700.00 10600.00
+\t (00:03:04) Moving R1 / R_0805_PAN_1K / 0805_PAN.
+\t (00:03:04) Pick new location for the element(s).
+\i (00:03:04) pick grid 13214.01 8440.06
+\t (00:03:04) last pick:  13200.00 8400.00
+\i (00:03:04) placementedit 
+\i (00:03:05) zoom out 1 
+\i (00:03:05) setwindow pcb
+\i (00:03:05) zoom out 12734.36 9165.12
+\i (00:03:05) trapsize 11155
+\i (00:03:06) pick grid 10307.09 12627.30
+\t (00:03:06) last pick:  10300.00 12600.00
+\i (00:03:06) move 
+\t (00:03:06) last pick:  10000.00 12500.00
+\t (00:03:06) Moving J1 / 2-PIN_HEADER_CONN_5-146280-2_TY / CONN_5-146280-2_TYCO.
+\t (00:03:06) Pick new location for the element(s).
+\i (00:03:06) pick grid 11757.22 8946.19
+\t (00:03:06) last pick:  11800.00 8900.00
+\i (00:03:06) placementedit 
+\i (00:03:07) zoom in 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom in 11601.05 9102.36
+\i (00:03:07) trapsize 5577
+\i (00:03:07) pick grid 12560.37 9470.47
+\t (00:03:07) last pick:  12600.00 9500.00
+\i (00:03:07) move 
+\t (00:03:07) last pick:  12700.00 9500.00
+\t (00:03:07) Moving CLK2 / CLOCK_XTAL_HC49SM-8-30-50-60-16 / XTAL_HC49SM-8-30-50-60-16-AT00.
+\t (00:03:07) Pick new location for the element(s).
+\i (00:03:10) pick grid 10206.70 7741.47
+\t (00:03:10) last pick:  10200.00 7700.00
+\i (00:03:10) placementedit 
+\i (00:03:13) pick grid 15215.23 12292.65
+\t (00:03:13) last pick:  15200.00 12300.00
+\i (00:03:13) move 
+\t (00:03:13) last pick:  15200.00 12400.00
+\t (00:03:13) Moving DHT1 / DHT20_CON4_1X4_P100UM_HDR2_TYC_ / CON4_1X4_P100UM_HDR2_TYC.
+\t (00:03:13) Pick new location for the element(s).
+\i (00:03:14) pick grid 12716.54 9158.14
+\t (00:03:14) last pick:  12700.00 9200.00
+\i (00:03:14) placementedit 
+\i (00:03:16) pick grid 13642.39 9213.91
+\t (00:03:16) last pick:  13600.00 9200.00
+\i (00:03:16) move 
+\t (00:03:16) last pick:  12700.00 9200.00
+\t (00:03:16) Moving DHT1 / DHT20_CON4_1X4_P100UM_HDR2_TYC_ / CON4_1X4_P100UM_HDR2_TYC.
+\t (00:03:16) Pick new location for the element(s).
+\i (00:03:16) pick grid 12839.24 9202.75
+\t (00:03:16) last pick:  12800.00 9200.00
+\i (00:03:16) placementedit 
+\i (00:03:17) pick grid 15427.17 9180.45
+\t (00:03:17) last pick:  15400.00 9200.00
+\i (00:03:18) zoom in 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom in 15416.02 9180.45
+\i (00:03:18) trapsize 2789
+\i (00:03:20) zoom out 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom out 13737.21 8427.50
+\i (00:03:20) trapsize 5577
+\i (00:03:21) zoom in 1 
+\i (00:03:21) setwindow pcb
+\i (00:03:21) zoom in 14083.99 6743.12
+\i (00:03:21) trapsize 2789
+\i (00:03:23) pick grid 13403.54 6681.77
+\t (00:03:23) last pick:  13400.00 6700.00
+\i (00:03:23) move 
+\t (00:03:23) last pick:  13400.00 6800.00
+\t (00:03:23) Moving U2 / LVR_DPAK-3_ONS_LVR / DPAK-3_ONS.
+\t (00:03:23) Pick new location for the element(s).
+\i (00:03:28) pick grid 11250.66 7892.07
+\t (00:03:28) last pick:  11300.00 7900.00
+\i (00:03:28) placementedit 
+\i (00:03:29) zoom out 1 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) zoom out 11278.54 7607.62
+\i (00:03:29) trapsize 5577
+\i (00:03:30) drag_start grid 10023.62 9202.76
+\i (00:03:30) move 
+\t (00:03:30) last pick:  10100.00 9200.00
+\t (00:03:30) Moving J2 / 2-PIN_HEADER_CONN_5-146280-2__1 / CONN_5-146280-2_TYCO.
+\t (00:03:30) Pick new location for the element(s).
+\i (00:03:31) drag_stop grid 11585.30 8276.91
+\i (00:03:31) placementedit 
+\i (00:03:32) zoom in 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 11206.04 8087.28
+\i (00:03:32) trapsize 2789
+\i (00:03:32) zoom out 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 12120.74 8823.50
+\i (00:03:32) trapsize 5577
+\i (00:03:33) zoom in 1 
+\i (00:03:33) setwindow pcb
+\i (00:03:33) zoom in 12834.65 10942.92
+\i (00:03:33) trapsize 2789
+\i (00:03:34) drag_start grid 12723.11 10993.12
+\i (00:03:34) move 
+\t (00:03:34) last pick:  12700.00 11000.00
+\t (00:03:34) Moving C2 / C_0603_AVX_22PF / 0603_AVX.
+\t (00:03:34) Pick new location for the element(s).
+\i (00:03:36) drag_stop grid 10798.89 7646.66
+\i (00:03:36) placementedit 
+\i (00:03:37) drag_start grid 14061.69 10095.15
+\i (00:03:37) move 
+\t (00:03:37) last pick:  14100.00 10100.00
+\t (00:03:37) Moving C3 / C_0603_AVX_22PF / 0603_AVX.
+\t (00:03:37) Pick new location for the element(s).
+\i (00:03:39) drag_stop grid 10771.01 7384.52
+\i (00:03:39) placementedit 
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out 11016.41 7858.60
+\i (00:03:39) trapsize 5577
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out 10112.86 7981.31
+\i (00:03:39) trapsize 11155
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 12627.30 6447.51
+\i (00:03:39) trapsize 5577
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 11110.24 8366.15
+\i (00:03:40) trapsize 2789
+\i (00:03:42) drag_start grid 10836.95 7356.64
+\i (00:03:42) move 
+\t (00:03:42) last pick:  10800.00 7400.00
+\t (00:03:42) Moving C3 / C_0603_AVX_22PF / 0603_AVX.
+\t (00:03:42) Pick new location for the element(s).
+\i (00:03:42) drag_stop grid 11149.28 7044.30
+\i (00:03:42) placementedit 
+\i (00:03:43) drag_start grid 10764.44 7602.05
+\i (00:03:43) move 
+\t (00:03:43) last pick:  10800.00 7600.00
+\t (00:03:43) Moving C2 / C_0603_AVX_22PF / 0603_AVX.
+\t (00:03:43) Pick new location for the element(s).
+\i (00:03:45) drag_stop grid 11087.93 7211.63
+\i (00:03:45) placementedit 
+\i (00:03:45) drag_start grid 11143.71 6999.68
+\i (00:03:46) move 
+\t (00:03:46) last pick:  11100.00 7000.00
+\t (00:03:46) Moving C3 / C_0603_AVX_22PF / 0603_AVX.
+\t (00:03:46) Pick new location for the element(s).
+\i (00:03:46) drag_stop grid 11216.21 6916.02
+\i (00:03:46) placementedit 
+\i (00:03:47) drag_start grid 14239.18 7507.23
+\i (00:03:48) drag_stop 14055.12 7010.84
+\i (00:03:48) drag_start grid 14261.49 7568.58
+\i (00:03:48) drag_stop 14110.90 6999.68
+\i (00:03:49) drag_start grid 14255.91 7401.26
+\i (00:03:49) drag_stop grid 14144.36 6921.60
+\i (00:03:50) pick grid 14205.71 7406.84
+\t (00:03:50) last pick:  14200.00 7400.00
+\i (00:03:50) move 
+\t (00:03:50) last pick:  14100.00 7400.00
+\t (00:03:50) Moving U3 / HC-05_CON5_1X5_P100RM_SHDR_TYC_ / CON5_1X5_P100RM_SHDR_TYC.
+\t (00:03:50) Pick new location for the element(s).
+\i (00:03:51) prepopup 13787.41 6687.35
+\i (00:03:54) pick grid 13887.80 6748.70
+\t (00:03:54) last pick:  13900.00 6700.00
+\i (00:03:55) placementedit 
+\i (00:03:56) prepopup 14094.16 6849.09
+\i (00:03:58) pop dyn_option_select @:@Rotate 
+\i (00:03:58) spin 
+\t (00:03:58) Moving U3 / HC-05_CON5_1X5_P100RM_SHDR_TYC_ / CON5_1X5_P100RM_SHDR_TYC.
+\i (00:03:59) iangle -90.000
+\t (00:03:59) last angle:  270.000 Degrees
+\i (00:03:59) placementedit 
+\i (00:04:00) drag_start grid 14060.70 6497.72
+\i (00:04:01) drag_stop 13514.11 6626.00
+\i (00:04:01) pick grid 13843.18 6492.14
+\t (00:04:01) last pick:  13800.00 6500.00
+\i (00:04:01) move 
+\t (00:04:01) last pick:  13900.00 6700.00
+\t (00:04:01) Moving U3 / HC-05_CON5_1X5_P100RM_SHDR_TYC_ / CON5_1X5_P100RM_SHDR_TYC.
+\t (00:04:01) Pick new location for the element(s).
+\i (00:04:04) pick grid 11021.00 6252.31
+\t (00:04:04) last pick:  11000.00 6300.00
+\i (00:04:04) placementedit 
+\i (00:04:05) prepopup 10970.81 6230.00
+\i (00:04:06) pop dyn_option_select @:@Rotate 
+\i (00:04:06) spin 
+\t (00:04:06) Moving U3 / HC-05_CON5_1X5_P100RM_SHDR_TYC_ / CON5_1X5_P100RM_SHDR_TYC.
+\i (00:04:09) iangle 180.000
+\t (00:04:09) last angle:  90.000 Degrees
+\i (00:04:09) placementedit 
+\i (00:04:10) pick grid 10502.30 6637.15
+\t (00:04:10) last pick:  10500.00 6600.00
+\i (00:04:10) move 
+\t (00:04:10) last pick:  10600.00 6700.00
+\t (00:04:10) Moving SD1 / SD_CARD_CON8_1X8_TU_TSW_SD_CARD / CON8_1X8_TU_TSW.
+\t (00:04:10) Pick new location for the element(s).
+\i (00:04:12) prepopup 13720.48 6787.74
+\i (00:04:13) done 
+\i (00:04:13) placementedit 
+\i (00:04:14) drag_start grid 10585.96 6698.50
+\i (00:04:14) move 
+\t (00:04:14) last pick:  10600.00 6700.00
+\t (00:04:14) Moving SD1 / SD_CARD_CON8_1X8_TU_TSW_SD_CARD / CON8_1X8_TU_TSW.
+\t (00:04:14) Pick new location for the element(s).
+\i (00:04:15) drag_stop grid 13274.28 6687.35
+\i (00:04:15) placementedit 
+\i (00:04:15) prepopup 13296.59 6687.35
+\i (00:04:17) pop dyn_option_select @:@Rotate 
+\i (00:04:17) spin 
+\t (00:04:17) Moving SD1 / SD_CARD_CON8_1X8_TU_TSW_SD_CARD / CON8_1X8_TU_TSW.
+\i (00:04:30) iangle 270.000
+\t (00:04:30) last angle:  270.000 Degrees
+\i (00:04:30) placementedit 
+\i (00:04:32) pick grid 12917.33 7484.92
+\t (00:04:32) last pick:  12900.00 7500.00
+\i (00:04:32) pick grid 13045.61 7719.17
+\t (00:04:32) last pick:  13000.00 7700.00
+\i (00:04:32) move 
+\t (00:04:32) last pick:  13100.00 7800.00
+\t (00:04:32) Moving MS1 / MOISTURE SENSOR_SAMTEC_TSW-103- / SAMTEC_TSW-103-25-S-S-RA.
+\t (00:04:32) Pick new location for the element(s).
+\i (00:04:34) pick grid 12883.86 7652.24
+\t (00:04:34) last pick:  12900.00 7700.00
+\i (00:04:34) placementedit 
+\i (00:04:35) zoom in 1 
+\i (00:04:35) setwindow pcb
+\i (00:04:35) zoom in 13240.82 8371.73
+\i (00:04:35) trapsize 1394
+\i (00:04:36) pick grid 13235.25 8407.99
+\t (00:04:36) last pick:  13200.00 8400.00
+\i (00:04:36) move 
+\t (00:04:36) last pick:  13200.00 8400.00
+\t (00:04:36) Moving R1 / R_0805_PAN_1K / 0805_PAN.
+\t (00:04:36) Pick new location for the element(s).
+\i (00:04:38) prepopup 13304.97 7604.84
+\i (00:04:39) done 
+\i (00:04:39) placementedit 
+\i (00:04:56) zoom out 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom out 12038.89 8355.00
+\i (00:04:56) trapsize 2789
+\i (00:05:03) zoom out 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom out 11581.54 7931.12
+\i (00:05:03) trapsize 5577
+\i (00:05:03) zoom out 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom out 10112.85 7774.96
+\i (00:05:03) trapsize 11155
+\i (00:05:03) zoom in 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom in 6224.41 8343.83
+\i (00:05:03) trapsize 5577
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in 14624.02 7685.70
+\i (00:05:04) trapsize 2789
+\i (00:05:05) zoom in 1 
+\i (00:05:05) setwindow pcb
+\i (00:05:05) zoom in 9994.76 7250.66
+\i (00:05:05) trapsize 1394
+\i (00:05:05) pick grid 10192.76 7652.24
+\t (00:05:05) last pick:  10200.00 7700.00
+\i (00:05:05) move 
+\t (00:05:05) last pick:  10200.00 7700.00
+\t (00:05:05) Moving CLK2 / CLOCK_XTAL_HC49SM-8-30-50-60-16 / XTAL_HC49SM-8-30-50-60-16-AT00.
+\t (00:05:05) Pick new location for the element(s).
+\i (00:05:07) pick grid 10251.32 7417.99
+\t (00:05:07) last pick:  10300.00 7400.00
+\i (00:05:07) placementedit 
+\i (00:05:08) prepopup 10276.42 7342.69
+\i (00:05:09) pop dyn_option_select @:@Rotate 
+\i (00:05:09) spin 
+\t (00:05:09) Moving CLK2 / CLOCK_XTAL_HC49SM-8-30-50-60-16 / XTAL_HC49SM-8-30-50-60-16-AT00.
+\i (00:05:13) iangle 270.000
+\t (00:05:13) last angle:  270.000 Degrees
+\i (00:05:13) placementedit 
+\i (00:05:14) pick grid 11115.82 7172.58
+\t (00:05:14) last pick:  11100.00 7200.00
+\i (00:05:14) move 
+\t (00:05:14) last pick:  11100.00 7200.00
+\t (00:05:14) Moving C2 / C_0603_AVX_22PF / 0603_AVX.
+\t (00:05:14) Pick new location for the element(s).
+\i (00:05:16) pick grid 10611.07 7649.45
+\t (00:05:16) last pick:  10600.00 7600.00
+\i (00:05:16) placementedit 
+\i (00:05:17) pick grid 11191.12 6865.82
+\t (00:05:17) last pick:  11200.00 6900.00
+\i (00:05:17) move 
+\t (00:05:17) last pick:  11200.00 6900.00
+\t (00:05:17) Moving C3 / C_0603_AVX_22PF / 0603_AVX.
+\t (00:05:17) Pick new location for the element(s).
+\i (00:05:18) pick grid 10647.32 7155.85
+\t (00:05:18) last pick:  10600.00 7200.00
+\i (00:05:18) placementedit 
+\i (00:05:19) zoom out 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom out 11196.70 6941.12
+\i (00:05:19) trapsize 2789
+\i (00:05:20) roam start
+\i (00:05:20) roam y 16
+\i (00:05:20) roam y 32
+\i (00:05:21) roam x 16
+\i (00:05:21) roam y 32
+\i (00:05:21) roam y 16
+\i (00:05:21) roam x 16
+\i (00:05:21) roam end
+\i (00:05:22) roam start
+\i (00:05:22) roam x 16
+\i (00:05:22) roam x 32
+\i (00:05:22) roam x 32
+\i (00:05:22) roam x 48
+\i (00:05:22) roam x 32
+\i (00:05:22) roam x 32
+\i (00:05:22) roam y -16
+\i (00:05:23) roam x 32
+\i (00:05:23) roam end
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 10803.48 7551.84
+\i (00:05:24) trapsize 1394
+\i (00:05:24) zoom out 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom out 10803.49 7551.84
+\i (00:05:24) trapsize 2789
+\i (00:06:13) add line 
+\i (00:06:21) setwindow form.mini
+\i (00:06:21) FORM mini class BOARD GEOMETRY 
+\i (00:06:33) FORM mini line_width 10.00 
+\i (00:06:34) FORM mini lock_direction 90 
+\i (00:07:00) setwindow pcb
+\i (00:07:00) zoom out 1 
+\i (00:07:00) setwindow pcb
+\i (00:07:00) zoom out 9777.23 6151.91
+\i (00:07:00) trapsize 5577
+\i (00:07:00) zoom out 1 
+\i (00:07:00) setwindow pcb
+\i (00:07:00) zoom out 7792.63 5995.75
+\i (00:07:00) trapsize 11155
+\i (00:07:01) zoom out 1 
+\i (00:07:01) setwindow pcb
+\i (00:07:01) zoom out 2253.28 1137.80
+\i (00:07:01) trapsize 11155
+\i (00:07:01) pick grid 7250.66 4573.49
+\t (00:07:01) last pick:  7300.00 4600.00
+\i (00:07:03) pick grid 14612.86 10463.25
+\t (00:07:03) last pick:  14600.00 10500.00
+   (00:07:03) WARNING(SPMHA2-118): 'DESIGN_OUTLINE' and 'CUTOUT' are the preferred subclasses for defining an outline. Use these subclasses instead of the 'OUTLINE' subclass. [help]
+\i (00:07:10) fillin confirm
+\i (00:07:12) prepopup 18249.34 9704.72
+\i (00:07:13) cancel 
+\i (00:07:13) placementedit 
+\i (00:07:15) setwindow form.mini
+\i (00:07:15) FORM mini subclass DESIGN_OUTLINE 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) pick grid 8879.27 10351.71
+\t (00:07:18) last pick:  8900.00 10400.00
+\i (00:07:20) add line 
+\i (00:07:21) pick grid 9124.67 9481.63
+\t (00:07:21) last pick:  9100.00 9500.00
+\i (00:07:24) pick grid 9146.98 5421.26
+\t (00:07:24) last pick:  9100.00 5400.00
+\i (00:07:26) pick grid 14679.79 9637.80
+\t (00:07:26) last pick:  14700.00 9600.00
+\i (00:07:27) zoom in 1 
+\i (00:07:27) setwindow pcb
+\i (00:07:27) zoom in 9146.98 9548.56
+\i (00:07:27) trapsize 5577
+\i (00:07:28) zoom in 1 
+\i (00:07:28) setwindow pcb
+\i (00:07:28) zoom in 9146.98 9548.56
+\i (00:07:28) trapsize 2789
+\i (00:07:29) pick grid 9080.05 9548.56
+\t (00:07:29) last pick:  9100.00 9500.00
+\i (00:07:29) zoom out 1 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) zoom out 9838.58 9158.14
+\i (00:07:29) trapsize 5577
+\i (00:07:30) zoom out 1 
+\i (00:07:30) setwindow pcb
+\i (00:07:30) zoom out 9860.90 9091.21
+\i (00:07:30) trapsize 11155
+\i (00:07:30) zoom out 1 
+\i (00:07:30) setwindow pcb
+\i (00:07:30) zoom out 11913.39 7719.16
+\i (00:07:30) trapsize 11155
+\i (00:07:31) prepopup 9280.84 7741.47
+\i (00:07:31) done 
+\i (00:07:31) placementedit 
+\i (00:07:32) zoom in 1 
+\i (00:07:32) setwindow pcb
+\i (00:07:32) zoom in 8790.03 9727.03
+\i (00:07:32) trapsize 5577
+\i (00:07:32) zoom in 1 
+\i (00:07:32) setwindow pcb
+\i (00:07:32) zoom in 9671.27 9492.79
+\i (00:07:32) trapsize 2789
+\i (00:07:33) zoom out 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom out 9593.19 9275.27
+\i (00:07:33) trapsize 5577
+\i (00:07:33) zoom out 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom out 9582.03 9219.50
+\i (00:07:33) trapsize 11155
+\i (00:07:35) zoom out 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom out 1628.61 1360.89
+\i (00:07:35) trapsize 11155
+\i (00:07:35) zoom out 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom out 1494.75 1137.80
+\i (00:07:35) trapsize 11155
+\i (00:07:38) zoom in 1 
+\i (00:07:38) setwindow pcb
+\i (00:07:38) zoom in 13452.76 8143.04
+\i (00:07:38) trapsize 5577
+\i (00:09:49) exit 
+\e (00:09:49) Do you want to save the changes you made to IRRIGATION_PROJECT.brd?
+\i (00:09:52) fillin no 
+\t (00:09:52)     Journal end - Tue Apr 12 18:24:38 2022
