@@ -1,65 +1,42 @@
 // Includes
 #include <SD.h> // Sd card
-#include <SoftwareSerial.h> // Bluetooth module
+#include <DFRobot_DHT20.h> // Humidity / Moisture sensor
 
 // Input
-#define TEMP
-#define HUMID
-#define MOIST
-#define DIAL_1
-#define DIAL_2
-#define DIAL_3
-#define DIAL_4
-#define DIAL_5
-#define DIAL_6
-#define DIAL_7
+#define MOIST 17
+#define VOLTAGE_READER 2
 
 // Output
 #define DHT_SWITCH
-#define H2O_SWITCH
-#define LED
-#define SD_PIN
+#define H2O_SWITCH 16
+#define WATER 15
+#define LED 14
+#define SD_PIN 6
 
 // Global Variables
 File readLog;
+char junk;
+String inputString = "";
 long moistIdeal;
+int soilType;
+DFRobot_DHT20 dht20;
 
 void setup() {
   Serial.begin(9600);
+  dht20.begin();
   
   // Input
-  pinMode(TEMP, INPUT);
-  pinMode(HUMID, INPUT);
   pinMode(MOIST, INPUT);
-  pinMode(DIAL_1, INPUT);
-  pinMode(DIAL_2, INPUT);
-  pinMode(DIAL_3, INPUT);
-  pinMode(DIAL_4, INPUT);
-  pinMode(DIAL_5, INPUT);
-  pinMode(DIAL_6, INPUT);
-  pinMode(DIAL_7, INPUT);
+  pinMode(VOLTAGE_READER, INPUT);
 
   // Output
   pinMode(DHT_SWITCH, OUTPUT);
   pinMode(H2O_SWITCH, OUTPUT);
   pinMode(LED, OUTPUT);
+  pinMode(SD_PIN, OUTPUT);
 
   // Setup
-  if (digitalRead(DIAL_1)) {
-    moistIdeal = 0;
-  } else if(digitalRead(DIAL_2)) {
-    moistIdeal = 0;
-  } else if(digitalRead(DIAL_3)) {
-    moistIdeal = 0;
-  } else if(digitalRead(DIAL_4)) {
-    moistIdeal = 0;
-  } else if(digitalRead(DIAL_5)) {
-    moistIdeal = 0;
-  } else if(digitalRead(DIAL_6)) {
-    moistIdeal = 0;
-  } else if(digitalRead(DIAL_7)) {
-    moistIdeal = 0;
-  }
+  moistIdeal = 0;
 }
 
 void loop() {
@@ -75,9 +52,12 @@ void loop() {
   }
 
   readLog = SD.open("log.txt", FILE_WRITE);
-  moistCurrent = digitalRead(MOIST);
-  humid = digitalRead(HUMID);
-  temp = digitalRead(TEMP);
+  moistCurrent = analogRead(MOIST);
+  humid = dht20.getHumidity();
+  temp = dht20.getTemperature();
 
-  if (
+  if (Serial.available()) {
+    char inChar = (char)Serial.read();
+    inputString += inChar;
+  }
 }
