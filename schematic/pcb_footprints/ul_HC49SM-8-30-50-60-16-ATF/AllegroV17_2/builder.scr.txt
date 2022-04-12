@@ -1,0 +1,36 @@
+skill load "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2" 
+skill LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/XTAL_HC49SM-8-30-50-60-16-AT00.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist XTAL_HC49SM-8-30-50-60-16-AT00.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/XTAL_HC49SM-8-30-50-60-16-AT01.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist XTAL_HC49SM-8-30-50-60-16-AT01.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/XTAL_HC49SM-8-30-50-60-16-ATF_.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist XTAL_HC49SM-8-30-50-60-16-ATF_.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

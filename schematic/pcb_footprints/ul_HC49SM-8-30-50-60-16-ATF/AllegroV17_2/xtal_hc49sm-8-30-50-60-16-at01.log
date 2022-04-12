@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : XTAL_HC49SM-8-30-50-60-16-AT01.dra            )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Fri Apr 08 12:11:22 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2
+    Name      = xtal_hc49sm-8-30-50-60-16-at01.psm
+    User      = jb7008
+    Machine   = MCT163S08
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

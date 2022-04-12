@@ -1,0 +1,36 @@
+skill load "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2" 
+skill LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/SOT-323-3_2P2X1P35_ONS-L.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist SOT-323-3_2P2X1P35_ONS.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/SOT-323-3_2P2X1P35_ONS-M.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist SOT-323-3_2P2X1P35_ONS.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/SOT-323-3_2P2X1P35_ONS.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist SOT-323-3_2P2X1P35_ONS.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

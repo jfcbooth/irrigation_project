@@ -1,0 +1,36 @@
+\t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Apr 12 16:45:02 2022
+\t (00:00:01)         Host=MCT163S08 User=jb7008 Pid=10948 CPUs=16
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\irrigation_project\schematic\pcb_footprints\ul_0603YC683KAT2A\AllegroV17_2\0603_AVX.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 0603_AVX
+\d (00:00:04) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_0603YC683KAT2A/AllegroV17_2/0603_AVX.dra
+\i (00:00:04) trapsize 910
+\i (00:00:04) trapsize 952
+\i (00:00:04) trapsize 910
+\i (00:00:04) trapsize 910
+\i (00:00:13) step pkg map 
+\i (00:00:17) setwindow form.pkgmap3d
+\i (00:00:17) FORM pkgmap3d done  
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -9.739 26.994
+\i (00:00:18) trapsize 455
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -9.648 27.086
+\i (00:00:18) trapsize 228
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out -9.648 27.086
+\i (00:00:19) trapsize 455
+\i (00:00:19) save 
+\i (00:00:22) fillin no 
+\i (00:00:25) fillin "menu_cancel"
+\i (00:00:25) exit 
+\e (00:00:25) Do you want to save the changes you made to 0603_AVX.dra?
+\i (00:00:26) fillin no 
+\t (00:00:27)     Journal end - Tue Apr 12 16:45:27 2022

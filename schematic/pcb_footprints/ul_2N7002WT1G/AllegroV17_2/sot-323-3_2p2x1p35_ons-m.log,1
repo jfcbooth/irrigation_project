@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOT-323-3_2P2X1P35_ONS-M.dra                  )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Fri Apr 08 11:37:54 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2
+    Name      = sot-323-3_2p2x1p35_ons-m.psm
+    User      = jb7008
+    Machine   = MCT163S08
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

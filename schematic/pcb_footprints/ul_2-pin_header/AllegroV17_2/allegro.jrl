@@ -1,0 +1,56 @@
+\t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Apr 08 11:59:37 2022
+\t (00:00:01)         Host=MCT163S08 User=jb7008 Pid=16656 CPUs=16
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 29310
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2-pin_header/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2-pin_header/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2-pin_header/AllegroV17_2/CONN_5-146280-2_TYCO.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 1304
+\i (00:00:05) trapsize 1364
+\i (00:00:05) trapsize 1385
+\i (00:00:05) trapsize 1638
+\i (00:00:05) trapsize 1537
+\i (00:00:05) trapsize 1537
+\i (00:00:05) trapsize 153707
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (16 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "CONN_5-146280-2_TYCO.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 130435
+\i (00:00:06) trapsize 136364
+\i (00:00:06) trapsize 130435
+\i (00:00:06) trapsize 163776
+\i (00:00:06) trapsize 163776
+\i (00:00:06) trapsize 153707
+\i (00:00:06) trapsize 38400
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2-pin_header/AllegroV17_2/conn_5-146280-2_tyco.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:06) Symbol Created
+\i (00:00:06) trapsize 3092
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 3092
+\i (00:00:06) trapsize 3233
+\i (00:00:06) trapsize 3092
+\i (00:00:06) trapsize 3295
+\d (00:00:06) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2-pin_header/AllegroV17_2/CONN_5-146280-2_TYCO.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Fri Apr 08 11:59:42 2022

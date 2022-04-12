@@ -1,0 +1,35 @@
+\t (00:00:20) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:20)     Journal start - Tue Apr 12 16:50:53 2022
+\t (00:00:20)         Host=MCT163S08 User=jb7008 Pid=9372 CPUs=16
+\t (00:00:20) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession jb7008 D:\IRRIGATION_PROJECT\SCHEMATIC\allegro\IRRIGATION_PROJECT.brd
+\t (00:00:20) 
+   (00:00:20) Loading axlcore.cxt 
+\t (00:00:20) Opening existing design...
+\i (00:00:20) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged IRRIGATION_PROJECT
+\d (00:00:20) Design opened: D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd
+\i (00:00:21) trapsize 13043
+\i (00:00:21) trapsize 13636
+\i (00:00:21) trapsize 13852
+\i (00:00:21) trapsize 16378
+\i (00:00:21) trapsize 15371
+\i (00:00:21) placementedit 
+\i (00:00:23) setwindow form.mini
+\i (00:00:23) FORM mini tree  CLK2 'Components by refdes' 
+\i (00:00:24) FORM mini tree 'MULTISEL YES' CLK2 'Components by refdes' 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) place manual 
+\e (00:00:24) Cannot load symbol 'XTAL_HC49SM-8-30-50-60-16-AT00'
+\i (00:00:25) pick grid 16477.40 9160.94
+\t (00:00:25) last pick:  16500.00 9200.00
+\i (00:00:25) placementedit 
+\i (00:00:28) trapsize 9629
+\i (00:00:31) setwindow form.mini
+\i (00:00:31) FORM mini tree 'MULTISEL YES' DHT1 'Components by refdes' 
+\i (00:00:31) FORM mini tree  DHT1 'Components by refdes' 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) place manual 
+\e (00:00:31) Cannot load symbol 'CON4_1X4_P100UM_HDR2_TYC'
+\i (00:00:34) exit 
+\e (00:00:34) Do you want to save the changes you made to IRRIGATION_PROJECT.brd?
+\i (00:00:35) fillin no 
+\t (00:00:35)     Journal end - Tue Apr 12 16:51:08 2022

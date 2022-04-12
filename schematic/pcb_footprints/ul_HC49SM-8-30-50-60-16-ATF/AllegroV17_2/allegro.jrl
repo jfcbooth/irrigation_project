@@ -1,0 +1,160 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Apr 08 12:11:13 2022
+\t (00:00:02)         Host=MCT163S08 User=jb7008 Pid=10532 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 29310
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/XTAL_HC49SM-8-30-50-60-16-AT00.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 1304
+\i (00:00:05) trapsize 1364
+\i (00:00:06) trapsize 1385
+\i (00:00:06) trapsize 1638
+\i (00:00:06) trapsize 1537
+\i (00:00:06) trapsize 1537
+\i (00:00:06) trapsize 153707
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (16 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Opening Design "XTAL_HC49SM-8-30-50-60-16-AT00.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 130435
+\i (00:00:06) trapsize 136364
+\i (00:00:06) trapsize 130435
+\i (00:00:06) trapsize 163776
+\i (00:00:06) trapsize 163776
+\i (00:00:06) trapsize 153707
+\i (00:00:06) trapsize 37446
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/xtal_hc49sm-8-30-50-60-16-at00.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 4062
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 4062
+\i (00:00:07) trapsize 4247
+\i (00:00:07) trapsize 4062
+\i (00:00:07) trapsize 4328
+\d (00:00:07) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/XTAL_HC49SM-8-30-50-60-16-AT00.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) scriptmode +i +n 
+\i (00:00:07) step pkg map 
+\i (00:00:07) setwindow form.pkgmap3d 
+\i (00:00:07) FORM pkgmap3d stplist XTAL_HC49SM-8-30-50-60-16-AT00.step 
+\i (00:00:07) FORM pkgmap3d rotation_x 0 
+\i (00:00:07) FORM pkgmap3d save_current 
+\i (00:00:07) FORM pkgmap3d done 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) save 
+\i (00:00:07) fillin yes 
+\t (00:00:08) Symbol 'xtal_hc49sm-8-30-50-60-16-at00.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/XTAL_HC49SM-8-30-50-60-16-AT01.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 26767
+\i (00:00:08) trapsize 27984
+\i (00:00:08) trapsize 26767
+\i (00:00:08) trapsize 39899
+\i (00:00:08) trapsize 39899
+\i (00:00:08) trapsize 37446
+\t (00:00:08) Opening Design "XTAL_HC49SM-8-30-50-60-16-AT01.dra"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 26767
+\i (00:00:08) trapsize 27984
+\i (00:00:08) trapsize 26767
+\i (00:00:08) trapsize 39899
+\i (00:00:08) trapsize 39899
+\i (00:00:09) trapsize 37446
+\i (00:00:09) trapsize 37156
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/xtal_hc49sm-8-30-50-60-16-at01.psm'.
+\t (00:00:09) Starting Create symbol...
+\t (00:00:09) Symbol Created
+\i (00:00:09) trapsize 3820
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 3820
+\i (00:00:09) trapsize 3994
+\i (00:00:09) trapsize 3820
+\i (00:00:09) trapsize 4070
+\d (00:00:09) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/XTAL_HC49SM-8-30-50-60-16-AT01.dra
+\t (00:00:09) Symbol Saved
+   (00:00:09) t
+\i (00:00:09) scriptmode +i +n 
+\i (00:00:09) step pkg map 
+\i (00:00:10) setwindow form.pkgmap3d 
+\i (00:00:10) FORM pkgmap3d stplist XTAL_HC49SM-8-30-50-60-16-AT01.step 
+\i (00:00:10) FORM pkgmap3d rotation_x 0 
+\i (00:00:10) FORM pkgmap3d save_current 
+\i (00:00:10) FORM pkgmap3d done 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) save 
+\i (00:00:10) fillin yes 
+\t (00:00:10) Symbol 'xtal_hc49sm-8-30-50-60-16-at01.psm' created.
+\i (00:00:10) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/XTAL_HC49SM-8-30-50-60-16-ATF_.xml" ' 
+\t (00:00:10) Reading Footprint XML
+\t (00:00:10) Creating padstacks
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 26668
+\i (00:00:10) trapsize 27880
+\i (00:00:10) trapsize 26668
+\i (00:00:10) trapsize 39591
+\i (00:00:10) trapsize 39591
+\i (00:00:10) trapsize 37156
+\t (00:00:11) Opening Design "XTAL_HC49SM-8-30-50-60-16-ATF_.dra"
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 26668
+\i (00:00:11) trapsize 27880
+\i (00:00:11) trapsize 26668
+\i (00:00:11) trapsize 39591
+\i (00:00:11) trapsize 39591
+\i (00:00:11) trapsize 37156
+\i (00:00:11) trapsize 37283
+\t (00:00:11) Creating TextBlocks
+\t (00:00:11) Creating Shapes on Package layers
+\e (00:00:11) ERROR(SPMHDB-69): Incomplete arc segment data.
+\t (00:00:11) Creating Pins
+\t (00:00:11) Creating Vias
+\t (00:00:11) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/xtal_hc49sm-8-30-50-60-16-atf_.psm'.
+\t (00:00:11) Starting Create symbol...
+\t (00:00:11) Symbol Created
+\i (00:00:11) trapsize 3839
+\t (00:00:11) Opening existing design...
+\i (00:00:11) trapsize 3839
+\i (00:00:12) trapsize 4013
+\i (00:00:12) trapsize 3839
+\i (00:00:12) trapsize 4090
+\d (00:00:12) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_HC49SM-8-30-50-60-16-ATF/AllegroV17_2/XTAL_HC49SM-8-30-50-60-16-ATF_.dra
+\t (00:00:12) Symbol Saved
+   (00:00:12) t
+\i (00:00:12) scriptmode +i +n 
+\i (00:00:12) step pkg map 
+\i (00:00:12) setwindow form.pkgmap3d 
+\i (00:00:12) FORM pkgmap3d stplist XTAL_HC49SM-8-30-50-60-16-ATF_.step 
+\i (00:00:12) FORM pkgmap3d rotation_x 0 
+\i (00:00:12) FORM pkgmap3d save_current 
+\i (00:00:12) FORM pkgmap3d done 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) save 
+\i (00:00:12) fillin yes 
+\t (00:00:13) Symbol 'xtal_hc49sm-8-30-50-60-16-atf_.psm' created.
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Fri Apr 08 12:11:25 2022

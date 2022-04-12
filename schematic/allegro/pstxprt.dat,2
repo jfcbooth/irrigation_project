@@ -1,0 +1,140 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Apr-12-2022 at 16:50:30 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='IRRIGATION_PROJECT';
+ POST_TIME='Jun 13 2018 09:15:00';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C2 'C_0603_AVX_22PF':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS1367@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins1367@analog.\c.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins1367@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_0603_AVX_22PF':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS1274@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins1274@analog.\c.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins1274@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CLK2 'CLOCK_XTAL_HC49SM-8-30-50-60-16':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS778@LIBRARY1.CLOCK.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins778@library1.\clock.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins778@library1.\clock.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'MBR7545_0805_PAN_PWR_LED':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS17118@DIODE.MBR7545.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins17118@diode.\mbr7545.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins17118@diode.\mbr7545.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DHT1 'DHT20_CON4_1X4_P100UM_HDR2_TYC_':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS440@LIBRARY1.DHT20.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins440@library1.\dht20.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins440@library1.\dht20.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 '2-PIN_HEADER_CONN_5-146280-2_TY':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS11405@LIBRARY1.2-PIN_HEADER.NORMAL(SCH_1)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins11405@library1.\2-pin_header.normal\(sch_1)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins11405@library1.\2-pin_header.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 '2-PIN_HEADER_CONN_5-146280-2__1':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS11576@LIBRARY1.2-PIN_HEADER.NORMAL(SCH_1)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins11576@library1.\2-pin_header.normal\(sch_1)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins11576@library1.\2-pin_header.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MS1 'MOISTURE SENSOR_22-28-4033_MOL_':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS369@LIBRARY1.MOISTURE SENSOR.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins369@library1.\moisture sensor.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins369@library1.\moisture sensor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_0805_PAN_1K':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS17014@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins17014@analog.\r.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins17014@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SD1 'SD_CARD_87224-8_TYC_SD_CARD':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS5577@LIBRARY1.SD_CARD.NORMAL(SCH_1)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins5577@library1.\sd_card.normal\(sch_1)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins5577@library1.\sd_card.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'ATMEGA328-PU_28P3_SPDIP28_SP_MC':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS7665@LIBRARY1.ATMEGA328-PU.NORMAL(SCH_1)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins7665@library1.\atmega328-pu.normal\(sch_1)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins7665@library1.\atmega328-pu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LVR_DPAK-3_ONS_LVR':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS11789@LIBRARY1.LVR.NORMAL(SCH_1)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins11789@library1.\lvr.normal\(sch_1)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins11789@library1.\lvr.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'HC-05_CON5_1X5_P100RM_SHDR_TYC_':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS13212@LIBRARY2.HC-05.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins13212@library2.\hc-05.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins13212@library2.\hc-05.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

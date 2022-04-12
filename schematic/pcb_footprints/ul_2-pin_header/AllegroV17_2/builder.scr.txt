@@ -1,0 +1,4 @@
+skill load "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2-pin_header/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2-pin_header/AllegroV17_2" 
+skill LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2-pin_header/AllegroV17_2/CONN_5-146280-2_TYCO.xml" 
+exit 

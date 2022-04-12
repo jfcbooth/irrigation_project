@@ -1,0 +1,175 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd              |
+|                                                    Tue Apr 12 16:53:28 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this new net
+                                 C2.2           C3.2           D1.1           
+                                 J1.2           SD1.2          U1.1           
+                                 U1.2           U1.3           U1.4           
+                                 U1.5           U1.6           U1.8           
+                                 U1.11          U1.22          U2.2           
+                                 U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01051       pins ADDED TO this new net
+                                 C2.1           CLK2.1         U1.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01195       pins ADDED TO this new net
+                                 C3.1           CLK2.2         U1.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01500       pins ADDED TO this new net
+                                 DHT1.1         J2.1           MS1.1          
+                                 SD1.1          U1.7           U1.20          
+                                 U2.3           U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01650       pins ADDED TO this new net
+                                 J2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01814       pins ADDED TO this new net
+                                 U1.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01851       pins ADDED TO this new net
+                                 MS1.3          U1.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01863       pins ADDED TO this new net
+                                 MS1.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02303       pins ADDED TO this new net
+                                 DHT1.4         U1.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04464       pins ADDED TO this new net
+                                 DHT1.3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05229       pins ADDED TO this new net
+                                 DHT1.2         U1.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05314       pins ADDED TO this new net
+                                 U1.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06031       pins ADDED TO this new net
+                                 SD1.6          U1.19          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd              |
+|                                                    Tue Apr 12 16:53:28 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N06062       pins ADDED TO this new net
+                                 SD1.3          U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06074       pins ADDED TO this new net
+                                 SD1.4          U1.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06089       pins ADDED TO this new net
+                                 SD1.5          U1.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06123       pins ADDED TO this new net
+                                 SD1.7          U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06895       pins ADDED TO this new net
+                                 R1.2           U1.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12390       pins ADDED TO this new net
+                                 J1.1           U2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13515       pins ADDED TO this new net
+                                 U1.12          U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13530       pins ADDED TO this new net
+                                 U1.13          U3.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13542       pins ADDED TO this new net
+                                 U1.14          U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N170241      pins ADDED TO this new net
+                                 D1.2           R1.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd              |
+|                                                    Tue Apr 12 16:53:28 2022  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 2-PIN_HEADER_CONN_5-146280-2_TY
+ 2-PIN_HEADER_CONN_5-146280-2__1
+ ATMEGA328-PU_28P3_SPDIP28_SP_MC
+ CLOCK_XTAL_HC49SM-8-30-50-60-16
+ C_0603_AVX_22PF
+ DHT20_CON4_1X4_P100UM_HDR2_TYC_
+ HC-05_CON5_1X5_P100RM_SHDR_TYC_
+ LVR_DPAK-3_ONS_LVR
+ MBR7545_0805_PAN_PWR_LED
+ MOISTURE SENSOR_22-28-4033_MOL_
+ R_0805_PAN_1K
+ SD_CARD_87224-8_TYC_SD_CARD
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd              |
+|                                                    Tue Apr 12 16:53:28 2022  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C2                  C_0603_AVX_22PF       
+ C3                  C_0603_AVX_22PF       
+ CLK2                CLOCK_XTAL_HC49SM-8-30-50-60-16 
+ D1                  MBR7545_0805_PAN_PWR_LED 
+ DHT1                DHT20_CON4_1X4_P100UM_HDR2_TYC_ 
+ J1                  2-PIN_HEADER_CONN_5-146280-2_TY 
+ J2                  2-PIN_HEADER_CONN_5-146280-2__1 
+ MS1                 MOISTURE SENSOR_22-28-4033_MOL_ 
+ R1                  R_0805_PAN_1K         
+ SD1                 SD_CARD_87224-8_TYC_SD_CARD 
+ U1                  ATMEGA328-PU_28P3_SPDIP28_SP_MC 
+ U2                  LVR_DPAK-3_ONS_LVR    
+ U3                  HC-05_CON5_1X5_P100RM_SHDR_TYC_ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd              |
+|                                                    Tue Apr 12 16:53:28 2022  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ CLK2.2                         PRIM_FILE      .\pstchip.dat
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ DHT1.1                         PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ MS1.1                          PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ SD1.2                          PRIM_FILE      .\pstchip.dat
+ U1.7                           PRIM_FILE      .\pstchip.dat
+ U2.3                           PRIM_FILE      .\pstchip.dat
+ U3.1                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      63                                        |
+|       Comp definitions added:      12                                        |
+|       Components added      :      13                                        |
+|       Slot property added   :      13                                        |
+|                                                                              |
+|   Total ECO changes reported:     101                                        |
+|------------------------------------------------------------------------------|

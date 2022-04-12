@@ -1,0 +1,14 @@
+skill load "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_3-pin_header/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_3-pin_header/AllegroV17_2" 
+skill LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_3-pin_header/AllegroV17_2/22-28-4033_MOL.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist 22-28-4033_MOL.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

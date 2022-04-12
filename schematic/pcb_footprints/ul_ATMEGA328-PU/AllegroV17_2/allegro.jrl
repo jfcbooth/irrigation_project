@@ -1,0 +1,74 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Apr 07 18:44:29 2022
+\t (00:00:02)         Host=MCT163S08 User=jb7008 Pid=6060 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 29310
+\i (00:00:06) replay builder.scr.txt 
+\i (00:00:06) skill 'load "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_ATMEGA328-PU/AllegroV17_2/builder.ile" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'changeWorkingDir "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_ATMEGA328-PU/AllegroV17_2" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_ATMEGA328-PU/AllegroV17_2/28P3_SPDIP28_SP_MCH.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 817
+\i (00:00:06) trapsize 840
+\i (00:00:06) trapsize 848
+\i (00:00:06) trapsize 1168
+\i (00:00:06) trapsize 1115
+\i (00:00:06) trapsize 1115
+\i (00:00:06) trapsize 111549
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (16 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 81712
+\i (00:00:06) trapsize 84000
+\i (00:00:06) trapsize 84814
+\i (00:00:06) trapsize 116758
+\i (00:00:07) trapsize 111549
+\i (00:00:07) trapsize 111549
+\t (00:00:07) Opening Design "28P3_SPDIP28_SP_MCH.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 81712
+\i (00:00:07) trapsize 84000
+\i (00:00:07) trapsize 81712
+\i (00:00:07) trapsize 116758
+\i (00:00:07) trapsize 116758
+\i (00:00:07) trapsize 111549
+\i (00:00:07) trapsize 32454
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_ATMEGA328-PU/AllegroV17_2/28p3_spdip28_sp_mch.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:08) Symbol Created
+\i (00:00:08) trapsize 9488
+   (00:00:08) Loading cmds.cxt 
+   (00:00:08) Loading skillExt.cxt 
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 9488
+\i (00:00:08) trapsize 9754
+\i (00:00:08) trapsize 9488
+\i (00:00:08) trapsize 9931
+\d (00:00:08) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_ATMEGA328-PU/AllegroV17_2/28P3_SPDIP28_SP_MCH.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) scriptmode +i +n 
+\i (00:00:08) step pkg map 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist 28P3_SPDIP28_SP_MCH.step 
+\i (00:00:09) FORM pkgmap3d rotation_x 0 
+\i (00:00:09) FORM pkgmap3d save_current 
+\i (00:00:09) FORM pkgmap3d done 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) save 
+\i (00:00:09) fillin yes 
+\t (00:00:10) Symbol '28p3_spdip28_sp_mch.psm' created.
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Thu Apr 07 18:44:37 2022

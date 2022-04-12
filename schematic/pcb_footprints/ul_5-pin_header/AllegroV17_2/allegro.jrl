@@ -1,0 +1,56 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Apr 12 16:26:21 2022
+\t (00:00:02)         Host=MCT163S08 User=jb7008 Pid=14960 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 29310
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "D:/irrigation_project/schematic/pcb_footprints/ul_826468-5/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "D:/irrigation_project/schematic/pcb_footprints/ul_826468-5/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_826468-5/AllegroV17_2/CON5_1X5_P100RM_SHDR_TYC.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 1304
+\i (00:00:04) trapsize 1364
+\i (00:00:04) trapsize 1385
+\i (00:00:04) trapsize 1638
+\i (00:00:04) trapsize 1537
+\i (00:00:04) trapsize 1537
+\i (00:00:04) trapsize 153707
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (16 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "CON5_1X5_P100RM_SHDR_TYC.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 130435
+\i (00:00:04) trapsize 136364
+\i (00:00:04) trapsize 130435
+\i (00:00:04) trapsize 163776
+\i (00:00:04) trapsize 163776
+\i (00:00:04) trapsize 153707
+\i (00:00:05) trapsize 42206
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'D:/irrigation_project/schematic/pcb_footprints/ul_826468-5/AllegroV17_2/con5_1x5_p100rm_shdr_tyc.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:05) Symbol Created
+\i (00:00:05) trapsize 5823
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 5823
+\i (00:00:05) trapsize 6087
+\i (00:00:05) trapsize 5823
+\i (00:00:05) trapsize 6204
+\d (00:00:05) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_826468-5/AllegroV17_2/CON5_1X5_P100RM_SHDR_TYC.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) exit 
+\t (00:00:06)     Journal end - Tue Apr 12 16:26:25 2022

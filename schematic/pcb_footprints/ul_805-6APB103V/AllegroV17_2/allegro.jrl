@@ -1,0 +1,159 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Apr 08 11:45:12 2022
+\t (00:00:02)         Host=MCT163S08 User=jb7008 Pid=2216 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 29310
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_805-6APB103V/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_805-6APB103V/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_805-6APB103V/AllegroV17_2/0805_PAN-L.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 817
+\i (00:00:05) trapsize 840
+\i (00:00:05) trapsize 848
+\i (00:00:05) trapsize 1168
+\i (00:00:06) trapsize 1115
+\i (00:00:06) trapsize 1115
+\i (00:00:06) trapsize 111549
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (16 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Opening Design "0805_PAN-L.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 81712
+\i (00:00:06) trapsize 84000
+\i (00:00:06) trapsize 81712
+\i (00:00:06) trapsize 116758
+\i (00:00:06) trapsize 116758
+\i (00:00:06) trapsize 111549
+\i (00:00:06) trapsize 26680
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_805-6APB103V/AllegroV17_2/0805_pan-l.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 545
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 545
+\i (00:00:07) trapsize 560
+\i (00:00:07) trapsize 545
+\i (00:00:07) trapsize 570
+\d (00:00:07) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_805-6APB103V/AllegroV17_2/0805_PAN-L.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) scriptmode +i +n 
+\i (00:00:07) step pkg map 
+\i (00:00:07) setwindow form.pkgmap3d 
+\i (00:00:07) FORM pkgmap3d stplist 0805_PAN.step 
+\i (00:00:07) FORM pkgmap3d rotation_x 0 
+\i (00:00:07) FORM pkgmap3d save_current 
+\i (00:00:07) FORM pkgmap3d done 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) save 
+\i (00:00:07) fillin yes 
+\t (00:00:08) Symbol '0805_pan-l.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_805-6APB103V/AllegroV17_2/0805_PAN-M.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 15374
+\i (00:00:08) trapsize 15804
+\i (00:00:08) trapsize 15374
+\i (00:00:08) trapsize 27926
+\i (00:00:08) trapsize 27926
+\i (00:00:08) trapsize 26680
+\t (00:00:08) Opening Design "0805_PAN-M.dra"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 15374
+\i (00:00:08) trapsize 15804
+\i (00:00:09) trapsize 15374
+\i (00:00:09) trapsize 27926
+\i (00:00:09) trapsize 27926
+\i (00:00:09) trapsize 26680
+\i (00:00:09) trapsize 26903
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_805-6APB103V/AllegroV17_2/0805_pan-m.psm'.
+\t (00:00:09) Starting Create symbol...
+\t (00:00:09) Symbol Created
+\i (00:00:09) trapsize 665
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 665
+\i (00:00:09) trapsize 684
+\i (00:00:09) trapsize 665
+\i (00:00:09) trapsize 696
+\d (00:00:09) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_805-6APB103V/AllegroV17_2/0805_PAN-M.dra
+\t (00:00:10) Symbol Saved
+   (00:00:10) t
+\i (00:00:10) scriptmode +i +n 
+\i (00:00:10) step pkg map 
+\i (00:00:10) setwindow form.pkgmap3d 
+\i (00:00:10) FORM pkgmap3d stplist 0805_PAN.step 
+\i (00:00:10) FORM pkgmap3d rotation_x 0 
+\i (00:00:10) FORM pkgmap3d save_current 
+\i (00:00:10) FORM pkgmap3d done 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) save 
+\i (00:00:10) fillin yes 
+\t (00:00:10) Symbol '0805_pan-m.psm' created.
+\i (00:00:10) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_805-6APB103V/AllegroV17_2/0805_PAN.xml" ' 
+\t (00:00:10) Reading Footprint XML
+\t (00:00:10) Creating padstacks
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 15374
+\i (00:00:10) trapsize 15804
+\i (00:00:10) trapsize 15374
+\i (00:00:10) trapsize 28159
+\i (00:00:10) trapsize 28159
+\i (00:00:11) trapsize 26903
+\t (00:00:11) Opening Design "0805_PAN.dra"
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 15374
+\i (00:00:11) trapsize 15804
+\i (00:00:11) trapsize 15374
+\i (00:00:11) trapsize 28159
+\i (00:00:11) trapsize 28159
+\i (00:00:11) trapsize 26903
+\i (00:00:11) trapsize 26778
+\t (00:00:11) Creating TextBlocks
+\t (00:00:11) Creating Shapes on Package layers
+\t (00:00:11) Creating Pins
+\t (00:00:11) Creating Vias
+\t (00:00:11) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_805-6APB103V/AllegroV17_2/0805_pan.psm'.
+\t (00:00:11) Starting Create symbol...
+\t (00:00:11) Symbol Created
+\i (00:00:11) trapsize 564
+\t (00:00:12) Opening existing design...
+\i (00:00:12) trapsize 564
+\i (00:00:12) trapsize 580
+\i (00:00:12) trapsize 564
+\i (00:00:12) trapsize 591
+\d (00:00:12) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_805-6APB103V/AllegroV17_2/0805_PAN.dra
+\t (00:00:12) Symbol Saved
+   (00:00:12) t
+\i (00:00:12) scriptmode +i +n 
+\i (00:00:12) step pkg map 
+\i (00:00:12) setwindow form.pkgmap3d 
+\i (00:00:12) FORM pkgmap3d stplist 0805_PAN.step 
+\i (00:00:12) FORM pkgmap3d rotation_x 0 
+\i (00:00:12) FORM pkgmap3d save_current 
+\i (00:00:12) FORM pkgmap3d done 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) save 
+\i (00:00:12) fillin yes 
+\t (00:00:13) Symbol '0805_pan.psm' created.
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Fri Apr 08 11:45:23 2022

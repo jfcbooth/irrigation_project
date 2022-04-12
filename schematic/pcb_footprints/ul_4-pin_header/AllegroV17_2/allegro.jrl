@@ -1,0 +1,74 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Apr 08 12:05:40 2022
+\t (00:00:02)         Host=MCT163S08 User=jb7008 Pid=7972 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 29310
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_4-pin_header/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_4-pin_header/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_4-pin_header/AllegroV17_2/CON4_1X4_P100UM_HDR2_TYC.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 1304
+\i (00:00:05) trapsize 1364
+\i (00:00:05) trapsize 1385
+\i (00:00:05) trapsize 1638
+\i (00:00:05) trapsize 1537
+\i (00:00:05) trapsize 1537
+\i (00:00:06) trapsize 153707
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (16 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 130435
+\i (00:00:06) trapsize 136364
+\i (00:00:06) trapsize 138522
+\i (00:00:06) trapsize 163776
+\i (00:00:06) trapsize 153707
+\i (00:00:06) trapsize 153707
+\t (00:00:06) Opening Design "CON4_1X4_P100UM_HDR2_TYC.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 130435
+\i (00:00:06) trapsize 136364
+\i (00:00:06) trapsize 130435
+\i (00:00:06) trapsize 163776
+\i (00:00:06) trapsize 163776
+\i (00:00:06) trapsize 153707
+\i (00:00:07) trapsize 34358
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_4-pin_header/AllegroV17_2/con4_1x4_p100um_hdr2_tyc.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 3261
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 3261
+\i (00:00:07) trapsize 3409
+\i (00:00:07) trapsize 3261
+\i (00:00:07) trapsize 3474
+\d (00:00:07) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_4-pin_header/AllegroV17_2/CON4_1X4_P100UM_HDR2_TYC.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) scriptmode +i +n 
+\i (00:00:07) step pkg map 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist CON4_1X4_P100UM_HDR2_TYC.step 
+\i (00:00:08) FORM pkgmap3d rotation_x 0 
+\i (00:00:08) FORM pkgmap3d save_current 
+\i (00:00:08) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'con4_1x4_p100um_hdr2_tyc.psm' created.
+\i (00:00:08) exit 
+\t (00:00:09)     Journal end - Fri Apr 08 12:05:47 2022

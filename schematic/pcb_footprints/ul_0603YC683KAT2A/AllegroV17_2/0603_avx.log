@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 0603_AVX.dra                                  )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Fri Apr 08 11:34:20 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_0603YC683KAT2A/AllegroV17_2
+    Name      = 0603_avx.psm
+    User      = jb7008
+    Machine   = MCT163S08
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

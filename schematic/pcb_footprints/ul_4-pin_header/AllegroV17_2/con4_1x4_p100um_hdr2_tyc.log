@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CON4_1X4_P100UM_HDR2_TYC.dra                  )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Fri Apr 08 12:05:47 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_4-pin_header/AllegroV17_2
+    Name      = con4_1x4_p100um_hdr2_tyc.psm
+    User      = jb7008
+    Machine   = MCT163S08
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

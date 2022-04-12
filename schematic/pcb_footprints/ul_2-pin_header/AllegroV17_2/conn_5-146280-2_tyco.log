@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CONN_5-146280-2_TYCO.dra                      )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Fri Apr 08 11:59:42 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2-pin_header/AllegroV17_2
+    Name      = conn_5-146280-2_tyco.psm
+    User      = jb7008
+    Machine   = MCT163S08
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

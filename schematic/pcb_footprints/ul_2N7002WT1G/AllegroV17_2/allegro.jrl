@@ -1,0 +1,180 @@
+\t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Apr 08 11:37:45 2022
+\t (00:00:01)         Host=MCT163S08 User=jb7008 Pid=4676 CPUs=16
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 29310
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/SOT-323-3_2P2X1P35_ONS-L.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 817
+\i (00:00:05) trapsize 840
+\i (00:00:05) trapsize 848
+\i (00:00:05) trapsize 1168
+\i (00:00:05) trapsize 1115
+\i (00:00:05) trapsize 1115
+\i (00:00:05) trapsize 111549
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (16 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 81712
+\i (00:00:06) trapsize 84000
+\i (00:00:06) trapsize 84814
+\i (00:00:06) trapsize 116758
+\i (00:00:06) trapsize 111549
+\i (00:00:06) trapsize 111549
+\t (00:00:06) Opening Design "SOT-323-3_2P2X1P35_ONS-L.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 81712
+\i (00:00:06) trapsize 84000
+\i (00:00:06) trapsize 81712
+\i (00:00:06) trapsize 116758
+\i (00:00:06) trapsize 116758
+\i (00:00:06) trapsize 111549
+\i (00:00:06) trapsize 27448
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+\t (00:00:06) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/sot-323-3_2p2x1p35_ons-l.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 1063
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 1063
+\i (00:00:07) trapsize 1093
+\i (00:00:07) trapsize 1063
+\i (00:00:07) trapsize 1113
+\d (00:00:07) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/SOT-323-3_2P2X1P35_ONS-L.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) scriptmode +i +n 
+\i (00:00:07) step pkg map 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist SOT-323-3_2P2X1P35_ONS.step 
+\i (00:00:08) FORM pkgmap3d rotation_x 0 
+\i (00:00:08) FORM pkgmap3d save_current 
+\i (00:00:08) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'sot-323-3_2p2x1p35_ons-l.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/SOT-323-3_2P2X1P35_ONS-M.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:09) trapsize 16058
+\i (00:00:09) trapsize 16508
+\i (00:00:09) trapsize 16058
+\i (00:00:09) trapsize 28729
+\i (00:00:09) trapsize 28729
+\i (00:00:09) trapsize 27448
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 16058
+\i (00:00:09) trapsize 16508
+\i (00:00:09) trapsize 16058
+\i (00:00:09) trapsize 28729
+\i (00:00:09) trapsize 28729
+\i (00:00:09) trapsize 27448
+\t (00:00:09) Opening Design "SOT-323-3_2P2X1P35_ONS-M.dra"
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 16058
+\i (00:00:09) trapsize 16508
+\i (00:00:09) trapsize 16058
+\i (00:00:09) trapsize 28729
+\i (00:00:09) trapsize 28729
+\i (00:00:09) trapsize 27448
+\i (00:00:10) trapsize 27552
+\t (00:00:10) Creating TextBlocks
+\t (00:00:10) Creating Shapes on Package layers
+\t (00:00:10) Creating Pins
+\t (00:00:10) Creating Vias
+\t (00:00:10) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/sot-323-3_2p2x1p35_ons-m.psm'.
+\t (00:00:10) Starting Create symbol...
+\t (00:00:10) Symbol Created
+\i (00:00:10) trapsize 1378
+\t (00:00:10) Opening existing design...
+\i (00:00:10) trapsize 1378
+\i (00:00:10) trapsize 1417
+\i (00:00:10) trapsize 1378
+\i (00:00:10) trapsize 1442
+\d (00:00:10) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/SOT-323-3_2P2X1P35_ONS-M.dra
+\t (00:00:11) Symbol Saved
+   (00:00:11) t
+\i (00:00:11) scriptmode +i +n 
+\i (00:00:11) step pkg map 
+\i (00:00:11) setwindow form.pkgmap3d 
+\i (00:00:11) FORM pkgmap3d stplist SOT-323-3_2P2X1P35_ONS.step 
+\i (00:00:11) FORM pkgmap3d rotation_x 0 
+\i (00:00:11) FORM pkgmap3d save_current 
+\i (00:00:11) FORM pkgmap3d done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) save 
+\i (00:00:11) fillin yes 
+\t (00:00:11) Symbol 'sot-323-3_2p2x1p35_ons-m.psm' created.
+\i (00:00:11) skill 'LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/SOT-323-3_2P2X1P35_ONS.xml" ' 
+\t (00:00:11) Reading Footprint XML
+\t (00:00:11) Creating padstacks
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 16058
+\i (00:00:11) trapsize 16508
+\i (00:00:11) trapsize 16058
+\i (00:00:11) trapsize 28839
+\i (00:00:11) trapsize 28839
+\i (00:00:11) trapsize 27552
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 16058
+\i (00:00:12) trapsize 16508
+\i (00:00:12) trapsize 16058
+\i (00:00:12) trapsize 28839
+\i (00:00:12) trapsize 28839
+\i (00:00:12) trapsize 27552
+\t (00:00:12) Opening Design "SOT-323-3_2P2X1P35_ONS.dra"
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 16058
+\i (00:00:12) trapsize 16508
+\i (00:00:12) trapsize 16058
+\i (00:00:12) trapsize 28839
+\i (00:00:12) trapsize 28839
+\i (00:00:12) trapsize 27552
+\i (00:00:12) trapsize 27500
+\t (00:00:12) Creating TextBlocks
+\t (00:00:12) Creating Shapes on Package layers
+\t (00:00:12) Creating Pins
+\t (00:00:12) Creating Vias
+\t (00:00:12) Creating package symbol 'Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/sot-323-3_2p2x1p35_ons.psm'.
+\t (00:00:12) Starting Create symbol...
+\t (00:00:13) Symbol Created
+\i (00:00:13) trapsize 1207
+\t (00:00:13) Opening existing design...
+\i (00:00:13) trapsize 1207
+\i (00:00:13) trapsize 1241
+\i (00:00:13) trapsize 1207
+\i (00:00:13) trapsize 1264
+\d (00:00:13) Design opened: Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_2N7002WT1G/AllegroV17_2/SOT-323-3_2P2X1P35_ONS.dra
+\t (00:00:13) Symbol Saved
+   (00:00:13) t
+\i (00:00:13) scriptmode +i +n 
+\i (00:00:13) step pkg map 
+\i (00:00:13) setwindow form.pkgmap3d 
+\i (00:00:13) FORM pkgmap3d stplist SOT-323-3_2P2X1P35_ONS.step 
+\i (00:00:13) FORM pkgmap3d rotation_x 0 
+\i (00:00:13) FORM pkgmap3d save_current 
+\i (00:00:13) FORM pkgmap3d done 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) save 
+\i (00:00:14) fillin yes 
+\t (00:00:14) Symbol 'sot-323-3_2p2x1p35_ons.psm' created.
+\i (00:00:14) exit 
+\t (00:00:14)     Journal end - Fri Apr 08 11:37:58 2022

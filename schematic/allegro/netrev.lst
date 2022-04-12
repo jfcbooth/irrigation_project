@@ -1,0 +1,139 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : IRRIGATION_PROJECT.brd                        )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Tue Apr 12 16:55:35 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\IRRIGATION_PROJECT\SCHEMATIC\allegro'
+Design Directory:            'D:/IRRIGATION_PROJECT/SCHEMATIC/allegro'
+Old design name:             'D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd'
+New design name:             'D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd'
+
+CmdLine: netrev.exe -y 1 -n -i D:\IRRIGATION_PROJECT\SCHEMATIC\allegro D:\IRRIGATION_PROJECT\SCHEMATIC\allegro\IRRIGATION_PROJECT.brd D:\IRRIGATION_PROJECT\SCHEMATIC\allegro\IRRIGATION_PROJECT.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstchip.dat 
+   Finished reading D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstchip.dat (00:00:00.03)
+Starting to read D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstxprt.dat 
+   Finished reading D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstxnet.dat 
+   Finished reading D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol '0603_AVX' used by RefDes C2 for device 'C_0603_AVX_22PF': WARNING(SPMHUT-127): Could not find padstack RX34Y38D0T. [help]
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'XTAL_HC49SM-8-30-50-60-16-AT00' used by RefDes CLK2 for device 'CLOCK_XTAL_HC49SM-8-30-50-60-16': WARNING(SPMHUT-127): Could not find padstack RX213Y55D0T. [help]
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol '0805_PAN' used by RefDes D1 for device 'MBR7545_0805_PAN_PWR_LED': WARNING(SPMHUT-127): Could not find padstack RX40Y53D0T. [help]
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'CON4_1X4_P100UM_HDR2_TYC' used by RefDes DHT1 for device 'DHT20_CON4_1X4_P100UM_HDR2_TYC_': WARNING(SPMHUT-127): Could not find padstack SX60Y60D40P. [help]
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'CONN_5-146280-2_TYCO' used by RefDes J1 for device '2-PIN_HEADER_CONN_5-146280-2_TY': WARNING(SPMHUT-127): Could not find padstack EX65Y65D45P. [help]
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'CONN_5-146280-2_TYCO' used by RefDes J2 for device '2-PIN_HEADER_CONN_5-146280-2__1': WARNING(SPMHUT-127): Could not find padstack EX65Y65D45P. [help]
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol '22-28-4033_MOL' used by RefDes MS1 for device 'MOISTURE SENSOR_22-28-4033_MOL_': WARNING(SPMHUT-127): Could not find padstack SX60Y60D36P. [help]
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol '0805_PAN' used by RefDes R1 for device 'R_0805_PAN_1K': WARNING(SPMHUT-127): Could not find padstack RX40Y53D0T. [help]
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol '87224-8_TYC' used by RefDes SD1 for device 'SD_CARD_87224-8_TYC_SD_CARD': WARNING(SPMHUT-127): Could not find padstack SX60Y60D35P. [help]
+
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol '28P3_SPDIP28_SP_MCH' used by RefDes U1 for device 'ATMEGA328-PU_28P3_SPDIP28_SP_MC': WARNING(SPMHUT-127): Could not find padstack SX52Y52D32P. [help]
+
+#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'DPAK-3_ONS' used by RefDes U2 for device 'LVR_DPAK-3_ONS_LVR': WARNING(SPMHUT-127): Could not find padstack RX37Y98D0T. [help]
+
+#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'CON5_1X5_P100RM_SHDR_TYC' used by RefDes U3 for device 'HC-05_CON5_1X5_P100RM_SHDR_TYC_': WARNING(SPMHUT-127): Could not find padstack OX60Y60D40P. [help]
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           D:/irrigation_project/schematic/pcb_footprints/DRAFiles 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Apr 12 16:55:35 2022
+   DESIGN NAME : 'IRRIGATION_PROJECT'
+   PACKAGING ON Jun 13 2018 09:15:00
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 12 warnings detected
+
+cpu time      0:00:36
+elapsed time  0:00:00
+

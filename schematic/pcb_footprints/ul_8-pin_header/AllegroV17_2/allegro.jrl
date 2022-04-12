@@ -1,0 +1,19 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Apr 07 18:17:04 2022
+\t (00:00:02)         Host=MCT163S08 User=jb7008 Pid=5280 CPUs=16
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe \\FSERV\home\jb7008\Downloads\ul_87224-8\AllegroV17_2\87224-8_TYC.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 87224-8_TYC
+\d (00:00:05) Design opened: //FSERV/home/jb7008/Downloads/ul_87224-8/AllegroV17_2/87224-8_TYC.dra
+\i (00:00:05) trapsize 3275
+\i (00:00:05) trapsize 3366
+\i (00:00:05) trapsize 3275
+\i (00:00:05) trapsize 3275
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -476.724 93.196
+\i (00:00:12) trapsize 6549
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Thu Apr 07 18:17:15 2022

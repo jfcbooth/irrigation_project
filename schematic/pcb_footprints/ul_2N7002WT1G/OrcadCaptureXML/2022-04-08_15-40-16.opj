@@ -1,0 +1,31 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\2022-04-08_15-40-16.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\2022-04-08_15-40-16.olb")
+      (Select "Design Resources" ".\2022-04-08_15-40-16.olb" "2N7002WT1G"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 420"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1372 0 459"))
+      (Path
+         "\\FSERV\HOME\JB7008\DESKTOP\IRRIGATION_PROJECT\SCHEMATIC\PCB_FOOTPRINTS\UL_2N7002WT1G\ORCADCAPTUREXML\2022-04-08_15-40-16.OLB")
+      (Package "2N7002WT1G")
+      (PartType "1")))
+  (MPSSessionName "jb7008"))

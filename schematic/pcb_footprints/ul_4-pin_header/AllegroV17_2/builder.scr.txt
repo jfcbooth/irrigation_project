@@ -1,0 +1,14 @@
+skill load "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_4-pin_header/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_4-pin_header/AllegroV17_2" 
+skill LB_createFootprint "Y:/jb7008/Desktop/irrigation_project/schematic/pcb_footprints/ul_4-pin_header/AllegroV17_2/CON4_1X4_P100UM_HDR2_TYC.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist CON4_1X4_P100UM_HDR2_TYC.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 
