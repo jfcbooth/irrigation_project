@@ -1,0 +1,44 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : IRRIGATION_PROJECT.brd                        )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Wed Apr 13 18:09:29 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U1 / ATMEGA328-PU_28P3_SPDIP28_SP_MC / 28P3_SPDIP28_SP_MCH at (44.000 3368.000)
+         Placed symbol:  U4 / BQ2057WSNTR_D8_BQ2057W_D_8 / D8 at (534.000 2116.500)
+         Placed symbol:  SD1 / SD_CARD_CON8_1X8_TU_TSW_SD_CARD / CON8_1X8_TU_TSW at (1108.000 2110.000)
+         Placed symbol:  U3 / HC-05_CON5_1X5_P100RM_SHDR_TYC_ / CON5_1X5_P100RM_SHDR_TYC at (1596.000 2048.000)
+         Placed symbol:  DHT1 / DHT20_CON4_1X4_P100UM_HDR2_TYC_ / CON4_1X4_P100UM_HDR2_TYC at (2124.000 2068.000)
+         Placed symbol:  U2 / LVR_DPAK-3_ONS_LVR / DPAK-3_ONS at (2636.500 2319.500)
+         Placed symbol:  MS1 / MOISTURE SENSOR_SAMTEC_TSW-103- / SAMTEC_TSW-103-25-S-S-RA at (3048.843 2496.976)
+         Placed symbol:  D1 / MBR7545_0805_PAN_PWR_LED / 0805_PAN at (75.500 3472.500)
+         Placed symbol:  D2 / LED_DO41_5V,LED,LED / DO41 at (211.000 3481.000)
+         Placed symbol:  J3 / 2-PIN_HEADER_CONN_5-146280-2__1 / CONN_5-146280-2_TYCO at (331.000 3492.000)
+         Placed symbol:  J2 / 2-PIN_HEADER_CONN_5-146280-2_TY / CONN_5-146280-2_TYCO at (543.000 3492.000)
+         Placed symbol:  R1 / R_0805_PAN_1K / 0805_PAN at (770.500 3472.500)
+         Placed symbol:  C4 / C_CAP196_.1U / CAP196 at (956.000 3486.000)
+         Placed symbol:  CLK2 / CLOCK_XTAL_HC49SM-8-30-50-60-16 / XTAL_HC49SM-8-30-50-60-16-AT00 at (1386.000 3550.500)
+         Placed symbol:  R3 / R_AXRC05_1K / AXRC05 at (1743.500 3477.500)
+         Placed symbol:  R5 / R_AXRC05_2K / AXRC05 at (2126.500 3477.500)
+         Placed symbol:  R6 / R_AXRC05_4.6K / AXRC05 at (2509.500 3477.500)
+         Placed symbol:  R7 / R_AXRC05_470 / AXRC05 at (2892.500 3477.500)
+         Placed symbol:  R8 / R_AXRC05_658 / AXRC05 at (45.500 3965.500)
+         Placed symbol:  RTHERM / R_AXRC05_4.7K / AXRC05 at (428.500 3965.500)
+         Placed symbol:  C3 / C_0603_AVX_22PF / 0603_AVX at (832.500 3953.000)
+         Placed symbol:  C2 / C_0603_AVX_22PF / 0603_AVX at (957.500 3953.000)
+         Placed symbol:  R4 / R_AXRC05_15K / AXRC05 at (1061.500 3965.500)
+         Placed symbol:  R2 / R_AXRC05_.2 / AXRC05 at (1444.500 3965.500)
+         Placed symbol:  C1 / C_CAP196_1U / CAP196 at (1900.000 3974.000)
+
+
+Placed 25 of 25 applicable (25 total) symbols.
+
+-----------------------------------------------------------------------
+

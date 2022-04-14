@@ -1,56 +1,65 @@
-\t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Tue Apr 12 17:14:48 2022
-\t (00:00:01)         Host=MCT163S08 User=jb7008 Pid=11516 CPUs=16
-\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\irrigation_project\schematic\pcb_footprints\DRAFiles\87224-8_TYC.dra
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 87224-8_TYC
-\d (00:00:04) Design opened: D:/irrigation_project/schematic/pcb_footprints/DRAFiles/87224-8_TYC.dra
-\i (00:00:04) trapsize 5227
-\i (00:00:04) trapsize 5465
-\i (00:00:04) trapsize 5227
-\i (00:00:05) trapsize 5227
-\i (00:00:09) zoom out 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom out -494.788 374.803
-\i (00:00:09) trapsize 10454
-\i (00:00:09) zoom out 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom out -488.517 368.530
-\i (00:00:09) trapsize 20908
-\i (00:00:09) zoom out 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom out -898.439 309.988
-\i (00:00:09) trapsize 34358
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in -1630.969 617.812
-\i (00:00:09) trapsize 17179
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in -1668.762 631.555
-\i (00:00:09) trapsize 8590
-\i (00:00:10) zoom out 1 
-\i (00:00:10) setwindow pcb
-\i (00:00:10) zoom out -1012.524 392.767
-\i (00:00:10) trapsize 17179
-\i (00:00:11) roam start
-\i (00:00:11) roam x 16
-\i (00:00:11) roam x 32
-\i (00:00:11) roam x 16
-\i (00:00:11) roam x 48
-\i (00:00:11) roam y 16
-\i (00:00:11) roam x 32
-\i (00:00:11) roam x 32
-\i (00:00:11) roam y 16
-\i (00:00:11) roam x 32
-\i (00:00:11) roam x 16
-\i (00:00:12) roam x 16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam x 16
-\i (00:00:12) roam end
-\i (00:00:14) trapsize 10762
-\i (00:00:18) trapsize 17179
-\i (00:00:22) exit 
-\t (00:00:22)     Journal end - Tue Apr 12 17:15:09 2022
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Apr 14 17:40:36 2022
+\t (00:00:02)         Host=MCT163S07 User=jb7008 Pid=7444 CPUs=16
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\irrigation_project\schematic\pcb_footprints\DRAFiles\CON8_1X8_TU_TSW.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged CON8_1X8_TU_TSW
+\d (00:00:02) Design opened: D:/irrigation_project/schematic/pcb_footprints/DRAFiles/CON8_1X8_TU_TSW.dra
+\t (00:00:02) Grids are drawn 640.000, 640.000 apart for enhanced viewability.
+\t (00:00:02) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:02) trapsize 12615
+\i (00:00:02) trapsize 12968
+\i (00:00:02) trapsize 12615
+\t (00:00:02) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:02) trapsize 12615
+\i (00:00:02) generaledit 
+\i (00:00:03) drag_start grid 764.590 455.033
+\i (00:00:03) move 
+\t (00:00:03) last pick:  760.000 460.000
+\t (00:00:03) Element has no origin, using pick.
+\t (00:00:03) Pick new location for the element(s).
+\i (00:00:06) drag_stop grid 762.067 457.556
+\i (00:00:06) generaledit 
+\e (00:00:07) Command not found: Del
+\i (00:00:09) prepopup 764.590 1219.491
+\i (00:00:10) pop dyn_option_select @:@Delete 
+\i (00:00:10) delete 
+\i (00:00:10) generaledit 
+\i (00:00:11) pick grid 764.590 1204.353
+\t (00:00:11) last pick:  760.000 1200.000
+\i (00:00:11) prepopup 764.590 1204.353
+\i (00:00:12) pop dyn_option_select @:@Delete 
+\i (00:00:12) delete 
+\i (00:00:12) generaledit 
+\i (00:00:13) pick grid 757.021 1247.244
+\t (00:00:13) last pick:  760.000 1250.000
+\i (00:00:13) prepopup 757.021 1247.244
+\i (00:00:14) pop dyn_option_select @:@Delete 
+\i (00:00:14) delete 
+\i (00:00:14) generaledit 
+\i (00:00:18) shape add rect 
+\i (00:00:20) pick grid -537.260 -173.186
+\t (00:00:20) last pick:  -540.000 -170.000
+\i (00:00:29) pick 1250 100 
+\t (00:00:29) last pick:  1250.000 100.000
+\i (00:00:34) undo 
+\i (00:00:34) trapsize 12615
+\i (00:00:34) generaledit 
+\i (00:00:37) shape add 
+\i (00:00:40) pick grid -542.306 -168.140
+\t (00:00:40) last pick:  -540.000 -170.000
+\i (00:00:41) Esc 
+\i (00:00:41) generaledit 
+\i (00:00:43) shape add rect 
+\i (00:00:46) pick grid -539.783 -170.663
+\t (00:00:46) last pick:  -540.000 -170.000
+\i (00:01:30) pick grid 527.431 1085.774
+\t (00:01:30) last pick:  530.000 1090.000
+\i (00:01:32) save 
+\i (00:01:33) fillin yes 
+\t (00:01:33) Symbol 'con8_1x8_tu_tsw.psm' created.
+\i (00:01:33) generaledit 
+\i (00:01:41) exit 
+\t (00:01:41)     Journal end - Thu Apr 14 17:42:16 2022

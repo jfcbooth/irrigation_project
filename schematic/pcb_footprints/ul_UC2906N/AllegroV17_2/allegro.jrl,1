@@ -1,0 +1,73 @@
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Mar 01 18:21:19 2022
+\t (00:00:03)         Host=LILYS-DESKTOP User=leolt Pid=16052 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 29310
+\i (00:00:08) replay builder.scr.txt 
+\i (00:00:08) skill 'load "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_UC2906N/AllegroV17_2/builder.ile" ' 
+   (00:00:08) t
+\i (00:00:08) skill 'changeWorkingDir "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_UC2906N/AllegroV17_2" ' 
+   (00:00:08) t
+\i (00:00:08) skill 'LB_createFootprint "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_UC2906N/AllegroV17_2/N16.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 1855
+\i (00:00:09) trapsize 1977
+\i (00:00:09) trapsize 2023
+\i (00:00:10) trapsize 2023
+\i (00:00:10) trapsize 2023
+\i (00:00:10) trapsize 1855
+\i (00:00:11) trapsize 185512
+\t (00:00:11) Performing DRC...
+\t (00:00:11) Multithreaded DRC update (8 threads).
+\t (00:00:11) No DRC errors detected.
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 185512
+\i (00:00:11) trapsize 197740
+\i (00:00:11) trapsize 202312
+\i (00:00:12) trapsize 202312
+\i (00:00:13) trapsize 202312
+\i (00:00:13) trapsize 185512
+\t (00:00:14) Opening Design "N16.dra"
+\t (00:00:14) Starting new design...
+\i (00:00:14) trapsize 185512
+\i (00:00:14) trapsize 197740
+\i (00:00:15) trapsize 185512
+\i (00:00:15) trapsize 185512
+\i (00:00:15) trapsize 185512
+\i (00:00:15) trapsize 37014
+\t (00:00:15) Creating TextBlocks
+\t (00:00:15) Creating Shapes on Package layers
+\t (00:00:15) Creating Pins
+\t (00:00:15) Creating Vias
+\t (00:00:15) Creating package symbol 'C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_UC2906N/AllegroV17_2/n16.psm'.
+\t (00:00:15) Starting Create symbol...
+\t (00:00:16) Symbol Created
+\i (00:00:16) trapsize 5546
+   (00:00:16) Loading cmds.cxt 
+   (00:00:16) Loading skillExt.cxt 
+\t (00:00:16) Opening existing design...
+\i (00:00:16) trapsize 5546
+\i (00:00:16) trapsize 5911
+\i (00:00:16) trapsize 5546
+\i (00:00:17) trapsize 5809
+\d (00:00:17) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_UC2906N/AllegroV17_2/N16.dra
+\t (00:00:18) Symbol Saved
+   (00:00:18) t
+\i (00:00:18) scriptmode +i +n 
+\i (00:00:18) step pkg map 
+\i (00:00:18) setwindow form.pkgmap3d 
+\i (00:00:18) FORM pkgmap3d stplist N16.step 
+\i (00:00:18) FORM pkgmap3d rotation_x 0 
+\i (00:00:18) FORM pkgmap3d save_current 
+\i (00:00:18) FORM pkgmap3d done 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) save 
+\i (00:00:18) fillin yes 
+\t (00:00:19) Symbol 'n16.psm' created.
+\i (00:00:19) exit 
+\t (00:00:19)     Journal end - Tue Mar 01 18:21:35 2022

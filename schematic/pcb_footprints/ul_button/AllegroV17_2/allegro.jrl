@@ -1,0 +1,116 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Mar 15 14:15:51 2022
+\t (00:00:02)         Host=LILYS-DESKTOP User=leolt Pid=19176 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\leolt\Documents\College_Docs\ELEC323\GitAttempt\batterycharger\uc2906\AllegroPCBFiles\ul_button\AllegroV17_2\SW4_1825910-B_TEC.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SW4_1825910-B_TEC
+\d (00:00:02) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_button/AllegroV17_2/SW4_1825910-B_TEC.dra
+\i (00:00:02) trapsize 3467
+\i (00:00:02) trapsize 3565
+\i (00:00:02) trapsize 3467
+\i (00:00:02) trapsize 2916
+\i (00:00:02) trapsize 4017
+\i (00:00:03) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 400.847 -151.809
+\i (00:00:05) trapsize 8034
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 400.847 -151.809
+\i (00:00:06) trapsize 4017
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 400.847 -151.809
+\i (00:00:06) trapsize 2008
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 385.985 -146.587
+\i (00:00:06) trapsize 4017
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 231.739 -61.430
+\i (00:00:07) trapsize 2008
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 219.689 -63.840
+\i (00:00:08) trapsize 4017
+\i (00:00:13) trapsize 4022
+\i (00:00:13) trapsize 4190
+\i (00:00:13) trapsize 4213
+\i (00:00:14) trapsize 4207
+\i (00:00:14) trapsize 4070
+\i (00:00:14) trapsize 4062
+\i (00:00:14) trapsize 4051
+\i (00:00:14) trapsize 4017
+\i (00:00:25) drag_start grid 125.696 -101.597
+\i (00:00:25) move 
+\t (00:00:26) last pick:  127.953 -113.583
+\t (00:00:26) Pick new location for the element(s).
+\i (00:00:26) drag_stop grid 166.668 102.459
+\i (00:00:26) generaledit 
+\i (00:00:26) drag_start grid 141.764 -100.794
+\i (00:00:26) move 
+\t (00:00:27) last pick:  127.953 -113.583
+\t (00:00:27) Pick new location for the element(s).
+\i (00:00:27) drag_stop grid 58.213 138.611
+\i (00:00:27) generaledit 
+\i (00:00:27) drag_start grid 124.090 -111.237
+\i (00:00:27) move 
+\t (00:00:27) last pick:  127.953 -113.583
+\t (00:00:27) Pick new location for the element(s).
+\i (00:00:28) drag_stop grid -79.163 165.925
+\i (00:00:28) generaledit 
+\i (00:00:28) drag_start grid 102.399 -94.367
+\i (00:00:28) move 
+\t (00:00:28) last pick:  127.953 -113.583
+\t (00:00:28) Pick new location for the element(s).
+\i (00:00:28) drag_stop grid -116.922 85.588
+\i (00:00:29) generaledit 
+\i (00:00:29) drag_start grid 111.236 -86.333
+\i (00:00:29) move 
+\t (00:00:29) last pick:  127.953 -113.583
+\t (00:00:29) Pick new location for the element(s).
+\i (00:00:29) drag_stop grid -177.978 -21.260
+\i (00:00:29) generaledit 
+\i (00:00:29) drag_start grid 142.567 -104.007
+\i (00:00:29) move 
+\t (00:00:30) last pick:  127.953 -113.583
+\t (00:00:30) Pick new location for the element(s).
+\i (00:00:30) drag_stop grid -212.523 -82.316
+\i (00:00:30) generaledit 
+\i (00:00:30) drag_start grid 83.921 -104.007
+\i (00:00:30) move 
+\t (00:00:30) last pick:  127.953 -113.583
+\t (00:00:30) Pick new location for the element(s).
+\i (00:00:31) drag_stop grid -159.500 -165.063
+\i (00:00:31) generaledit 
+\i (00:00:33) pick grid -186.011 -91.956
+\t (00:00:33) last pick:  -200.000 -100.000
+\i (00:00:36) undo 
+\i (00:00:36) trapsize 4017
+\i (00:00:36) generaledit 
+\i (00:00:37) undo 
+\i (00:00:37) trapsize 4017
+\i (00:00:37) generaledit 
+\i (00:00:37) undo 
+\i (00:00:37) trapsize 4017
+\i (00:00:37) generaledit 
+\i (00:00:37) undo 
+\i (00:00:37) trapsize 4017
+\i (00:00:37) generaledit 
+\i (00:00:37) undo 
+\i (00:00:37) trapsize 4017
+\i (00:00:37) generaledit 
+\i (00:00:38) undo 
+\i (00:00:38) trapsize 4017
+\i (00:00:38) generaledit 
+\i (00:00:38) undo 
+\i (00:00:38) trapsize 4017
+\i (00:00:38) generaledit 
+\i (00:07:11) exit 
+\e (00:07:11) Do you want to save the changes you made to SW4_1825910-B_TEC.dra?
+\i (00:07:13) fillin no 
+\t (00:07:13)     Journal end - Tue Mar 15 14:23:02 2022

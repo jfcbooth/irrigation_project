@@ -1,0 +1,678 @@
+<Footprint name="N16" >
+  <Units type="mils" precision="3" />
+  <Extents minX="-2395" minY="-3075.5" width="4190" height="4245.5" />
+  <Padstack name="SX51Y51D31P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="31" width="31" height="31" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="e" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="square" width="51" height="51" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="square" width="51" height="51" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="square" width="51" height="51" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="square" width="51" height="51" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="square" width="51" height="51" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+  <Padstack name="EX51Y51D31P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="31" width="31" height="31" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="e" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="circle" width="51" height="51" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="circle" width="51" height="51" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="circle" width="51" height="51" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="circle" width="51" height="51" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="circle" width="51" height="51" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+
+  <Padstack name="SX51Y51D31P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="31" width="31" height="31" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="e" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="square" width="51" height="51" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="square" width="51" height="51" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="square" width="51" height="51" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="square" width="51" height="51" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="square" width="51" height="51" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+  <Padstack name="EX51Y51D31P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="31" width="31" height="31" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="e" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="circle" width="51" height="51" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="circle" width="51" height="51" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="circle" width="51" height="51" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="circle" width="51" height="51" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="circle" width="51" height="51" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+  <TextBlocks>
+    <TextBlock name="17" width="6.25" height="25" lineSpacing="25" characterSpacing="6.25" /> 
+  </TextBlocks>
+
+  <Pins>
+    <Pin number="1" padName="SX51Y51D31P" originX="0" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="2" padName="EX51Y51D31P" originX="0" originY="-100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="3" padName="EX51Y51D31P" originX="0" originY="-200" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="4" padName="EX51Y51D31P" originX="0" originY="-300" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="5" padName="EX51Y51D31P" originX="0" originY="-400" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="6" padName="EX51Y51D31P" originX="0" originY="-500" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="7" padName="EX51Y51D31P" originX="0" originY="-600" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="8" padName="EX51Y51D31P" originX="0" originY="-700" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="9" padName="EX51Y51D31P" originX="300" originY="-700" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="10" padName="EX51Y51D31P" originX="300" originY="-600" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="11" padName="EX51Y51D31P" originX="300" originY="-500" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="12" padName="EX51Y51D31P" originX="300" originY="-400" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="13" padName="EX51Y51D31P" originX="300" originY="-300" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="14" padName="EX51Y51D31P" originX="300" originY="-200" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="15" padName="EX51Y51D31P" originX="300" originY="-100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="16" padName="EX51Y51D31P" originX="300" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+  </Pins>
+  <Vias>
+  </Vias>
+  <Layers>
+    <Layer name="PACKAGE GEOMETRY/PLACE_BOUND_TOP" packageHeight="100" packageHeightMin="0">
+      <Path lineWidth="6" type="shape" >
+        <Point x="-35.5" y="-747.5" />
+        <Point x="-35.5" y="47.5" />
+        <Point x="335.5" y="47.5" />
+        <Point x="335.5" y="-747.5" />
+        <Point x="-35.5" y="-747.5" />
+      </Path>
+    </Layer>
+    <Layer name="MANUFACTURING/NO_PROBE_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="shape" >
+        <Point x="-40.5" y="-752.5" />
+        <Point x="-40.5" y="52.5" />
+        <Point x="340.5" y="52.5" />
+        <Point x="340.5" y="-752.5" />
+        <Point x="-40.5" y="-752.5" />
+      </Path>
+    </Layer>
+    <Layer name="REF DES/SILKSCREEN_TOP" packageHeight="100" >
+      <Label layer="REF DES/SILKSCREEN_TOP" textBlock="3" angle="0" x="150" y="-375" text="Ref" justify="center" />
+    </Layer>
+    <Layer name="DEVICE TYPE/SILKSCREEN_TOP" packageHeight="100" >
+      <Label layer="DEVICE TYPE/SILKSCREEN_TOP" textBlock="3" angle="0" x="150" y="-375" text="Dev" justify="center" />
+    </Layer>
+    <Layer name="USER PART NUMBER/SILKSCREEN_TOP" packageHeight="100" >
+      <Label layer="USER PART NUMBER/SILKSCREEN_TOP" textBlock="3" angle="0" x="150" y="-375" text="PN" justify="center" />
+    </Layer>
+    <Layer name="DEVICE TYPE/ASSEMBLY_TOP" packageHeight="100" >
+      <Label layer="DEVICE TYPE/ASSEMBLY_TOP" textBlock="3" angle="0" x="150" y="-375" text="DEV" justify="center" />
+    </Layer>
+    <Layer name="COMPONENT VALUE/SILKSCREEN_TOP" packageHeight="100" >
+      <Label layer="COMPONENT VALUE/SILKSCREEN_TOP" textBlock="3" angle="0" x="150" y="-375" text="VAL" justify="center" />
+    </Layer>
+    <Layer name="TOLERANCE/SILKSCREEN_TOP" packageHeight="100" >
+      <Label layer="TOLERANCE/SILKSCREEN_TOP" textBlock="3" angle="0" x="150" y="-375" text="TOL" justify="center" />
+    </Layer>
+    <Layer name="REF DES/ASSEMBLY_TOP" packageHeight="100" >
+      <Label layer="REF DES/ASSEMBLY_TOP" textBlock="3" angle="0" x="150" y="-375" text="Ref" justify="center" />
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Label layer="PACKAGE GEOMETRY/ASSEMBLY_TOP" textBlock="3" angle="0" x="0" y="30.5" text="*" justify="center" />
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Label layer="PACKAGE GEOMETRY/SILKSCREEN_TOP" textBlock="3" angle="0" x="0" y="30.5" text="*" justify="center" />
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-15.5" />
+        <Point x="20" y="15.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="15.5" />
+        <Point x="-15.5" y="15.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="15.5" />
+        <Point x="-15.5" y="-15.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-15.5" />
+        <Point x="20" y="-15.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-115.5" />
+        <Point x="20" y="-84.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-84.5" />
+        <Point x="-15.5" y="-84.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-84.5" />
+        <Point x="-15.5" y="-115.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-115.5" />
+        <Point x="20" y="-115.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-215.5" />
+        <Point x="20" y="-184.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-184.5" />
+        <Point x="-15.5" y="-184.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-184.5" />
+        <Point x="-15.5" y="-215.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-215.5" />
+        <Point x="20" y="-215.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-315.5" />
+        <Point x="20" y="-284.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-284.5" />
+        <Point x="-15.5" y="-284.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-284.5" />
+        <Point x="-15.5" y="-315.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-315.5" />
+        <Point x="20" y="-315.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-415.5" />
+        <Point x="20" y="-384.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-384.5" />
+        <Point x="-15.5" y="-384.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-384.5" />
+        <Point x="-15.5" y="-415.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-415.5" />
+        <Point x="20" y="-415.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-515.5" />
+        <Point x="20" y="-484.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-484.5" />
+        <Point x="-15.5" y="-484.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-484.5" />
+        <Point x="-15.5" y="-515.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-515.5" />
+        <Point x="20" y="-515.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-615.5" />
+        <Point x="20" y="-584.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-584.5" />
+        <Point x="-15.5" y="-584.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-584.5" />
+        <Point x="-15.5" y="-615.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-615.5" />
+        <Point x="20" y="-615.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-715.5" />
+        <Point x="20" y="-684.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-684.5" />
+        <Point x="-15.5" y="-684.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-684.5" />
+        <Point x="-15.5" y="-715.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-15.5" y="-715.5" />
+        <Point x="20" y="-715.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-684.5" />
+        <Point x="280" y="-715.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-715.5" />
+        <Point x="315.5" y="-715.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-715.5" />
+        <Point x="315.5" y="-684.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-684.5" />
+        <Point x="280" y="-684.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-584.5" />
+        <Point x="280" y="-615.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-615.5" />
+        <Point x="315.5" y="-615.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-615.5" />
+        <Point x="315.5" y="-584.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-584.5" />
+        <Point x="280" y="-584.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-484.5" />
+        <Point x="280" y="-515.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-515.5" />
+        <Point x="315.5" y="-515.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-515.5" />
+        <Point x="315.5" y="-484.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-484.5" />
+        <Point x="280" y="-484.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-384.5" />
+        <Point x="280" y="-415.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-415.5" />
+        <Point x="315.5" y="-415.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-415.5" />
+        <Point x="315.5" y="-384.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-384.5" />
+        <Point x="280" y="-384.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-284.5" />
+        <Point x="280" y="-315.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-315.5" />
+        <Point x="315.5" y="-315.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-315.5" />
+        <Point x="315.5" y="-284.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-284.5" />
+        <Point x="280" y="-284.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-184.5" />
+        <Point x="280" y="-215.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-215.5" />
+        <Point x="315.5" y="-215.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-215.5" />
+        <Point x="315.5" y="-184.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-184.5" />
+        <Point x="280" y="-184.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-84.5" />
+        <Point x="280" y="-115.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-115.5" />
+        <Point x="315.5" y="-115.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-115.5" />
+        <Point x="315.5" y="-84.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-84.5" />
+        <Point x="280" y="-84.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="15.5" />
+        <Point x="280" y="-15.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-15.5" />
+        <Point x="315.5" y="-15.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="-15.5" />
+        <Point x="315.5" y="15.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="315.5" y="15.5" />
+        <Point x="280" y="15.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="20" y="-737.5" />
+        <Point x="280" y="-737.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="280" y="-666.9855" />
+        <Point x="280" y="-633.0145" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="280" y="37.5" />
+        <Point x="30.7545" y="37.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="20" y="-38.6" />
+        <Point x="20" y="-66.9855" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Arc lineWidth="6" centerX="150" centerY="37.5" x1="138" y1="37.5" x2="162" y2="37.5" startAngle="180" stopAngle="360" /> 
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="-737.5" />
+        <Point x="280" y="-737.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="-737.5" />
+        <Point x="280" y="37.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="280" y="37.5" />
+        <Point x="20" y="37.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Path lineWidth="0" type="line" >
+        <Point x="20" y="37.5" />
+        <Point x="20" y="-737.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="100" >
+      <Arc lineWidth="0" centerX="150" centerY="37.5" x1="138" y1="37.5" x2="162" y2="37.5" startAngle="180" stopAngle="360" /> 
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="20" y="-133.0145" />
+        <Point x="20" y="-166.9855" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="20" y="-233.0145" />
+        <Point x="20" y="-266.9855" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="20" y="-333.0145" />
+        <Point x="20" y="-366.9855" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="20" y="-433.0145" />
+        <Point x="20" y="-466.9855" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="20" y="-533.0145" />
+        <Point x="20" y="-566.9855" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="20" y="-633.0145" />
+        <Point x="20" y="-666.9855" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="280" y="-566.9855" />
+        <Point x="280" y="-533.0145" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="280" y="-466.9855" />
+        <Point x="280" y="-433.0145" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="280" y="-366.9855" />
+        <Point x="280" y="-333.0145" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="280" y="-266.9855" />
+        <Point x="280" y="-233.0145" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="280" y="-166.9855" />
+        <Point x="280" y="-133.0145" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="100" >
+      <Path lineWidth="6" type="line" >
+        <Point x="280" y="-66.9855" />
+        <Point x="280" y="-33.0145" />
+      </Path>
+    </Layer>
+  </Layers>
+</Footprint>

@@ -1,0 +1,117 @@
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Mar 15 12:54:16 2022
+\t (00:00:03)         Host=LILYS-DESKTOP User=leolt Pid=13396 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\leolt\Documents\College_Docs\ELEC323\GitAttempt\batterycharger\uc2906\AllegroPCBFiles\ul_Diode\AllegroV17_2\PG-SOD323-2-1_INF-L.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PG-SOD323-2-1_INF-L
+\d (00:00:03) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_Diode/AllegroV17_2/PG-SOD323-2-1_INF-L.dra
+\i (00:00:03) trapsize 1095
+\i (00:00:03) trapsize 1126
+\i (00:00:03) trapsize 1095
+\i (00:00:04) trapsize 921
+\i (00:00:04) trapsize 1269
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 166.281 56.555
+\i (00:00:05) trapsize 2538
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 166.281 56.555
+\i (00:00:05) trapsize 5076
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 166.281 56.555
+\i (00:00:05) trapsize 10152
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 166.281 56.555
+\i (00:00:05) trapsize 20303
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 2484.685 56.555
+\i (00:00:05) trapsize 10152
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 889.480 56.555
+\i (00:00:05) trapsize 5076
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 889.480 56.555
+\i (00:00:05) trapsize 2538
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 404.228 7.827
+\i (00:00:06) trapsize 5076
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 245.862 7.827
+\i (00:00:06) trapsize 10152
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -1051.527 3.766
+\i (00:00:06) trapsize 20303
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -1401.390 -178.929
+\i (00:00:06) trapsize 27461
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -259.586 91.244
+\i (00:00:07) trapsize 13730
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -1336.043 91.244
+\i (00:00:07) trapsize 6865
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 64.449 95.363
+\i (00:00:08) trapsize 3433
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 64.449 95.364
+\i (00:00:08) trapsize 1716
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 65.136 84.380
+\i (00:00:08) trapsize 3433
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 65.135 83.693
+\i (00:00:08) trapsize 6865
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 67.881 82.319
+\i (00:00:08) trapsize 13730
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 166.053 54.858
+\i (00:00:09) trapsize 6865
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 166.053 52.113
+\i (00:00:09) trapsize 3433
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 166.053 52.113
+\i (00:00:09) trapsize 1716
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -117.821 42.158
+\i (00:00:10) trapsize 858
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -114.045 43.703
+\i (00:00:11) trapsize 1716
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -110.269 44.734
+\i (00:00:11) trapsize 3433
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -133.610 35.808
+\i (00:00:11) trapsize 1716
+\i (00:00:46) exit 
+\t (00:00:46)     Journal end - Tue Mar 15 12:54:59 2022

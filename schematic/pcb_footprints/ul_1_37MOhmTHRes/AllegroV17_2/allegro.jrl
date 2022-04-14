@@ -1,0 +1,23 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed Mar 30 12:40:32 2022
+\t (00:00:02)         Host=MCT163S05 User=jb7008 Pid=24408 CPUs=16
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe \\FSERV\home\jb7008\Desktop\batterycharger\uc2906\AllegroPCBFiles\ul_1_37MOhmTHRes\AllegroV17_2\RES_VISHAY_HVR37_VIS.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged RES_VISHAY_HVR37_VIS
+\d (00:00:02) Design opened: //FSERV/home/jb7008/Desktop/batterycharger/uc2906/AllegroPCBFiles/ul_1_37MOhmTHRes/AllegroV17_2/RES_VISHAY_HVR37_VIS.dra
+\i (00:00:02) trapsize 3051
+\i (00:00:02) trapsize 3136
+\i (00:00:02) trapsize 3051
+\i (00:00:02) trapsize 3051
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 394.197 131.018
+\i (00:00:03) trapsize 6101
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 322.205 -20.288
+\i (00:00:04) trapsize 3051
+\i (00:00:14) exit 
+\t (00:00:14)     Journal end - Wed Mar 30 12:40:45 2022

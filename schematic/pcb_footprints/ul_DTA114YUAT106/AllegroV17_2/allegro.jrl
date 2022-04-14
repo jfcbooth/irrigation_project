@@ -1,0 +1,90 @@
+\t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Apr 14 16:06:52 2022
+\t (00:00:01)         Host=MCT163S07 User=jb7008 Pid=5888 CPUs=16
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\irrigation_project\schematic\pcb_footprints\ul_DTA114YUAT106\AllegroV17_2\TRANS_DTA114EUA_ROM.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged TRANS_DTA114EUA_ROM
+\d (00:00:04) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/TRANS_DTA114EUA_ROM.dra
+\i (00:00:04) trapsize 1590
+\i (00:00:04) trapsize 1662
+\i (00:00:04) trapsize 1590
+\i (00:00:04) trapsize 1590
+\i (00:00:05) generaledit 
+\i (00:00:07) drag_start grid 39.445 6.199
+\i (00:00:07) move 
+\t (00:00:08) last pick:  0.000 -25.000
+\t (00:00:08) Pick new location for the element(s).
+\i (00:00:09) drag_stop grid 108.434 36.084
+\i (00:00:09) generaledit 
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 102.393 32.905
+\i (00:00:09) trapsize 3179
+\i (00:00:10) drag_start grid -10.150 1.112
+\i (00:00:10) move 
+\t (00:00:10) last pick:  0.000 -25.000
+\t (00:00:10) Pick new location for the element(s).
+\i (00:00:13) drag_stop grid -158.300 49.436
+\i (00:00:13) generaledit 
+\i (00:00:15) pick grid -24.774 -28.772
+\t (00:00:15) last pick:  0.000 0.000
+\i (00:00:17) pick grid 24.185 -33.859
+\t (00:00:17) last pick:  0.000 0.000
+\i (00:00:17) pick grid dbl 24.185 -33.859
+\t (00:00:17) last pick:  0.000 0.000
+\i (00:00:20) pick grid -27.953 -35.766
+\t (00:00:20) last pick:  0.000 0.000
+\i (00:00:20) pick grid dbl -27.953 -35.766
+\t (00:00:20) last pick:  0.000 0.000
+\i (00:00:20) prepopup -27.953 -35.766
+\i (00:00:24) pop dyn_option_select '@:@Show element' 
+\i (00:00:24) show element 
+\i (00:00:24) generaledit 
+\i (00:00:36) setwindow text
+\i (00:00:36) close
+\i (00:00:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
+\i (00:00:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
+\i (00:00:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
+\i (00:00:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
+\i (00:00:43) pick grid -25.410 -45.304
+\t (00:00:43) last pick:  0.000 0.000
+\i (00:00:43) pick grid dbl -25.410 -45.304
+\t (00:00:43) last pick:  0.000 0.000
+\i (00:00:44) prepopup -25.410 -45.304
+\i (00:00:45) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (00:00:45) prmed 
+\i (00:00:48) setwindow form.prmedit
+\i (00:00:48) FORM prmedit cancel  
+\i (00:00:48) setwindow pcb
+\i (00:00:48) generaledit 
+\i (00:00:48) pick grid -20.959 -28.772
+\t (00:00:48) last pick:  0.000 0.000
+\i (00:00:49) prepopup -24.774 -30.044
+\i (00:00:54) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (00:00:54) prmed 
+\i (00:00:54) setwindow form.prmedit
+\i (00:00:54) FORM prmedit cancel  
+\i (00:00:55) setwindow pcb
+\i (00:00:55) generaledit 
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in -37.491 27.182
+\i (00:00:55) trapsize 1590
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in -37.491 27.182
+\i (00:00:55) trapsize 795
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out -37.491 27.182
+\i (00:00:55) trapsize 1590
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out -37.491 27.501
+\i (00:00:56) trapsize 3179
+\i (00:00:58) exit 
+\e (00:00:58) Do you want to save the changes you made to TRANS_DTA114EUA_ROM.dra?
+\i (00:00:59) fillin no 
+\t (00:00:59)     Journal end - Thu Apr 14 16:07:50 2022

@@ -1,0 +1,35 @@
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Mar 01 18:14:21 2022
+\t (00:00:03)         Host=LILYS-DESKTOP User=leolt Pid=12896 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\leolt\Documents\College_Docs\ELEC323\GitAttempt\batterycharger\uc2906\AllegroPCBFiles\ul_ATMEGA32-16PU\AllegroV17_2\40P6_ATM.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 40P6_ATM
+\d (00:00:07) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_ATMEGA32-16PU/AllegroV17_2/40P6_ATM.dra
+\i (00:00:07) trapsize 25417
+\i (00:00:07) trapsize 28506
+\i (00:00:08) trapsize 25417
+\i (00:00:08) trapsize 14505
+\i (00:00:08) trapsize 14505
+\i (00:00:09) generaledit 
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 901.263 -1000.767
+\i (00:00:10) trapsize 29010
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 172.761 -887.902
+\i (00:00:11) trapsize 14505
+\i (00:00:14) pick grid 868.996 -995.238
+\t (00:00:14) last pick:  900.000 -1000.000
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 868.996 -995.238
+\i (00:00:15) trapsize 29010
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 868.996 -1102.574
+\i (00:00:16) trapsize 14505
+\i (00:00:22) exit 
+\t (00:00:23)     Journal end - Tue Mar 01 18:14:41 2022

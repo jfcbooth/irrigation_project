@@ -1,0 +1,67 @@
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Mar 24 18:22:28 2022
+\t (00:00:03)         Host=MCT163S07 User=lo2055 Pid=5544 CPUs=16
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 29310
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_STTH5R06D/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_STTH5R06D/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_STTH5R06D/AllegroV17_2/TO-220AC_STM.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 765
+\i (00:00:04) trapsize 785
+\i (00:00:04) trapsize 792
+\i (00:00:04) trapsize 1168
+\i (00:00:04) trapsize 1115
+\i (00:00:04) trapsize 1115
+\i (00:00:04) trapsize 111549
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (16 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "TO-220AC_STM.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 76531
+\i (00:00:05) trapsize 78534
+\i (00:00:05) trapsize 76531
+\i (00:00:05) trapsize 116758
+\i (00:00:05) trapsize 116758
+\i (00:00:05) trapsize 111549
+\i (00:00:05) trapsize 24350
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_STTH5R06D/AllegroV17_2/to-220ac_stm.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:06) Symbol Created
+\i (00:00:06) trapsize 2828
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 2828
+\i (00:00:06) trapsize 2907
+\i (00:00:06) trapsize 2828
+\i (00:00:06) trapsize 2960
+\d (00:00:06) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_STTH5R06D/AllegroV17_2/TO-220AC_STM.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) scriptmode +i +n 
+\i (00:00:06) step pkg map 
+\i (00:00:06) setwindow form.pkgmap3d 
+\i (00:00:06) FORM pkgmap3d stplist TO-220AC_STM.step 
+\i (00:00:07) FORM pkgmap3d rotation_x 0 
+\i (00:00:07) FORM pkgmap3d save_current 
+\i (00:00:07) FORM pkgmap3d done 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) save 
+\i (00:00:07) fillin yes 
+\t (00:00:07) Symbol 'to-220ac_stm.psm' created.
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Thu Mar 24 18:22:33 2022

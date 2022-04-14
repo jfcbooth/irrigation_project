@@ -1,0 +1,23 @@
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Mar 30 12:40:08 2022
+\t (00:00:03)         Host=MCT163S05 User=jb7008 Pid=1740 CPUs=16
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe \\FSERV\home\jb7008\Desktop\batterycharger\uc2906\AllegroPCBFiles\ul_Diode\AllegroV17_2\PG-SOD323-2-1_INF.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PG-SOD323-2-1_INF
+\d (00:00:03) Design opened: //FSERV/home/jb7008/Desktop/batterycharger/uc2906/AllegroPCBFiles/ul_Diode/AllegroV17_2/PG-SOD323-2-1_INF.dra
+\i (00:00:03) trapsize 1144
+\i (00:00:03) trapsize 1176
+\i (00:00:03) trapsize 1144
+\i (00:00:04) trapsize 1325
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 74.677 38.448
+\i (00:00:04) trapsize 2650
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 3.663 -12.959
+\i (00:00:05) trapsize 1325
+\i (00:00:07) exit 
+\t (00:00:08)     Journal end - Wed Mar 30 12:40:13 2022

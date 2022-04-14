@@ -1,0 +1,159 @@
+\t (00:00:11) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:11)     Journal start - Thu Apr 14 16:09:57 2022
+\t (00:00:11)         Host=MCT163S07 User=jb7008 Pid=14704 CPUs=16
+\t (00:00:11) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:11) 
+   (00:00:11) Loading axlcore.cxt 
+\t (00:00:14) Starting new design...
+\i (00:00:14) trapsize 29310
+\i (00:00:14) replay builder.scr.txt 
+\i (00:00:14) skill 'load "D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2/builder.ile" ' 
+   (00:00:14) t
+\i (00:00:14) skill 'changeWorkingDir "D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2" ' 
+   (00:00:14) t
+\i (00:00:14) skill 'LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2/SOT-323_DIO-L.xml" ' 
+\t (00:00:14) Reading Footprint XML
+\t (00:00:14) Creating padstacks
+\t (00:00:14) Starting new design...
+\i (00:00:15) trapsize 1304
+\i (00:00:15) trapsize 1364
+\i (00:00:15) trapsize 1385
+\i (00:00:15) trapsize 1638
+\i (00:00:15) trapsize 1638
+\i (00:00:15) trapsize 1537
+\i (00:00:15) trapsize 153707
+\t (00:00:15) Performing DRC...
+\t (00:00:15) Multithreaded DRC update (16 threads).
+\t (00:00:15) No DRC errors detected.
+\t (00:00:15) Opening Design "SOT-323_DIO-L.dra"
+\t (00:00:15) Starting new design...
+\i (00:00:15) trapsize 130435
+\i (00:00:15) trapsize 136364
+\i (00:00:15) trapsize 130435
+\i (00:00:15) trapsize 163776
+\i (00:00:15) trapsize 163776
+\i (00:00:15) trapsize 153707
+\i (00:00:15) trapsize 37784
+\t (00:00:15) Creating TextBlocks
+\t (00:00:15) Creating Shapes on Package layers
+\t (00:00:15) Creating Pins
+\t (00:00:15) Creating Vias
+\t (00:00:15) Creating package symbol 'D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2/sot-323_dio-l.psm'.
+\t (00:00:15) Starting Create symbol...
+\t (00:00:15) Symbol Created
+\i (00:00:15) trapsize 1235
+   (00:00:15) Loading cmds.cxt 
+   (00:00:15) Loading skillExt.cxt 
+\t (00:00:15) Opening existing design...
+\i (00:00:16) trapsize 1235
+\i (00:00:16) trapsize 1291
+\i (00:00:16) trapsize 1235
+\i (00:00:16) trapsize 1316
+\d (00:00:16) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2/SOT-323_DIO-L.dra
+\t (00:00:16) Symbol Saved
+   (00:00:16) t
+\i (00:00:16) scriptmode +i +n 
+\i (00:00:16) step pkg map 
+\i (00:00:16) setwindow form.pkgmap3d 
+\i (00:00:16) FORM pkgmap3d stplist SOT-323_DIO.step 
+\i (00:00:16) FORM pkgmap3d rotation_x 0 
+\i (00:00:16) FORM pkgmap3d save_current 
+\i (00:00:16) FORM pkgmap3d done 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) save 
+\i (00:00:16) fillin yes 
+\t (00:00:16) Symbol 'sot-323_dio-l.psm' created.
+\i (00:00:16) skill 'LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2/SOT-323_DIO-M.xml" ' 
+\t (00:00:16) Reading Footprint XML
+\t (00:00:16) Creating padstacks
+\t (00:00:16) Starting new design...
+\i (00:00:17) trapsize 25165
+\i (00:00:17) trapsize 26309
+\i (00:00:17) trapsize 25165
+\i (00:00:17) trapsize 40259
+\i (00:00:17) trapsize 40259
+\i (00:00:17) trapsize 37784
+\t (00:00:17) Opening Design "SOT-323_DIO-M.dra"
+\t (00:00:17) Starting new design...
+\i (00:00:17) trapsize 25165
+\i (00:00:17) trapsize 26309
+\i (00:00:17) trapsize 25165
+\i (00:00:17) trapsize 40259
+\i (00:00:17) trapsize 40259
+\i (00:00:17) trapsize 37784
+\i (00:00:17) trapsize 37928
+\t (00:00:17) Creating TextBlocks
+\t (00:00:17) Creating Shapes on Package layers
+\t (00:00:17) Creating Pins
+\t (00:00:17) Creating Vias
+\t (00:00:17) Creating package symbol 'D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2/sot-323_dio-m.psm'.
+\t (00:00:17) Starting Create symbol...
+\t (00:00:17) Symbol Created
+\i (00:00:17) trapsize 1814
+\t (00:00:17) Opening existing design...
+\i (00:00:17) trapsize 1814
+\i (00:00:17) trapsize 1896
+\i (00:00:17) trapsize 1814
+\i (00:00:17) trapsize 1933
+\d (00:00:18) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2/SOT-323_DIO-M.dra
+\t (00:00:18) Symbol Saved
+   (00:00:18) t
+\i (00:00:18) scriptmode +i +n 
+\i (00:00:18) step pkg map 
+\i (00:00:18) setwindow form.pkgmap3d 
+\i (00:00:18) FORM pkgmap3d stplist SOT-323_DIO.step 
+\i (00:00:18) FORM pkgmap3d rotation_x 0 
+\i (00:00:18) FORM pkgmap3d save_current 
+\i (00:00:18) FORM pkgmap3d done 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) save 
+\i (00:00:18) fillin yes 
+\t (00:00:18) Symbol 'sot-323_dio-m.psm' created.
+\i (00:00:18) skill 'LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2/SOT-323_DIO.xml" ' 
+\t (00:00:18) Reading Footprint XML
+\t (00:00:18) Creating padstacks
+\t (00:00:18) Starting new design...
+\i (00:00:18) trapsize 25165
+\i (00:00:18) trapsize 26309
+\i (00:00:18) trapsize 25165
+\i (00:00:18) trapsize 40413
+\i (00:00:18) trapsize 40413
+\i (00:00:18) trapsize 37928
+\t (00:00:18) Opening Design "SOT-323_DIO.dra"
+\t (00:00:18) Starting new design...
+\i (00:00:18) trapsize 25165
+\i (00:00:19) trapsize 26309
+\i (00:00:19) trapsize 25165
+\i (00:00:19) trapsize 40413
+\i (00:00:19) trapsize 40413
+\i (00:00:19) trapsize 37928
+\i (00:00:19) trapsize 37856
+\t (00:00:19) Creating TextBlocks
+\t (00:00:19) Creating Shapes on Package layers
+\t (00:00:19) Creating Pins
+\t (00:00:19) Creating Vias
+\t (00:00:19) Creating package symbol 'D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2/sot-323_dio.psm'.
+\t (00:00:19) Starting Create symbol...
+\t (00:00:19) Symbol Created
+\i (00:00:19) trapsize 1488
+\t (00:00:19) Opening existing design...
+\i (00:00:19) trapsize 1488
+\i (00:00:19) trapsize 1556
+\i (00:00:19) trapsize 1488
+\i (00:00:19) trapsize 1586
+\d (00:00:19) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2/SOT-323_DIO.dra
+\t (00:00:19) Symbol Saved
+   (00:00:19) t
+\i (00:00:19) scriptmode +i +n 
+\i (00:00:19) step pkg map 
+\i (00:00:19) setwindow form.pkgmap3d 
+\i (00:00:19) FORM pkgmap3d stplist SOT-323_DIO.step 
+\i (00:00:19) FORM pkgmap3d rotation_x 0 
+\i (00:00:19) FORM pkgmap3d save_current 
+\i (00:00:19) FORM pkgmap3d done 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) save 
+\i (00:00:19) fillin yes 
+\t (00:00:20) Symbol 'sot-323_dio.psm' created.
+\i (00:00:20) exit 
+\t (00:00:20)     Journal end - Thu Apr 14 16:10:06 2022

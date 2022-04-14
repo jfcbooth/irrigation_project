@@ -1,0 +1,159 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Mar 28 17:41:12 2022
+\t (00:00:02)         Host=MCT163S06 User=lo2055 Pid=10848 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 29310
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2/CAP_ABM3-16P000MHZ-B2-T_ABR-L.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 765
+\i (00:00:04) trapsize 785
+\i (00:00:04) trapsize 792
+\i (00:00:04) trapsize 1168
+\i (00:00:04) trapsize 1115
+\i (00:00:04) trapsize 1115
+\i (00:00:04) trapsize 111549
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (16 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "CAP_ABM3-16P000MHZ-B2-T_ABR-L.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 76531
+\i (00:00:04) trapsize 78534
+\i (00:00:04) trapsize 76531
+\i (00:00:04) trapsize 116758
+\i (00:00:04) trapsize 116758
+\i (00:00:04) trapsize 111549
+\i (00:00:04) trapsize 25908
+\t (00:00:04) Creating TextBlocks
+\t (00:00:04) Creating Shapes on Package layers
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\t (00:00:04) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2/cap_abm3-16p000mhz-b2-t_abr-l.psm'.
+\t (00:00:04) Starting Create symbol...
+\t (00:00:05) Symbol Created
+\i (00:00:05) trapsize 1207
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 1207
+\i (00:00:06) trapsize 1241
+\i (00:00:06) trapsize 1207
+\i (00:00:06) trapsize 1264
+\d (00:00:06) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2/CAP_ABM3-16P000MHZ-B2-T_ABR-L.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) scriptmode +i +n 
+\i (00:00:06) step pkg map 
+\i (00:00:06) setwindow form.pkgmap3d 
+\i (00:00:06) FORM pkgmap3d stplist CAP_ABM3-16P000MHZ-B2-T_ABR.step 
+\i (00:00:06) FORM pkgmap3d rotation_x 0 
+\i (00:00:06) FORM pkgmap3d save_current 
+\i (00:00:06) FORM pkgmap3d done 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) save 
+\i (00:00:06) fillin yes 
+\t (00:00:07) Symbol 'cap_abm3-16p000mhz-b2-t_abr-l.psm' created.
+\i (00:00:07) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2/CAP_ABM3-16P000MHZ-B2-T_ABR-M.xml" ' 
+\t (00:00:07) Reading Footprint XML
+\t (00:00:07) Creating padstacks
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 15675
+\i (00:00:07) trapsize 16113
+\i (00:00:07) trapsize 15675
+\i (00:00:07) trapsize 27118
+\i (00:00:07) trapsize 27118
+\i (00:00:07) trapsize 25908
+\t (00:00:07) Opening Design "CAP_ABM3-16P000MHZ-B2-T_ABR-M.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 15675
+\i (00:00:07) trapsize 16113
+\i (00:00:08) trapsize 15675
+\i (00:00:08) trapsize 27118
+\i (00:00:08) trapsize 27118
+\i (00:00:08) trapsize 25908
+\i (00:00:08) trapsize 26013
+\t (00:00:08) Creating TextBlocks
+\t (00:00:08) Creating Shapes on Package layers
+\t (00:00:08) Creating Pins
+\t (00:00:08) Creating Vias
+\t (00:00:08) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2/cap_abm3-16p000mhz-b2-t_abr-m.psm'.
+\t (00:00:08) Starting Create symbol...
+\t (00:00:08) Symbol Created
+\i (00:00:08) trapsize 1207
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 1207
+\i (00:00:08) trapsize 1241
+\i (00:00:08) trapsize 1207
+\i (00:00:08) trapsize 1264
+\d (00:00:08) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2/CAP_ABM3-16P000MHZ-B2-T_ABR-M.dra
+\t (00:00:09) Symbol Saved
+   (00:00:09) t
+\i (00:00:09) scriptmode +i +n 
+\i (00:00:09) step pkg map 
+\i (00:00:09) setwindow form.pkgmap3d 
+\i (00:00:09) FORM pkgmap3d stplist CAP_ABM3-16P000MHZ-B2-T_ABR.step 
+\i (00:00:09) FORM pkgmap3d rotation_x 0 
+\i (00:00:09) FORM pkgmap3d save_current 
+\i (00:00:09) FORM pkgmap3d done 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) save 
+\i (00:00:09) fillin yes 
+\t (00:00:09) Symbol 'cap_abm3-16p000mhz-b2-t_abr-m.psm' created.
+\i (00:00:09) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2/CAP_ABM3-16P000MHZ-B2-T_ABR.xml" ' 
+\t (00:00:09) Reading Footprint XML
+\t (00:00:09) Creating padstacks
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 15702
+\i (00:00:09) trapsize 16141
+\i (00:00:09) trapsize 15702
+\i (00:00:09) trapsize 27228
+\i (00:00:10) trapsize 27228
+\i (00:00:10) trapsize 26013
+\t (00:00:10) Opening Design "CAP_ABM3-16P000MHZ-B2-T_ABR.dra"
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 15702
+\i (00:00:10) trapsize 16141
+\i (00:00:10) trapsize 15702
+\i (00:00:10) trapsize 27228
+\i (00:00:10) trapsize 27228
+\i (00:00:10) trapsize 26013
+\i (00:00:10) trapsize 25947
+\t (00:00:10) Creating TextBlocks
+\t (00:00:10) Creating Shapes on Package layers
+\t (00:00:10) Creating Pins
+\t (00:00:10) Creating Vias
+\t (00:00:10) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2/cap_abm3-16p000mhz-b2-t_abr.psm'.
+\t (00:00:10) Starting Create symbol...
+\t (00:00:10) Symbol Created
+\i (00:00:10) trapsize 1207
+\t (00:00:11) Opening existing design...
+\i (00:00:11) trapsize 1207
+\i (00:00:11) trapsize 1241
+\i (00:00:11) trapsize 1207
+\i (00:00:11) trapsize 1264
+\d (00:00:11) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2/CAP_ABM3-16P000MHZ-B2-T_ABR.dra
+\t (00:00:11) Symbol Saved
+   (00:00:11) t
+\i (00:00:11) scriptmode +i +n 
+\i (00:00:11) step pkg map 
+\i (00:00:11) setwindow form.pkgmap3d 
+\i (00:00:11) FORM pkgmap3d stplist CAP_ABM3-16P000MHZ-B2-T_ABR.step 
+\i (00:00:11) FORM pkgmap3d rotation_x 0 
+\i (00:00:11) FORM pkgmap3d save_current 
+\i (00:00:11) FORM pkgmap3d done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) save 
+\i (00:00:11) fillin yes 
+\t (00:00:12) Symbol 'cap_abm3-16p000mhz-b2-t_abr.psm' created.
+\i (00:00:12) exit 
+\t (00:00:12)     Journal end - Mon Mar 28 17:41:22 2022

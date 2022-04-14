@@ -1,0 +1,159 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Mar 28 19:35:50 2022
+\t (00:00:02)         Host=MCT163S06 User=lo2055 Pid=11992 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 29310
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_603/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_603/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_603/AllegroV17_2/CAP_CL10_SAM-L.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 765
+\i (00:00:03) trapsize 785
+\i (00:00:03) trapsize 792
+\i (00:00:03) trapsize 1168
+\i (00:00:03) trapsize 1168
+\i (00:00:03) trapsize 1115
+\i (00:00:03) trapsize 111549
+\t (00:00:03) Performing DRC...
+\t (00:00:03) Multithreaded DRC update (16 threads).
+\t (00:00:03) No DRC errors detected.
+\t (00:00:03) Opening Design "CAP_CL10_SAM-L.dra"
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 76531
+\i (00:00:03) trapsize 78534
+\i (00:00:03) trapsize 76531
+\i (00:00:03) trapsize 116758
+\i (00:00:03) trapsize 116758
+\i (00:00:04) trapsize 111549
+\i (00:00:04) trapsize 26530
+\t (00:00:04) Creating TextBlocks
+\t (00:00:04) Creating Shapes on Package layers
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\t (00:00:04) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_603/AllegroV17_2/cap_cl10_sam-l.psm'.
+\t (00:00:04) Starting Create symbol...
+\t (00:00:04) Symbol Created
+\i (00:00:04) trapsize 570
+   (00:00:04) Loading cmds.cxt 
+   (00:00:04) Loading skillExt.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 570
+\i (00:00:05) trapsize 586
+\i (00:00:05) trapsize 570
+\i (00:00:05) trapsize 597
+\d (00:00:05) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_603/AllegroV17_2/CAP_CL10_SAM-L.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) scriptmode +i +n 
+\i (00:00:05) step pkg map 
+\i (00:00:05) setwindow form.pkgmap3d 
+\i (00:00:05) FORM pkgmap3d stplist CAP_CL10_SAM.step 
+\i (00:00:05) FORM pkgmap3d rotation_x 0 
+\i (00:00:05) FORM pkgmap3d save_current 
+\i (00:00:05) FORM pkgmap3d done 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) save 
+\i (00:00:05) fillin yes 
+\t (00:00:06) Symbol 'cap_cl10_sam-l.psm' created.
+\i (00:00:06) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_603/AllegroV17_2/CAP_CL10_SAM-M.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 15132
+\i (00:00:06) trapsize 15556
+\i (00:00:06) trapsize 15132
+\i (00:00:06) trapsize 27770
+\i (00:00:06) trapsize 27770
+\i (00:00:06) trapsize 26530
+\t (00:00:06) Opening Design "CAP_CL10_SAM-M.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 15132
+\i (00:00:07) trapsize 15556
+\i (00:00:07) trapsize 15132
+\i (00:00:07) trapsize 27770
+\i (00:00:07) trapsize 27770
+\i (00:00:07) trapsize 26530
+\i (00:00:07) trapsize 26754
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_603/AllegroV17_2/cap_cl10_sam-m.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 646
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 646
+\i (00:00:07) trapsize 664
+\i (00:00:07) trapsize 646
+\i (00:00:07) trapsize 676
+\d (00:00:08) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_603/AllegroV17_2/CAP_CL10_SAM-M.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) scriptmode +i +n 
+\i (00:00:08) step pkg map 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist CAP_CL10_SAM.step 
+\i (00:00:08) FORM pkgmap3d rotation_x 0 
+\i (00:00:08) FORM pkgmap3d save_current 
+\i (00:00:08) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'cap_cl10_sam-m.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_603/AllegroV17_2/CAP_CL10_SAM.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:09) Creating padstacks
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 15132
+\i (00:00:09) trapsize 15556
+\i (00:00:09) trapsize 15132
+\i (00:00:09) trapsize 28003
+\i (00:00:09) trapsize 28003
+\i (00:00:09) trapsize 26754
+\t (00:00:09) Opening Design "CAP_CL10_SAM.dra"
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 15132
+\i (00:00:09) trapsize 15556
+\i (00:00:09) trapsize 15132
+\i (00:00:09) trapsize 28003
+\i (00:00:09) trapsize 28003
+\i (00:00:09) trapsize 26754
+\i (00:00:09) trapsize 26629
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+\t (00:00:09) Creating Pins
+\t (00:00:10) Creating Vias
+\t (00:00:10) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_603/AllegroV17_2/cap_cl10_sam.psm'.
+\t (00:00:10) Starting Create symbol...
+\t (00:00:10) Symbol Created
+\i (00:00:10) trapsize 545
+\t (00:00:10) Opening existing design...
+\i (00:00:10) trapsize 545
+\i (00:00:10) trapsize 560
+\i (00:00:10) trapsize 545
+\i (00:00:10) trapsize 570
+\d (00:00:10) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_603/AllegroV17_2/CAP_CL10_SAM.dra
+\t (00:00:10) Symbol Saved
+   (00:00:10) t
+\i (00:00:10) scriptmode +i +n 
+\i (00:00:10) step pkg map 
+\i (00:00:11) setwindow form.pkgmap3d 
+\i (00:00:11) FORM pkgmap3d stplist CAP_CL10_SAM.step 
+\i (00:00:11) FORM pkgmap3d rotation_x 0 
+\i (00:00:11) FORM pkgmap3d save_current 
+\i (00:00:11) FORM pkgmap3d done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) save 
+\i (00:00:11) fillin yes 
+\t (00:00:11) Symbol 'cap_cl10_sam.psm' created.
+\i (00:00:11) exit 
+\t (00:00:12)     Journal end - Mon Mar 28 19:35:59 2022

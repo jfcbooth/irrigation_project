@@ -1,0 +1,55 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Mar 15 13:12:50 2022
+\t (00:00:02)         Host=LILYS-DESKTOP User=leolt Pid=15572 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\leolt\Documents\College_Docs\ELEC323\GitAttempt\batterycharger\uc2906\AllegroPCBFiles\ul_LM1086CT-5-0-NOPB\AllegroV17_2\NDE0003B.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged NDE0003B
+\d (00:00:02) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_LM1086CT-5-0-NOPB/AllegroV17_2/NDE0003B.dra
+\i (00:00:03) trapsize 2626
+\i (00:00:03) trapsize 2700
+\i (00:00:03) trapsize 2626
+\i (00:00:03) trapsize 2209
+\i (00:00:03) trapsize 5876
+\i (00:00:03) generaledit 
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -61.841 343.375
+\i (00:00:04) trapsize 11753
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -264.767 219.291
+\i (00:00:04) trapsize 21347
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 1318.353 -567.471
+\i (00:00:04) trapsize 21347
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 1314.084 -567.471
+\i (00:00:04) trapsize 21347
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 67.406 90.023
+\i (00:00:05) trapsize 10674
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 411.955 87.889
+\i (00:00:05) trapsize 5337
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 411.955 87.889
+\i (00:00:05) trapsize 2668
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 356.452 64.407
+\i (00:00:06) trapsize 5337
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 347.913 62.273
+\i (00:00:06) trapsize 10674
+\i (00:00:08) exit 
+\e (00:00:08) Do you want to save the changes you made to NDE0003B.dra?
+\i (00:00:09) fillin no 
+\t (00:00:09)     Journal end - Tue Mar 15 13:12:57 2022

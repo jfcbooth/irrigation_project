@@ -1,0 +1,4 @@
+skill load "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_450405020524/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_450405020524/AllegroV17_2" 
+skill LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_450405020524/AllegroV17_2/CONN3_020524_WRE.xml" 
+exit 

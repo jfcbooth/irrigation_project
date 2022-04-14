@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOT-323_DIO-L.dra                             )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Thu Apr 14 16:10:02 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/irrigation_project/schematic/pcb_footprints/ul_BAV99W-7-F/AllegroV17_2
+    Name      = sot-323_dio-l.psm
+    User      = jb7008
+    Machine   = MCT163S07
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

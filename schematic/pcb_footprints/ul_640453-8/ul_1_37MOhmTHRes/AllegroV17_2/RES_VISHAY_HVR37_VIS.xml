@@ -1,0 +1,216 @@
+<Footprint name="RES_VISHAY_HVR37_VIS" >
+  <Units type="mils" precision="3" />
+  <Extents minX="-2059.5" minY="-2503.5" width="4210.5" height="3702" />
+  <Padstack name="SX63Y63D43P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="43" width="43" height="43" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="q" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="square" width="63" height="63" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="square" width="63" height="63" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="square" width="63" height="63" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="square" width="63" height="63" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="square" width="63" height="63" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+  <Padstack name="EX63Y63D43P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="43" width="43" height="43" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="q" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="circle" width="63" height="63" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="circle" width="63" height="63" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="circle" width="63" height="63" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="circle" width="63" height="63" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="circle" width="63" height="63" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+
+  <Padstack name="SX63Y63D43P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="43" width="43" height="43" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="q" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="square" width="63" height="63" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="square" width="63" height="63" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="square" width="63" height="63" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="square" width="63" height="63" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="square" width="63" height="63" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+  <Padstack name="EX63Y63D43P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="43" width="43" height="43" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="q" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="circle" width="63" height="63" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="circle" width="63" height="63" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="circle" width="63" height="63" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="circle" width="63" height="63" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="circle" width="63" height="63" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+  <TextBlocks>
+    <TextBlock name="17" width="6.25" height="25" lineSpacing="25" characterSpacing="6.25" /> 
+  </TextBlocks>
+
+  <Pins>
+    <Pin number="1" padName="SX63Y63D43P" originX="0" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="2" padName="EX63Y63D43P" originX="656" originY="0" rotation="180" isMechanical="no" textBlockName="17" />
+  </Pins>
+  <Vias>
+  </Vias>
+  <Layers>
+    <Layer name="PACKAGE GEOMETRY/PLACE_BOUND_TOP" packageHeight="157" packageHeightMin="0">
+      <Path lineWidth="6" type="shape" >
+        <Point x="-41.5" y="-41.5" />
+        <Point x="-41.5" y="41.5" />
+        <Point x="121" y="41.5" />
+        <Point x="121" y="88.5" />
+        <Point x="535" y="88.5" />
+        <Point x="535" y="41.5" />
+        <Point x="697.5" y="41.5" />
+        <Point x="697.5" y="-41.5" />
+        <Point x="535" y="-41.5" />
+        <Point x="535" y="-88.5" />
+        <Point x="121" y="-88.5" />
+        <Point x="121" y="-41.5" />
+        <Point x="-41.5" y="-41.5" />
+      </Path>
+    </Layer>
+    <Layer name="MANUFACTURING/NO_PROBE_TOP" packageHeight="157" >
+      <Path lineWidth="6" type="shape" >
+        <Point x="-46.5" y="-93.5" />
+        <Point x="-46.5" y="93.5" />
+        <Point x="702.5" y="93.5" />
+        <Point x="702.5" y="-93.5" />
+        <Point x="-46.5" y="-93.5" />
+      </Path>
+    </Layer>
+    <Layer name="REF DES/SILKSCREEN_TOP" packageHeight="157" >
+      <Label layer="REF DES/SILKSCREEN_TOP" textBlock="3" angle="0" x="328" y="-25" text="Ref" justify="center" />
+    </Layer>
+    <Layer name="DEVICE TYPE/SILKSCREEN_TOP" packageHeight="157" >
+      <Label layer="DEVICE TYPE/SILKSCREEN_TOP" textBlock="3" angle="0" x="328" y="-25" text="Dev" justify="center" />
+    </Layer>
+    <Layer name="USER PART NUMBER/SILKSCREEN_TOP" packageHeight="157" >
+      <Label layer="USER PART NUMBER/SILKSCREEN_TOP" textBlock="3" angle="0" x="328" y="-25" text="PN" justify="center" />
+    </Layer>
+    <Layer name="DEVICE TYPE/ASSEMBLY_TOP" packageHeight="157" >
+      <Label layer="DEVICE TYPE/ASSEMBLY_TOP" textBlock="3" angle="0" x="328" y="-25" text="DEV" justify="center" />
+    </Layer>
+    <Layer name="COMPONENT VALUE/SILKSCREEN_TOP" packageHeight="157" >
+      <Label layer="COMPONENT VALUE/SILKSCREEN_TOP" textBlock="3" angle="0" x="328" y="-25" text="VAL" justify="center" />
+    </Layer>
+    <Layer name="TOLERANCE/SILKSCREEN_TOP" packageHeight="157" >
+      <Label layer="TOLERANCE/SILKSCREEN_TOP" textBlock="3" angle="0" x="328" y="-25" text="TOL" justify="center" />
+    </Layer>
+    <Layer name="REF DES/ASSEMBLY_TOP" packageHeight="157" >
+      <Label layer="REF DES/ASSEMBLY_TOP" textBlock="3" angle="0" x="328" y="-25" text="Ref" justify="center" />
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="157" >
+      <Path lineWidth="0" type="line" >
+        <Point x="0" y="0" />
+        <Point x="131" y="0" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="157" >
+      <Path lineWidth="0" type="line" >
+        <Point x="656" y="0" />
+        <Point x="525" y="0" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="157" >
+      <Path lineWidth="0" type="line" >
+        <Point x="131" y="-78.5" />
+        <Point x="525" y="-78.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="157" >
+      <Path lineWidth="0" type="line" >
+        <Point x="525" y="-78.5" />
+        <Point x="525" y="78.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="157" >
+      <Path lineWidth="0" type="line" >
+        <Point x="525" y="78.5" />
+        <Point x="131" y="78.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="157" >
+      <Path lineWidth="0" type="line" >
+        <Point x="131" y="78.5" />
+        <Point x="131" y="-78.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="157" >
+      <Path lineWidth="6" type="line" >
+        <Point x="126" y="-83.5" />
+        <Point x="530" y="-83.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="157" >
+      <Path lineWidth="6" type="line" >
+        <Point x="530" y="-83.5" />
+        <Point x="530" y="83.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="157" >
+      <Path lineWidth="6" type="line" >
+        <Point x="530" y="83.5" />
+        <Point x="126" y="83.5" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="157" >
+      <Path lineWidth="6" type="line" >
+        <Point x="126" y="83.5" />
+        <Point x="126" y="-83.5" />
+      </Path>
+    </Layer>
+  </Layers>
+</Footprint>

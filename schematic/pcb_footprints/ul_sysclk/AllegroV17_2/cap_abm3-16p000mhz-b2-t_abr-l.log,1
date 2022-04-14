@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CAP_ABM3-16P000MHZ-B2-T_ABR-L.dra             )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Mon Mar 28 17:41:15 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_sysclk/AllegroV17_2
+    Name      = cap_abm3-16p000mhz-b2-t_abr-l.psm
+    User      = lo2055
+    Machine   = MCT163S06
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

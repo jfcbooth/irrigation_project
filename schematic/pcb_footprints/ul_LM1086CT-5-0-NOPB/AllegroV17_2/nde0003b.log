@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : NDE0003B.dra                                  )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Thu Mar 03 13:33:39 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_LM1086CT-5-0-NOPB/AllegroV17_2
+    Name      = nde0003b.psm
+    User      = leolt
+    Machine   = LILYS-DESKTOP
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

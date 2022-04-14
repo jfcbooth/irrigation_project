@@ -1,0 +1,159 @@
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Apr 13 17:37:45 2022
+\t (00:00:03)         Host=MCT163S08 User=jb7008 Pid=16592 CPUs=16
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 29310
+\i (00:00:06) replay builder.scr.txt 
+\i (00:00:06) skill 'load "D:/irrigation_project/schematic/pcb_footprints/ul_BQ2057WSNTR/AllegroV17_2/builder.ile" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'changeWorkingDir "D:/irrigation_project/schematic/pcb_footprints/ul_BQ2057WSNTR/AllegroV17_2" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_BQ2057WSNTR/AllegroV17_2/D8-L.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 817
+\i (00:00:06) trapsize 840
+\i (00:00:06) trapsize 848
+\i (00:00:06) trapsize 1168
+\i (00:00:06) trapsize 1115
+\i (00:00:07) trapsize 1115
+\i (00:00:07) trapsize 111549
+\t (00:00:07) Performing DRC...
+\t (00:00:07) Multithreaded DRC update (16 threads).
+\t (00:00:07) No DRC errors detected.
+\t (00:00:07) Opening Design "D8-L.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 81712
+\i (00:00:07) trapsize 84000
+\i (00:00:07) trapsize 81712
+\i (00:00:07) trapsize 116758
+\i (00:00:07) trapsize 116758
+\i (00:00:07) trapsize 111549
+\i (00:00:07) trapsize 28379
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'D:/irrigation_project/schematic/pcb_footprints/ul_BQ2057WSNTR/AllegroV17_2/d8-l.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 2182
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 2182
+\i (00:00:07) trapsize 2243
+\i (00:00:07) trapsize 2182
+\i (00:00:07) trapsize 2284
+\d (00:00:07) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_BQ2057WSNTR/AllegroV17_2/D8-L.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) scriptmode +i +n 
+\i (00:00:08) step pkg map 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist D8.step 
+\i (00:00:08) FORM pkgmap3d rotation_x 0 
+\i (00:00:08) FORM pkgmap3d save_current 
+\i (00:00:08) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'd8-l.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_BQ2057WSNTR/AllegroV17_2/D8-M.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 16038
+\i (00:00:08) trapsize 16487
+\i (00:00:08) trapsize 16038
+\i (00:00:08) trapsize 29705
+\i (00:00:08) trapsize 29705
+\i (00:00:08) trapsize 28379
+\t (00:00:08) Opening Design "D8-M.dra"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 16038
+\i (00:00:08) trapsize 16487
+\i (00:00:09) trapsize 16038
+\i (00:00:09) trapsize 29705
+\i (00:00:09) trapsize 29705
+\i (00:00:09) trapsize 28379
+\i (00:00:09) trapsize 28379
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Creating package symbol 'D:/irrigation_project/schematic/pcb_footprints/ul_BQ2057WSNTR/AllegroV17_2/d8-m.psm'.
+\t (00:00:09) Starting Create symbol...
+\t (00:00:09) Symbol Created
+\i (00:00:09) trapsize 2300
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 2300
+\i (00:00:09) trapsize 2364
+\i (00:00:09) trapsize 2300
+\i (00:00:09) trapsize 2407
+\d (00:00:09) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_BQ2057WSNTR/AllegroV17_2/D8-M.dra
+\t (00:00:09) Symbol Saved
+   (00:00:09) t
+\i (00:00:09) scriptmode +i +n 
+\i (00:00:09) step pkg map 
+\i (00:00:09) setwindow form.pkgmap3d 
+\i (00:00:09) FORM pkgmap3d stplist D8.step 
+\i (00:00:09) FORM pkgmap3d rotation_x 0 
+\i (00:00:09) FORM pkgmap3d save_current 
+\i (00:00:09) FORM pkgmap3d done 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) save 
+\i (00:00:09) fillin yes 
+\t (00:00:10) Symbol 'd8-m.psm' created.
+\i (00:00:10) skill 'LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_BQ2057WSNTR/AllegroV17_2/D8.xml" ' 
+\t (00:00:10) Reading Footprint XML
+\t (00:00:10) Creating padstacks
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 16196
+\i (00:00:10) trapsize 16650
+\i (00:00:10) trapsize 16196
+\i (00:00:10) trapsize 29705
+\i (00:00:10) trapsize 29705
+\i (00:00:10) trapsize 28379
+\t (00:00:10) Opening Design "D8.dra"
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 16196
+\i (00:00:10) trapsize 16650
+\i (00:00:10) trapsize 16196
+\i (00:00:10) trapsize 29705
+\i (00:00:10) trapsize 29705
+\i (00:00:10) trapsize 28379
+\i (00:00:10) trapsize 27887
+\t (00:00:10) Creating TextBlocks
+\t (00:00:10) Creating Shapes on Package layers
+\t (00:00:10) Creating Pins
+\t (00:00:10) Creating Vias
+\t (00:00:10) Creating package symbol 'D:/irrigation_project/schematic/pcb_footprints/ul_BQ2057WSNTR/AllegroV17_2/d8.psm'.
+\t (00:00:10) Starting Create symbol...
+\t (00:00:10) Symbol Created
+\i (00:00:10) trapsize 2234
+\t (00:00:10) Opening existing design...
+\i (00:00:11) trapsize 2234
+\i (00:00:11) trapsize 2297
+\i (00:00:11) trapsize 2234
+\i (00:00:11) trapsize 2339
+\d (00:00:11) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_BQ2057WSNTR/AllegroV17_2/D8.dra
+\t (00:00:11) Symbol Saved
+   (00:00:11) t
+\i (00:00:11) scriptmode +i +n 
+\i (00:00:11) step pkg map 
+\i (00:00:11) setwindow form.pkgmap3d 
+\i (00:00:11) FORM pkgmap3d stplist D8.step 
+\i (00:00:11) FORM pkgmap3d rotation_x 0 
+\i (00:00:11) FORM pkgmap3d save_current 
+\i (00:00:11) FORM pkgmap3d done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) save 
+\i (00:00:11) fillin yes 
+\t (00:00:11) Symbol 'd8.psm' created.
+\i (00:00:11) exit 
+\t (00:00:12)     Journal end - Wed Apr 13 17:37:54 2022

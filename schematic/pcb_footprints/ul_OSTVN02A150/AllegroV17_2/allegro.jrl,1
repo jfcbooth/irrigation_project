@@ -1,0 +1,56 @@
+\t (00:00:05) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Thu Mar 17 18:47:32 2022
+\t (00:00:05)         Host=LILYS-DESKTOP User=leolt Pid=17460 CPUs=8
+\t (00:00:05) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:06) Starting new design...
+\i (00:00:07) trapsize 29310
+\i (00:00:07) replay builder.scr.txt 
+\i (00:00:07) skill 'load "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_OSTVN02A150/AllegroV17_2/builder.ile" ' 
+   (00:00:07) t
+\i (00:00:07) skill 'changeWorkingDir "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_OSTVN02A150/AllegroV17_2" ' 
+   (00:00:07) t
+\i (00:00:07) skill 'LB_createFootprint "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_OSTVN02A150/AllegroV17_2/CONN_OSTVN02A150_OST.xml" ' 
+\t (00:00:07) Reading Footprint XML
+\t (00:00:07) Creating padstacks
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 711
+\i (00:00:08) trapsize 729
+\i (00:00:08) trapsize 735
+\i (00:00:08) trapsize 1259
+\i (00:00:08) trapsize 1199
+\i (00:00:09) trapsize 1199
+\i (00:00:09) trapsize 119887
+\t (00:00:09) Performing DRC...
+\t (00:00:09) Multithreaded DRC update (8 threads).
+\t (00:00:09) No DRC errors detected.
+\t (00:00:09) Opening Design "CONN_OSTVN02A150_OST.dra"
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 71138
+\i (00:00:10) trapsize 72866
+\i (00:00:10) trapsize 71138
+\i (00:00:10) trapsize 125926
+\i (00:00:10) trapsize 125926
+\i (00:00:10) trapsize 111549
+\i (00:00:10) trapsize 28996
+\t (00:00:10) Creating TextBlocks
+\t (00:00:10) Creating Shapes on Package layers
+\t (00:00:10) Creating Pins
+\t (00:00:10) Creating Vias
+\t (00:00:10) Creating package symbol 'C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_OSTVN02A150/AllegroV17_2/conn_ostvn02a150_ost.psm'.
+\t (00:00:10) Starting Create symbol...
+\t (00:00:11) Symbol Created
+\i (00:00:11) trapsize 3373
+   (00:00:12) Loading cmds.cxt 
+   (00:00:12) Loading skillExt.cxt 
+\t (00:00:12) Opening existing design...
+\i (00:00:12) trapsize 3373
+\i (00:00:12) trapsize 3452
+\i (00:00:12) trapsize 3373
+\i (00:00:12) trapsize 3530
+\d (00:00:12) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_OSTVN02A150/AllegroV17_2/CONN_OSTVN02A150_OST.dra
+\t (00:00:13) Symbol Saved
+   (00:00:13) t
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Thu Mar 17 18:47:40 2022

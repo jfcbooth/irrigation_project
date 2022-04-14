@@ -1,0 +1,15 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed Mar 30 12:35:19 2022
+\t (00:00:02)         Host=MCT163S05 User=jb7008 Pid=15612 CPUs=16
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe \\FSERV\home\jb7008\Desktop\batterycharger\uc2906\AllegroPCBFiles\ul_FDPF5N50NZ\AllegroV17_2\TO-220F-3L_16P07X10P36_ONS.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged TO-220F-3L_16P07X10P36_ONS
+\d (00:00:02) Design opened: //FSERV/home/jb7008/Desktop/batterycharger/uc2906/AllegroPCBFiles/ul_FDPF5N50NZ/AllegroV17_2/TO-220F-3L_16P07X10P36_ONS.dra
+\i (00:00:02) trapsize 2682
+\i (00:00:02) trapsize 2757
+\i (00:00:02) trapsize 2682
+\i (00:00:03) trapsize 6000
+\i (00:01:11) exit 
+\t (00:01:12)     Journal end - Wed Mar 30 12:36:28 2022

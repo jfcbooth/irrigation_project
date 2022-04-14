@@ -1,0 +1,36 @@
+skill load "D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2" 
+skill LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/TRANS_DTA114EUA_ROM-L.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist TRANS_DTA114EUA_ROM.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/TRANS_DTA114EUA_ROM-M.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist TRANS_DTA114EUA_ROM.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/TRANS_DTA114EUA_ROM.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist TRANS_DTA114EUA_ROM.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

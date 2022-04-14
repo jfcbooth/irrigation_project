@@ -1,0 +1,1 @@
+Copy all these into C:\Cadence\SPB_17.2\share\pcb\pcb_lib\symbols

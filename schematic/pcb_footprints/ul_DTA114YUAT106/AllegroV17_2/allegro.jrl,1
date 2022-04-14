@@ -1,0 +1,180 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Apr 14 16:04:17 2022
+\t (00:00:02)         Host=MCT163S07 User=jb7008 Pid=9368 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:06) trapsize 29310
+\i (00:00:06) replay builder.scr.txt 
+\i (00:00:06) skill 'load "D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/builder.ile" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'changeWorkingDir "D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/TRANS_DTA114EUA_ROM-L.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 1304
+\i (00:00:06) trapsize 1364
+\i (00:00:06) trapsize 1385
+\i (00:00:06) trapsize 1638
+\i (00:00:06) trapsize 1638
+\i (00:00:06) trapsize 1537
+\i (00:00:06) trapsize 153707
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (16 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 130435
+\i (00:00:06) trapsize 136364
+\i (00:00:06) trapsize 138522
+\i (00:00:06) trapsize 163776
+\i (00:00:06) trapsize 163776
+\i (00:00:06) trapsize 153707
+\t (00:00:07) Opening Design "TRANS_DTA114EUA_ROM-L.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 130435
+\i (00:00:07) trapsize 136364
+\i (00:00:07) trapsize 130435
+\i (00:00:07) trapsize 163776
+\i (00:00:07) trapsize 163776
+\i (00:00:07) trapsize 153707
+\i (00:00:07) trapsize 37767
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/trans_dta114eua_rom-l.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 1392
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 1392
+\i (00:00:07) trapsize 1456
+\i (00:00:07) trapsize 1392
+\i (00:00:07) trapsize 1484
+\d (00:00:07) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/TRANS_DTA114EUA_ROM-L.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) scriptmode +i +n 
+\i (00:00:08) step pkg map 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist TRANS_DTA114EUA_ROM.step 
+\i (00:00:08) FORM pkgmap3d rotation_x 0 
+\i (00:00:08) FORM pkgmap3d save_current 
+\i (00:00:08) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'trans_dta114eua_rom-l.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/TRANS_DTA114EUA_ROM-M.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 25429
+\i (00:00:08) trapsize 26584
+\i (00:00:08) trapsize 25429
+\i (00:00:08) trapsize 40241
+\i (00:00:08) trapsize 40241
+\i (00:00:08) trapsize 37767
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 25429
+\i (00:00:09) trapsize 26584
+\i (00:00:09) trapsize 25429
+\i (00:00:09) trapsize 40241
+\i (00:00:09) trapsize 40241
+\i (00:00:09) trapsize 37767
+\t (00:00:09) Opening Design "TRANS_DTA114EUA_ROM-M.dra"
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 25429
+\i (00:00:09) trapsize 26584
+\i (00:00:09) trapsize 25429
+\i (00:00:09) trapsize 40241
+\i (00:00:09) trapsize 40241
+\i (00:00:09) trapsize 37767
+\i (00:00:09) trapsize 37911
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Creating package symbol 'D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/trans_dta114eua_rom-m.psm'.
+\t (00:00:09) Starting Create symbol...
+\t (00:00:09) Symbol Created
+\i (00:00:09) trapsize 1826
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 1826
+\i (00:00:09) trapsize 1909
+\i (00:00:09) trapsize 1826
+\i (00:00:10) trapsize 1946
+\d (00:00:10) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/TRANS_DTA114EUA_ROM-M.dra
+\t (00:00:11) Symbol Saved
+   (00:00:11) t
+\i (00:00:11) scriptmode +i +n 
+\i (00:00:11) step pkg map 
+\i (00:00:11) setwindow form.pkgmap3d 
+\i (00:00:11) FORM pkgmap3d stplist TRANS_DTA114EUA_ROM.step 
+\i (00:00:11) FORM pkgmap3d rotation_x 0 
+\i (00:00:11) FORM pkgmap3d save_current 
+\i (00:00:11) FORM pkgmap3d done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) save 
+\i (00:00:11) fillin yes 
+\t (00:00:11) Symbol 'trans_dta114eua_rom-m.psm' created.
+\i (00:00:11) skill 'LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/TRANS_DTA114EUA_ROM.xml" ' 
+\t (00:00:11) Reading Footprint XML
+\t (00:00:11) Creating padstacks
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 25429
+\i (00:00:11) trapsize 26584
+\i (00:00:11) trapsize 25429
+\i (00:00:11) trapsize 40395
+\i (00:00:11) trapsize 40395
+\i (00:00:11) trapsize 37911
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 25429
+\i (00:00:12) trapsize 26584
+\i (00:00:12) trapsize 25429
+\i (00:00:12) trapsize 40395
+\i (00:00:12) trapsize 40395
+\i (00:00:12) trapsize 37911
+\t (00:00:12) Opening Design "TRANS_DTA114EUA_ROM.dra"
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 25429
+\i (00:00:12) trapsize 26584
+\i (00:00:12) trapsize 25429
+\i (00:00:12) trapsize 40395
+\i (00:00:12) trapsize 40395
+\i (00:00:12) trapsize 37911
+\i (00:00:12) trapsize 37839
+\t (00:00:12) Creating TextBlocks
+\t (00:00:12) Creating Shapes on Package layers
+\t (00:00:12) Creating Pins
+\t (00:00:12) Creating Vias
+\t (00:00:12) Creating package symbol 'D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/trans_dta114eua_rom.psm'.
+\t (00:00:12) Starting Create symbol...
+\t (00:00:12) Symbol Created
+\i (00:00:12) trapsize 1492
+\t (00:00:12) Opening existing design...
+\i (00:00:12) trapsize 1492
+\i (00:00:12) trapsize 1560
+\i (00:00:13) trapsize 1492
+\i (00:00:13) trapsize 1590
+\d (00:00:13) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2/TRANS_DTA114EUA_ROM.dra
+\t (00:00:13) Symbol Saved
+   (00:00:13) t
+\i (00:00:13) scriptmode +i +n 
+\i (00:00:13) step pkg map 
+\i (00:00:13) setwindow form.pkgmap3d 
+\i (00:00:13) FORM pkgmap3d stplist TRANS_DTA114EUA_ROM.step 
+\i (00:00:13) FORM pkgmap3d rotation_x 0 
+\i (00:00:13) FORM pkgmap3d save_current 
+\i (00:00:13) FORM pkgmap3d done 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) save 
+\i (00:00:13) fillin yes 
+\t (00:00:13) Symbol 'trans_dta114eua_rom.psm' created.
+\i (00:00:13) exit 
+\t (00:00:14)     Journal end - Thu Apr 14 16:04:29 2022

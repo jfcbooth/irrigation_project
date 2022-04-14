@@ -1,0 +1,14 @@
+skill load "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_1_37MOhmTHRes/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_1_37MOhmTHRes/AllegroV17_2" 
+skill LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_1_37MOhmTHRes/AllegroV17_2/RES_VISHAY_HVR37_VIS.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist RES_VISHAY_HVR37_VIS.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 
