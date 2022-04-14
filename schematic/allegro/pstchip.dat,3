@@ -1,5 +1,35 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 16:25:04}
+{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 17:53:57}
+primitive 'BATTERY_CONN_5-146280-2_TYCO_12';
+  pin
+    '+':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '-':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Battery';
+    JEDEC_TYPE='CONN_5-146280-2_TYCO';
+    VALUE='12vDc';
+  end_body;
+end_primitive;
+primitive 'BATTERY_CONN_5-146280-2_TYCO_7.';
+  pin
+    '+':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '-':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Battery';
+    JEDEC_TYPE='CONN_5-146280-2_TYCO';
+    VALUE='7.4V DC';
+  end_body;
+end_primitive;
 primitive 'C_0603_AVX_1U';
   pin
     '1':
@@ -139,6 +169,30 @@ primitive '2-PIN_HEADER_CONN_5-146280-2__1';
     PART_NAME='2-pin_header';
     JEDEC_TYPE='CONN_5-146280-2_TYCO';
     VALUE='Solar panel Pos';
+  end_body;
+end_primitive;
+primitive 'G5LE-1DC24_RELAY_G5LE-1DC5_OMR_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='G5LE-1DC24';
+    JEDEC_TYPE='RELAY_G5LE-1DC5_OMR';
+    VALUE='RELAY_G5LE-1DC5';
   end_body;
 end_primitive;
 primitive 'MOISTURE SENSOR_SAMTEC_TSW-103-';

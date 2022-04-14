@@ -1,61 +1,19 @@
-\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Fri Mar 18 11:59:22 2022
-\t (00:00:02)         Host=LILYS-DESKTOP User=leolt Pid=9832 CPUs=8
-\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\leolt\Documents\College_Docs\ELEC323\GitAttempt\batterycharger\uc2906\AllegroPCBFiles\DRAFiles\CONN_OSTVN02A150_OST.dra
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:02) Opening existing design...
-\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged CONN_OSTVN02A150_OST
-\d (00:00:02) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/DRAFiles/CONN_OSTVN02A150_OST.dra
-\i (00:00:02) trapsize 4010
-\i (00:00:02) trapsize 4011
-\i (00:00:02) trapsize 4123
-\i (00:00:03) trapsize 4011
-\i (00:00:03) trapsize 3373
-\i (00:00:03) trapsize 3373
-\i (00:00:05) zoom out 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom out -175.640 54.418
-\i (00:00:05) trapsize 6745
-\i (00:00:05) zoom out 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom out -585.616 54.417
-\i (00:00:05) trapsize 13491
-\i (00:00:06) zoom in 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom in 184.709 -215.399
-\i (00:00:06) trapsize 6745
-\i (00:00:07) zoom out 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom out 144.236 219.005
-\i (00:00:07) trapsize 13491
-\i (00:00:07) zoom out 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom out 117.255 359.310
-\i (00:00:07) trapsize 26982
-\i (00:00:07) zoom out 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom out 2650.003 980.444
-\i (00:00:07) trapsize 28996
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in -176.221 28.441
-\i (00:00:08) trapsize 14498
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in -1489.743 31.341
-\i (00:00:08) trapsize 7249
-\i (00:00:08) zoom out 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom out -128.378 141.526
-\i (00:00:08) trapsize 14498
-\i (00:00:08) zoom out 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom out 1128.601 124.129
-\i (00:00:08) trapsize 28996
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 270.318 28.441
-\i (00:00:09) trapsize 14498
-\i (00:08:52) exit 
-\t (00:08:52)     Journal end - Fri Mar 18 12:08:13 2022
+\t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Apr 14 17:44:27 2022
+\t (00:00:01)         Host=MCT163S07 User=jb7008 Pid=14424 CPUs=16
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\irrigation_project\schematic\pcb_footprints\DRAFiles\CON8_1X8_TU_TSW.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged CON8_1X8_TU_TSW
+\d (00:00:01) Design opened: D:/irrigation_project/schematic/pcb_footprints/DRAFiles/CON8_1X8_TU_TSW.dra
+\t (00:00:02) Grids are drawn 640.000, 640.000 apart for enhanced viewability.
+\t (00:00:02) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:02) trapsize 12615
+\i (00:00:02) trapsize 12968
+\i (00:00:02) trapsize 12615
+\t (00:00:02) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:02) trapsize 12615
+\i (00:00:02) generaledit 
+\i (00:00:04) exit 
+\t (00:00:04)     Journal end - Thu Apr 14 17:44:30 2022

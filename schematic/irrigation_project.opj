@@ -32,7 +32,9 @@
     ("Allegro Setup Part Type Length" "31")
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
-    ("Allegro Netlist User Defined Property" "FALSE"))
+    ("Allegro Netlist User Defined Property" "FALSE")
+    ("Allegro Netlist Input Board File"
+       "D:\irrigation_project\schematic\allegro\IRRIGATION_PROJECT.brd"))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -163,9 +165,9 @@
       (Path "Design Resources" ".\irrigation_project.dsn" "SCHEMATIC1")
       (Path "Design Resources" ".\irrigation_project.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\library2.olb")
       (Path "Outputs")
-      (Select "Design Resources" ".\irrigation_project.dsn"))
+      (Select "Design Resources" ".\irrigation_project.dsn" "SCHEMATIC1"
+         "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -175,9 +177,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 182 1554 182 641")
-        (Scroll "652 227")
-        (Zoom "100")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1713 52 507")
+        (Scroll "1580 96")
+        (Zoom "200")
         (Occurrence "/"))
       (Path "D:\IRRIGATION_PROJECT\SCHEMATIC\IRRIGATION_PROJECT.DSN")
       (Schematic "SCHEMATIC1")

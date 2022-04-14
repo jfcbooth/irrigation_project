@@ -1,11 +1,31 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 16:25:04 }
+{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 17:53:57 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='IRRIGATION_PROJECT';
  POST_TIME='Jun 13 2018 09:15:00';
  SOURCE_TOOL='CAPTURE_WRITER';
 END_DIRECTIVES;
+
+PART_NAME
+ B1 'BATTERY_CONN_5-146280-2_TYCO_12':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS48443@LIBRARY2.BATTERY.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins48443@library2.\battery.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins48443@library2.\battery.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B2 'BATTERY_CONN_5-146280-2_TYCO_7.':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS49005@LIBRARY2.BATTERY.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins49005@library2.\battery.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins49005@library2.\battery.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
 
 PART_NAME
  C1 'C_0603_AVX_1U':;
@@ -104,6 +124,16 @@ SECTION_NUMBER 1
  '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS38554@LIBRARY2.2-PIN_HEADER.NORMAL(SCH_1)':
  C_PATH='@irrigation_project.schematic1(sch_1):ins38554@library2.\2-pin_header.normal\(sch_1)',
  P_PATH='@irrigation_project.schematic1(sch_1):page1_ins38554@library2.\2-pin_header.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ K1 'G5LE-1DC24_RELAY_G5LE-1DC5_OMR_':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS51619@LIBRARY2.G5LE-1DC24.NORMAL(SCH_1)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins51619@library2.\g5le-1dc24.normal\(sch_1)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins51619@library2.\g5le-1dc24.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

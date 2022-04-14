@@ -1,60 +1,2444 @@
-\t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Thu Apr 14 16:52:35 2022
-\t (00:00:01)         Host=MCT163S07 User=jb7008 Pid=11544 CPUs=16
-\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession jb7008 D:\IRRIGATION_PROJECT\SCHEMATIC\allegro\IRRIGATION_PROJECT.brd
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged IRRIGATION_PROJECT
-\d (00:00:04) Design opened: D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd
-\i (00:00:04) trapsize 13043
-\i (00:00:04) trapsize 13636
-\i (00:00:04) trapsize 13852
-\i (00:00:04) trapsize 16378
-\i (00:00:05) trapsize 15371
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Apr 14 18:22:21 2022
+\t (00:00:02)         Host=MCT163S07 User=jb7008 Pid=16284 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession jb7008 D:\IRRIGATION_PROJECT\SCHEMATIC\allegro\IRRIGATION_PROJECT.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged IRRIGATION_PROJECT
+\d (00:00:05) Design opened: D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd
+\i (00:00:05) trapsize 979
+\i (00:00:05) trapsize 1007
+\i (00:00:05) trapsize 1017
+\i (00:00:05) trapsize 1017
+\i (00:00:05) trapsize 917
 \i (00:00:05) generaledit 
-\i (00:00:08) zoom out 1 
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 1065.85 1443.52
+\i (00:00:07) trapsize 459
+\i (00:00:08) zoom in 1 
 \i (00:00:08) setwindow pcb
-\i (00:00:08) zoom out 7009.04 14755.88
-\i (00:00:08) trapsize 15371
-\i (00:00:11) place manual 
-\i (00:00:13) setwindow form.plc_manual
-\i (00:00:13) FORM plc_manual tree  B1 'Components by refdes' 
-\i (00:00:13) FORM plc_manual tree  B2 'Components by refdes' 
-\i (00:00:14) FORM plc_manual tree  C1 'Components by refdes' 
-\i (00:00:14) FORM plc_manual tree  C2 'Components by refdes' 
-\i (00:00:15) FORM plc_manual tree  C3 'Components by refdes' 
-\i (00:00:15) FORM plc_manual tree  C4 'Components by refdes' 
-\i (00:00:16) FORM plc_manual tree  CLK2 'Components by refdes' 
-\i (00:00:16) FORM plc_manual tree  D1 'Components by refdes' 
-\i (00:00:16) FORM plc_manual tree  D2 'Components by refdes' 
-\i (00:00:16) FORM plc_manual tree  DHT1 'Components by refdes' 
-\i (00:00:17) FORM plc_manual tree  J2 'Components by refdes' 
-\i (00:00:17) FORM plc_manual tree  J3 'Components by refdes' 
-\i (00:00:17) FORM plc_manual tree  K1 'Components by refdes' 
-\i (00:00:17) FORM plc_manual tree  MS1 'Components by refdes' 
-\i (00:00:18) FORM plc_manual tree  NM1 'Components by refdes' 
-\i (00:00:18) FORM plc_manual tree  NM2 'Components by refdes' 
-\i (00:00:18) FORM plc_manual tree  NM3 'Components by refdes' 
-\i (00:00:18) FORM plc_manual tree  NM4 'Components by refdes' 
-\i (00:00:18) FORM plc_manual tree  R1 'Components by refdes' 
-\i (00:00:19) FORM plc_manual tree  R2 'Components by refdes' 
-\i (00:00:19) FORM plc_manual tree  R3 'Components by refdes' 
-\i (00:00:19) FORM plc_manual tree  R4 'Components by refdes' 
-\i (00:00:19) FORM plc_manual tree  R5 'Components by refdes' 
-\i (00:00:20) FORM plc_manual tree  R6 'Components by refdes' 
-\i (00:00:20) FORM plc_manual tree  R7 'Components by refdes' 
-\i (00:00:20) FORM plc_manual tree  R8 'Components by refdes' 
-\i (00:00:20) FORM plc_manual tree  RTHERM 'Components by refdes' 
-\i (00:00:21) FORM plc_manual tree  SD1 'Components by refdes' 
-\i (00:00:21) FORM plc_manual tree  U1 'Components by refdes' 
-\i (00:00:21) FORM plc_manual tree  U2 'Components by refdes' 
-\i (00:00:21) FORM plc_manual tree  U3 'Components by refdes' 
-\i (00:00:22) FORM plc_manual tree  U4 'Components by refdes' 
-\i (00:00:23) FORM plc_manual cancel  
-\i (00:00:24) setwindow pcb
-\i (00:00:24) generaledit 
-\i (00:00:25) exit 
-\e (00:00:25) Do you want to save the changes you made to IRRIGATION_PROJECT.brd?
-\i (00:00:27) fillin yes 
-\t (00:00:27)     Journal end - Thu Apr 14 16:53:00 2022
+\i (00:00:08) zoom in 1075.03 1529.76
+\i (00:00:08) trapsize 229
+\i (00:00:10) pick grid 1089.71 1549.03
+\t (00:00:10) last pick:  1100.00 1550.00
+\i (00:00:11) pick grid 1092.01 1466.01
+\t (00:00:11) last pick:  1100.00 1475.00
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 1100.72 1514.63
+\i (00:00:12) trapsize 459
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in 1104.39 1699.93
+\i (00:00:50) trapsize 229
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in 1106.23 1696.26
+\i (00:00:51) trapsize 115
+\i (00:00:52) pick grid 1103.25 1692.82
+\t (00:00:52) last pick:  1100.00 1700.00
+\i (00:00:55) place manual 
+\t (00:00:55) Moving R2 / R_0805_PAN_.2 / 0805_PAN.
+\t (00:00:55) last pick:  1075.00 1700.00
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 1077.56 1700.85
+\i (00:00:56) trapsize 229
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 1077.57 1700.39
+\i (00:00:56) trapsize 459
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 1078.48 1700.39
+\i (00:00:56) trapsize 917
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 1003.25 1669.19
+\i (00:00:59) trapsize 459
+\i (00:01:00) pick grid 1063.80 1693.96
+\t (00:01:00) last pick:  1075.00 1700.00
+\i (00:01:00) generaledit 
+\i (00:01:01) pick grid 1083.99 1560.94
+\t (00:01:01) last pick:  1075.00 1550.00
+\i (00:01:03) place manual 
+\t (00:01:03) Moving R3 / R_0805_PAN_1K / 0805_PAN.
+\t (00:01:03) last pick:  1075.00 1550.00
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 1248.20 1660.93
+\i (00:01:04) trapsize 917
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 1178.47 1638.92
+\i (00:01:04) trapsize 1835
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 488.60 1451.77
+\i (00:01:05) trapsize 3670
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 481.27 1349.03
+\i (00:01:05) trapsize 1835
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in 407.88 1374.72
+\i (00:01:06) trapsize 917
+\i (00:01:08) pick grid 1062.89 1541.69
+\t (00:01:08) last pick:  1075.00 1550.00
+\i (00:01:08) generaledit 
+\i (00:01:10) pick grid 1833.49 1110.52
+\t (00:01:10) last pick:  1825.00 1100.00
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 2460.97 1547.19
+\i (00:01:12) trapsize 1835
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 2460.98 1547.19
+\i (00:01:12) trapsize 3670
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 4989.34 1547.19
+\i (00:01:12) trapsize 7339
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 3000.47 286.93
+\i (00:01:13) trapsize 3670
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 2853.69 426.38
+\i (00:01:13) trapsize 1835
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 2648.20 1083.22
+\i (00:01:13) trapsize 917
+\i (00:01:14) roam start
+\i (00:01:14) roam x -16
+\i (00:01:14) roam y -32
+\i (00:01:14) roam x -16
+\i (00:01:14) roam y -16
+\i (00:01:14) roam x -32
+\i (00:01:14) roam y -32
+\i (00:01:14) roam y -32
+\i (00:01:14) roam x -16
+\i (00:01:14) roam y -16
+\i (00:01:14) roam x -16
+\i (00:01:15) roam x -16
+\i (00:01:15) roam y -32
+\i (00:01:15) roam y -16
+\i (00:01:15) roam end
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 2171.16 1407.96
+\i (00:01:17) trapsize 1835
+\i (00:01:25) place manual 
+\i (00:01:27) roam start
+\i (00:01:27) roam x -16
+\i (00:01:27) roam x -32
+\i (00:01:27) roam x -48
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x -48
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x -32
+\i (00:01:27) roam x -32
+\i (00:01:27) roam x -32
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x -32
+\i (00:01:27) roam x -32
+\i (00:01:27) roam x -32
+\i (00:01:27) roam end
+\i (00:01:28) setwindow form.plc_manual
+\i (00:01:28) FORM plc_manual tree 'MULTISEL YES' RTHERM 'Components by refdes' 
+\t (00:01:28) Placing RTHERM / R_0805_PAN_4.7K / 0805_PAN on Top.
+\i (00:01:28) FORM plc_manual tree  RTHERM 'Components by refdes' 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in 1051.96 562.14
+\i (00:01:29) trapsize 917
+\i (00:01:30) prepopup 1066.64 608.02
+\i (00:01:31) pop mirror 
+\t (00:01:31) Placing RTHERM / R_0805_PAN_4.7K / 0805_PAN on Bottom.
+\i (00:01:34) pick grid 1062.97 630.03
+\t (00:01:34) last pick:  1075.00 625.00
+\i (00:01:34) pick grid 1077.65 730.94
+\t (00:01:34) last pick:  1075.00 725.00
+\t (00:01:34) Moving R8 / R_0805_PAN_658 / 0805_PAN.
+\t (00:01:34) last pick:  1075.00 750.00
+\i (00:01:36) pick grid 1086.82 763.97
+\t (00:01:36) last pick:  1075.00 775.00
+\i (00:01:37) setwindow form.plc_manual
+\i (00:01:37) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\w (00:01:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:37) Placing U2 / LVR_DPAK-3_ONS_LVR / DPAK-3_ONS on Top.
+\i (00:01:37) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 1462.95 655.72
+\i (00:01:37) trapsize 1835
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 1451.93 652.05
+\i (00:01:37) trapsize 3670
+\i (00:01:38) prepopup 1283.14 637.37
+\i (00:01:39) pop mirror 
+\t (00:01:39) Placing U2 / LVR_DPAK-3_ONS_LVR / DPAK-3_ONS on Bottom.
+\i (00:01:39) zoom in 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom in 1789.53 1121.74
+\i (00:01:39) trapsize 1835
+\i (00:01:39) zoom in 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom in 1789.53 1118.08
+\i (00:01:39) trapsize 917
+\i (00:01:40) prepopup 1710.64 1061.21
+\i (00:01:41) pop mirror 
+\t (00:01:41) Placing U2 / LVR_DPAK-3_ONS_LVR / DPAK-3_ONS on Top.
+\i (00:01:42) prepopup 1701.46 1022.68
+\i (00:01:43) pop mirror 
+\t (00:01:43) Placing U2 / LVR_DPAK-3_ONS_LVR / DPAK-3_ONS on Bottom.
+\i (00:01:43) prepopup 1703.30 1022.68
+\i (00:01:44) rotate 
+\t (00:01:44) Spin the element(s).
+\i (00:01:46) iangle -90.000
+\t (00:01:46) last angle:  +270.000 Degrees
+\i (00:01:49) pick grid 1668.44 987.82
+\t (00:01:49) last pick:  1675.00 1000.00
+\i (00:01:50) setwindow form.plc_manual
+\i (00:01:50) FORM plc_manual tree  U4 'Components by refdes' 
+\i (00:01:51) FORM plc_manual tree 'MULTISEL YES' U4 'Components by refdes' 
+\w (00:01:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:51) Placing U4 / BQ2057WSNTR_D8_BQ2057W_D_8 / D8 on Top.
+\i (00:01:52) setwindow pcb
+\i (00:01:52) prepopup 1969.34 1189.64
+\i (00:01:53) pop mirror 
+\t (00:01:53) Placing U4 / BQ2057WSNTR_D8_BQ2057W_D_8 / D8 on Bottom.
+\i (00:01:53) roam start
+\i (00:01:53) roam x 64
+\i (00:01:54) roam x 32
+\i (00:01:54) roam x 48
+\i (00:01:54) roam x 16
+\i (00:01:54) roam x 32
+\i (00:01:54) roam end
+\i (00:01:59) pick grid 2039.06 1485.03
+\t (00:01:59) last pick:  2050.00 1475.00
+\i (00:02:00) setwindow form.plc_manual
+\i (00:02:00) FORM plc_manual tree 'MULTISEL YES' NM4 'Components by refdes' 
+\w (00:02:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:00) Placing NM4 / N-CHANNEL MOSFET_SOT-323_DIO_P- / SOT-323_DIO on Top.
+\i (00:02:00) FORM plc_manual tree  NM4 'Components by refdes' 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 2075.75 1103.41
+\i (00:02:01) trapsize 1835
+\i (00:02:02) zoom out 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom out 2072.09 1033.68
+\i (00:02:02) trapsize 3670
+\i (00:02:03) zoom in 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom in 2475.73 791.49
+\i (00:02:03) trapsize 1835
+\i (00:02:03) zoom in 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom in 2472.06 791.50
+\i (00:02:03) trapsize 917
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out 2455.55 791.50
+\i (00:02:04) trapsize 1835
+\i (00:02:05) roam start
+\i (00:02:05) roam x 16
+\i (00:02:05) roam x 16
+\i (00:02:05) roam x 48
+\i (00:02:05) roam x 64
+\i (00:02:05) roam y -16
+\i (00:02:06) roam end
+\i (00:02:14) prepopup 3088.53 176.85
+\i (00:02:16) pop mirror 
+\t (00:02:16) Placing NM4 / N-CHANNEL MOSFET_SOT-323_DIO_P- / SOT-323_DIO on Bottom.
+\i (00:02:17) pick grid 3088.53 176.85
+\t (00:02:17) last pick:  3100.00 175.00
+\i (00:02:19) setwindow form.plc_manual
+\i (00:02:19) FORM plc_manual tree 'MULTISEL YES' NM2 'Components by refdes' 
+\t (00:02:19) Placing NM2 / N-CHANNEL MOSFET_SOT-323_DIO_N- / SOT-323_DIO on Top.
+\i (00:02:19) FORM plc_manual tree  NM2 'Components by refdes' 
+\i (00:02:20) FORM plc_manual tree 'MULTISEL YES' NM1 'Components by refdes' 
+\t (00:02:20) Placing NM1 / N-CHANNEL MOSFET_SOT-323_DIO_N- / SOT-323_DIO on Top.
+\i (00:02:20) FORM plc_manual tree  NM1 'Components by refdes' 
+\i (00:02:20) FORM plc_manual tree 'MULTISEL YES' NM3 'Components by refdes' 
+\i (00:02:20) FORM plc_manual tree  NM3 'Components by refdes' 
+\i (00:02:21) FORM plc_manual tree  NM1 'Components by refdes' 
+\i (00:02:22) setwindow pcb
+\i (00:02:22) prepopup 2310.60 176.85
+\i (00:02:23) pop mirror 
+\t (00:02:23) Placing NM1 / N-CHANNEL MOSFET_SOT-323_DIO_N- / SOT-323_DIO on Bottom.
+\i (00:02:25) pick grid 2277.57 184.19
+\t (00:02:25) last pick:  2275.00 175.00
+\t (00:02:25) Placing NM2 / N-CHANNEL MOSFET_SOT-323_DIO_N- / SOT-323_DIO on Top.
+\i (00:02:27) prepopup 2530.77 162.17
+\i (00:02:28) pop mirror 
+\t (00:02:28) Placing NM2 / N-CHANNEL MOSFET_SOT-323_DIO_N- / SOT-323_DIO on Bottom.
+\i (00:02:29) pick grid 2519.76 184.19
+\t (00:02:29) last pick:  2525.00 175.00
+\t (00:02:29) Placing NM3 / N-CHANNEL MOSFET_SOT-323_DIO_N- / SOT-323_DIO on Top.
+\i (00:02:30) prepopup 2754.61 165.84
+\i (00:02:31) pop mirror 
+\t (00:02:31) Placing NM3 / N-CHANNEL MOSFET_SOT-323_DIO_N- / SOT-323_DIO on Bottom.
+\i (00:02:32) pick grid 2787.63 180.52
+\t (00:02:32) last pick:  2800.00 175.00
+\i (00:02:34) pick grid 3084.86 224.55
+\t (00:02:34) last pick:  3075.00 225.00
+\t (00:02:34) Moving SD1 / SD_CARD_CON8_1X8_TU_TSW_SD_CARD / CON8_1X8_TU_TSW.
+\t (00:02:34) last pick:  2675.00 1175.00
+\i (00:02:34) Esc 
+\i (00:02:35) Esc 
+\i (00:02:36) prepopup 3029.82 290.60
+\i (00:02:37) oops 
+\t (00:02:37) last pick:  3075.00 225.00
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in 3095.87 209.87
+\i (00:02:38) trapsize 917
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in 3097.70 208.04
+\i (00:02:38) trapsize 459
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in 3098.62 208.04
+\i (00:02:39) trapsize 229
+\i (00:02:39) pick grid 3100.00 193.36
+\t (00:02:39) last pick:  3100.00 200.00
+\t (00:02:39) Moving NM4 / N-CHANNEL MOSFET_SOT-323_DIO_P- / SOT-323_DIO.
+\t (00:02:39) last pick:  3100.00 175.00
+\i (00:02:40) zoom out 1 
+\i (00:02:40) setwindow pcb
+\i (00:02:40) zoom out 3075.23 184.19
+\i (00:02:40) trapsize 459
+\i (00:02:40) zoom out 1 
+\i (00:02:40) setwindow pcb
+\i (00:02:40) zoom out 3044.05 177.76
+\i (00:02:40) trapsize 917
+\i (00:02:41) pick grid 3044.05 177.77
+\t (00:02:41) last pick:  3050.00 175.00
+\i (00:02:43) setwindow form.plc_manual
+\i (00:02:43) FORM plc_manual tree 'MULTISEL YES' CLK2 'Components by refdes' 
+\w (00:02:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:43) Placing CLK2 / CLOCK_XTAL_HC49SM-8-30-50-60-16 / XTAL_HC49SM-8-30-50-60-16-AT00 on Top.
+\i (00:02:43) FORM plc_manual tree  CLK2 'Components by refdes' 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) prepopup 2772.50 786.90
+\i (00:02:44) pop mirror 
+\t (00:02:44) Placing CLK2 / CLOCK_XTAL_HC49SM-8-30-50-60-16 / XTAL_HC49SM-8-30-50-60-16-AT00 on Bottom.
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 2627.56 781.40
+\i (00:02:45) trapsize 1835
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 2473.43 616.27
+\i (00:02:45) trapsize 3670
+\i (00:02:45) prepopup 2444.08 652.97
+\i (00:02:46) rotate 
+\t (00:02:46) Spin the element(s).
+\i (00:02:47) iangle -90.000
+\t (00:02:47) last angle:  +270.000 Degrees
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 2326.66 667.65
+\i (00:02:48) trapsize 1835
+\i (00:02:49) pick grid 2315.66 627.28
+\t (00:02:49) last pick:  2325.00 625.00
+\i (00:02:50) setwindow form.plc_manual
+\i (00:02:50) FORM plc_manual tree 'MULTISEL YES' C4 'Components by refdes' 
+\w (00:02:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:50) Placing C4 / C_0603_AVX_.1U / 0603_AVX on Top.
+\i (00:02:50) FORM plc_manual tree  C4 'Components by refdes' 
+\i (00:02:54) FORM plc_manual tree 'MULTISEL NO' C4 'Components by refdes' 
+\i (00:02:54) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\t (00:02:54) Placing C1 / C_0603_AVX_1U / 0603_AVX on Top.
+\i (00:02:54) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:02:55) FORM plc_manual tree 'MULTISEL YES' C2 'Components by refdes' 
+\i (00:02:55) FORM plc_manual tree  C2 'Components by refdes' 
+\i (00:02:56) FORM plc_manual tree 'MULTISEL YES' C3 'Components by refdes' 
+\i (00:02:56) FORM plc_manual tree  C3 'Components by refdes' 
+\i (00:02:57) FORM plc_manual tree 'MULTISEL YES' C4 'Components by refdes' 
+\i (00:02:57) FORM plc_manual tree  C4 'Components by refdes' 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) prepopup 3100.93 421.79
+\i (00:03:00) pop mirror 
+\t (00:03:00) Placing C1 / C_0603_AVX_1U / 0603_AVX on Bottom.
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 2667.93 498.85
+\i (00:03:01) trapsize 917
+\i (00:03:01) prepopup 2908.29 421.79
+\i (00:03:06) pick grid 3069.74 363.08
+\t (00:03:06) last pick:  3075.00 375.00
+\t (00:03:06) Placing C2 / C_0603_AVX_22PF / 0603_AVX on Top.
+\i (00:03:07) prepopup 3080.75 517.20
+\i (00:03:08) pop mirror 
+\t (00:03:08) Placing C2 / C_0603_AVX_22PF / 0603_AVX on Bottom.
+\i (00:03:09) pick grid 3082.59 519.03
+\t (00:03:09) last pick:  3075.00 525.00
+\t (00:03:09) Placing C3 / C_0603_AVX_22PF / 0603_AVX on Top.
+\i (00:03:10) prepopup 3077.08 667.65
+\i (00:03:11) pop mirror 
+\t (00:03:11) Placing C3 / C_0603_AVX_22PF / 0603_AVX on Bottom.
+\i (00:03:12) pick grid 3078.92 669.48
+\t (00:03:12) last pick:  3075.00 675.00
+\t (00:03:12) Placing C4 / C_0603_AVX_.1U / 0603_AVX on Top.
+\i (00:03:13) prepopup 3067.91 834.61
+\i (00:03:14) pop mirror 
+\t (00:03:14) Placing C4 / C_0603_AVX_.1U / 0603_AVX on Bottom.
+\i (00:03:15) pick grid 3069.74 836.45
+\t (00:03:15) last pick:  3075.00 825.00
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out 2814.71 717.19
+\i (00:03:16) trapsize 1835
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out 2418.41 621.78
+\i (00:03:16) trapsize 3670
+\i (00:03:17) roam start
+\i (00:03:17) roam x -16
+\i (00:03:17) roam x -16
+\i (00:03:17) roam x -32
+\i (00:03:18) roam x -32
+\i (00:03:18) roam end
+\i (00:03:18) zoom in 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom in 1459.28 709.84
+\i (00:03:18) trapsize 1835
+\i (00:03:22) pick grid 1066.64 636.45
+\t (00:03:22) last pick:  1075.00 625.00
+\t (00:03:22) Moving K1 / G5LE-1DC24_RELAY_G5LE-1DC5_OMR_ / RELAY_G5LE-1DC5_OMR.
+\t (00:03:22) last pick:  1175.00 500.00
+\i (00:03:23) Esc 
+\i (00:03:23) prepopup 1081.32 610.76
+\i (00:03:24) oops 
+\t (00:03:24) last pick:  1075.00 625.00
+\i (00:03:25) pick grid 1044.63 614.43
+\t (00:03:25) last pick:  1050.00 625.00
+\t (00:03:25) Moving RTHERM / R_0805_PAN_4.7K / 0805_PAN.
+\t (00:03:25) last pick:  1075.00 625.00
+\i (00:03:28) pick grid 2585.82 346.56
+\t (00:03:28) last pick:  2575.00 350.00
+\i (00:03:29) pick grid 1055.63 783.23
+\t (00:03:29) last pick:  1050.00 775.00
+\t (00:03:29) Moving R8 / R_0805_PAN_658 / 0805_PAN.
+\t (00:03:29) last pick:  1075.00 775.00
+\i (00:03:32) pick grid 2817.00 361.24
+\t (00:03:32) last pick:  2825.00 350.00
+\i (00:03:33) pick grid 1026.28 919.00
+\t (00:03:33) last pick:  1025.00 925.00
+\t (00:03:33) Moving R7 / R_0805_PAN_470 / 0805_PAN.
+\t (00:03:33) last pick:  1075.00 925.00
+\i (00:03:34) pick grid 2820.67 515.36
+\t (00:03:34) last pick:  2825.00 525.00
+\i (00:03:35) pick grid 1103.34 1040.10
+\t (00:03:35) last pick:  1100.00 1050.00
+\t (00:03:35) Moving R6 / R_0805_PAN_4.6K / 0805_PAN.
+\t (00:03:35) last pick:  1075.00 1075.00
+\i (00:03:37) pick grid 2585.82 533.70
+\t (00:03:37) last pick:  2575.00 525.00
+\i (00:03:38) pick grid 1118.02 1197.88
+\t (00:03:38) last pick:  1125.00 1200.00
+\t (00:03:38) Moving R5 / R_0805_PAN_2K / 0805_PAN.
+\t (00:03:38) last pick:  1075.00 1225.00
+\i (00:03:40) pick grid 2835.34 665.81
+\t (00:03:40) last pick:  2825.00 675.00
+\i (00:03:41) pick grid 1055.63 1333.66
+\t (00:03:41) last pick:  1050.00 1325.00
+\t (00:03:41) Moving R4 / R_0805_PAN_15K / 0805_PAN.
+\t (00:03:41) last pick:  1075.00 1375.00
+\i (00:03:43) pick grid 2563.80 676.81
+\t (00:03:43) last pick:  2575.00 675.00
+\i (00:03:44) pick grid 1062.97 1531.81
+\t (00:03:44) last pick:  1075.00 1525.00
+\t (00:03:44) Moving R3 / R_0805_PAN_1K / 0805_PAN.
+\t (00:03:44) last pick:  1075.00 1550.00
+\i (00:03:45) pick grid 2835.34 819.93
+\t (00:03:45) last pick:  2825.00 825.00
+\i (00:03:47) pick grid 1062.97 1660.24
+\t (00:03:47) last pick:  1075.00 1650.00
+\t (00:03:47) Moving R2 / R_0805_PAN_.2 / 0805_PAN.
+\t (00:03:47) last pick:  1075.00 1700.00
+\i (00:03:49) pick grid 2582.15 812.59
+\t (00:03:49) last pick:  2575.00 825.00
+\i (00:03:49) roam start
+\i (00:03:49) roam y -32
+\i (00:03:49) roam x -16
+\i (00:03:49) roam y -32
+\i (00:03:50) roam end
+\i (00:03:51) pick grid 1081.31 1820.78
+\t (00:03:51) last pick:  1075.00 1825.00
+\t (00:03:51) Moving R1 / R_0805_PAN_1K / 0805_PAN.
+\t (00:03:51) last pick:  1075.00 1850.00
+\i (00:03:55) pick grid 2061.07 1024.50
+\t (00:03:55) last pick:  2050.00 1025.00
+\i (00:03:56) zoom in 1 
+\i (00:03:56) setwindow pcb
+\i (00:03:56) zoom in 2255.55 613.51
+\i (00:03:56) trapsize 917
+\i (00:03:57) zoom in 1 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom in 2657.37 574.98
+\i (00:03:57) trapsize 459
+\i (00:03:57) zoom in 1 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom in 2657.37 574.99
+\i (00:03:57) trapsize 229
+\i (00:03:58) zoom out 1 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) zoom out 2570.68 629.58
+\i (00:03:58) trapsize 459
+\i (00:03:58) zoom out 1 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) zoom out 2564.26 612.14
+\i (00:03:58) trapsize 917
+\i (00:03:58) zoom out 1 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) zoom out 2560.60 597.47
+\i (00:03:58) trapsize 1835
+\i (00:03:59) prepopup 2164.29 692.88
+\i (00:03:59) done 
+\i (00:03:59) generaledit 
+\i (00:04:01) pick grid 2105.57 1588.24
+\t (00:04:01) last pick:  2100.00 1600.00
+\i (00:04:02) pick grid 1742.29 -206.15
+\t (00:04:02) last pick:  1750.00 -200.00
+\i (00:04:02) save 
+\i (00:04:04) fillin yes 
+\i (00:04:04) generaledit 
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out 1030.41 564.44
+\i (00:04:04) trapsize 3670
+\i (00:04:05) roam start
+\i (00:04:05) roam x -64
+\i (00:04:05) roam x -48
+\i (00:04:05) roam x -32
+\i (00:04:05) roam y 16
+\i (00:04:06) roam end
+\i (00:04:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement
+\i (00:04:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement
+\i (00:04:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement Report
+\i (00:04:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement Report
+\i (00:04:08) reports 'Unplaced Components Report' 
+\i (00:04:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Placement 3 | Report
+\i (00:04:08) generaledit 
+\i (00:04:11) setwindow text
+\i (00:04:11) close
+\i (00:04:25) pick grid 4438.92 1534.56
+\t (00:04:25) last pick:  4450.00 1525.00
+\i (00:04:30) place manual 
+\i (00:04:33) setwindow form.plc_manual
+\i (00:04:33) FORM plc_manual categories Package symbols 
+\i (00:04:34) FORM plc_manual advanced_settings  
+\i (00:04:35) FORM plc_manual library YES 
+\i (00:04:43) FORM plc_manual database NO 
+\i (00:04:48) FORM plc_manual placement_list  
+\i (00:05:20) FORM plc_manual alpha_filter fid* 
+\i (00:05:22) FORM plc_manual tree 'MULTISEL YES' FIDUCIAL 'Package symbols' 
+\i (00:05:22) FORM plc_manual tree  FIDUCIAL 'Package symbols' 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom in 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom in 2163.82 1285.03
+\i (00:05:23) trapsize 1835
+\i (00:05:23) zoom in 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom in 1958.33 1395.12
+\i (00:05:23) trapsize 917
+\i (00:05:24) roam start
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x -64
+\i (00:05:24) roam y 16
+\i (00:05:24) roam x -208
+\i (00:05:24) roam y 32
+\i (00:05:24) roam x -112
+\i (00:05:24) roam x -64
+\i (00:05:24) roam y 16
+\i (00:05:24) roam x -16
+\i (00:05:24) roam x -32
+\i (00:05:24) roam end
+\i (00:05:25) zoom out 1 
+\i (00:05:25) setwindow pcb
+\i (00:05:25) zoom out 820.78 1404.29
+\i (00:05:25) trapsize 1835
+\i (00:05:27) roam start
+\i (00:05:27) roam x -16
+\i (00:05:27) roam y -32
+\i (00:05:28) roam end
+\i (00:05:40) zoom in 1 
+\i (00:05:40) setwindow pcb
+\i (00:05:40) zoom in 442.82 1927.19
+\i (00:05:40) trapsize 917
+\i (00:05:41) roam start
+\i (00:05:41) roam y 16
+\i (00:05:41) roam y -16
+\i (00:05:42) roam x -32
+\i (00:05:42) roam y -16
+\i (00:05:42) roam x -16
+\i (00:05:42) roam x -48
+\i (00:05:42) roam y 16
+\i (00:05:42) roam x -32
+\i (00:05:42) roam x -32
+\i (00:05:42) roam x -16
+\i (00:05:42) roam end
+\i (00:05:43) roam start
+\i (00:05:43) roam y -16
+\i (00:05:43) roam x -16
+\i (00:05:43) roam y -48
+\i (00:05:44) roam end
+\i (00:05:48) pick grid 88.71 1918.02
+\t (00:05:48) last pick:  100.00 1925.00
+\i (00:05:48) roam start
+\i (00:05:48) roam x 64
+\i (00:05:48) roam y 32
+\i (00:05:48) roam x 16
+\i (00:05:48) roam y 16
+\i (00:05:49) roam end
+\i (00:05:51) pick grid 127.24 1892.34
+\t (00:05:51) last pick:  125.00 1900.00
+\t (00:05:51) last pick:  100.00 1925.00
+\i (00:05:52) pick grid 110.73 1912.52
+\t (00:05:52) last pick:  100.00 1925.00
+\i (00:05:53) pick grid 105.22 1885.00
+\t (00:05:53) last pick:  100.00 1875.00
+\t (00:05:53) last pick:  100.00 1925.00
+\i (00:05:54) pick grid 973.06 1910.69
+\t (00:05:54) last pick:  975.00 1900.00
+\i (00:05:55) zoom in 1 
+\i (00:05:55) setwindow pcb
+\i (00:05:55) zoom in 971.23 1872.16
+\i (00:05:55) trapsize 459
+\i (00:05:56) pick grid 1002.42 1874.00
+\t (00:05:56) last pick:  1000.00 1875.00
+\t (00:05:56) last pick:  975.00 1900.00
+\i (00:05:56) zoom out 1 
+\i (00:05:56) setwindow pcb
+\i (00:05:56) zoom out 577.67 1858.40
+\i (00:05:56) trapsize 917
+\i (00:05:56) zoom out 1 
+\i (00:05:56) setwindow pcb
+\i (00:05:56) zoom out 577.68 1860.24
+\i (00:05:56) trapsize 1835
+\i (00:05:57) roam start
+\i (00:05:57) roam x -32
+\i (00:05:57) roam x -32
+\i (00:05:58) roam x -16
+\i (00:05:58) roam end
+\i (00:05:58) zoom in 1 
+\i (00:05:58) setwindow pcb
+\i (00:05:58) zoom in 145.59 1907.95
+\i (00:05:58) trapsize 917
+\i (00:06:00) pick grid 110.73 1918.96
+\t (00:06:00) last pick:  100.00 1925.00
+\i (00:06:02) setwindow form.plc_manual
+\i (00:06:02) FORM plc_manual cancel  
+\i (00:06:02) setwindow pcb
+\i (00:06:02) generaledit 
+\i (00:06:03) pick grid 974.90 1889.61
+\t (00:06:03) last pick:  975.00 1900.00
+\i (00:06:04) undo 
+\i (00:06:04) trapsize 459
+\i (00:06:04) generaledit 
+\i (00:06:05) pick grid 988.66 1885.01
+\t (00:06:05) last pick:  1000.00 1875.00
+\i (00:06:07) place manual 
+\t (00:06:07) last pick:  975.00 1900.00
+\i (00:06:08) roam start
+\i (00:06:08) roam x -16
+\i (00:06:08) roam x -112
+\i (00:06:08) roam x -32
+\i (00:06:08) roam x -48
+\i (00:06:08) roam x -96
+\i (00:06:09) roam x -64
+\i (00:06:09) roam x -80
+\i (00:06:09) roam x -16
+\i (00:06:09) roam x -48
+\i (00:06:09) roam x -32
+\i (00:06:09) roam x -48
+\i (00:06:09) roam x -48
+\i (00:06:09) roam x -32
+\i (00:06:09) roam x -16
+\i (00:06:09) roam x -16
+\i (00:06:09) roam y -16
+\i (00:06:09) roam y -32
+\i (00:06:09) roam y -48
+\i (00:06:09) roam y -16
+\i (00:06:09) roam y -32
+\i (00:06:10) roam end
+\i (00:06:11) pick grid 111.65 1922.61
+\t (00:06:11) last pick:  100.00 1925.00
+\i (00:06:11) generaledit 
+\i (00:06:12) pick grid 348.33 1922.61
+\t (00:06:12) last pick:  350.00 1925.00
+\i (00:06:22) pick grid 343.74 1915.27
+\t (00:06:22) last pick:  350.00 1925.00
+\i (00:06:23) pick grid 143.76 1868.48
+\t (00:06:23) last pick:  150.00 1875.00
+\i (00:06:23) pick grid 348.33 1904.26
+\t (00:06:23) last pick:  350.00 1900.00
+\i (00:06:56) pick grid 144.67 1883.16
+\t (00:06:56) last pick:  150.00 1875.00
+\i (00:07:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
+\i (00:07:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
+\i (00:07:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities "DRC Browser"
+\i (00:07:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities "DRC Browser"
+\i (00:07:10) browse drcs 
+\i (00:07:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Utilities 2 | "DRC Browser"
+\i (00:07:11) generaledit 
+\i (00:07:11) QtSignal splitter_2 m_treeView selectionChanged
+\i (00:07:11) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:12) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:12) QtSignal splitter m_drcTableView clicked 0 0
+\i (00:07:12) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:13) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:13) QtSignal splitter m_drcTableView clicked 0 0
+\i (00:07:13) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:13) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:13) QtSignal splitter m_drcTableView clicked 0 0
+\i (00:07:13) QtSignal dwrFilterHeader m_combobox CurrentIndexChanged All
+\i (00:07:13) QtSignal dwrFilterHeader m_combobox CurrentIndexChanged All
+\i (00:07:14) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:14) QtSignal splitter m_drcTableView clicked 0 1
+\i (00:07:14) trapsize 37
+\i (00:07:14) trapsize 37
+\i (00:07:14) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:14) QtSignal splitter m_drcTableView dataChanged 0 0 "(125.00 1900.00)"
+\i (00:07:17) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:17) QtSignal splitter_2 m_treeView selectionChanged DRC(2) Spacing(2) "Thru Pin To(2)" +
+\i (00:07:17) QtSignal "Thru Pin(2)"
+\i (00:07:17) QtSignal splitter_2 m_treeView selectionChanged DRC(2) Spacing(2) "Thru Pin To(2)" +
+\i (00:07:17) QtSignal "Thru Pin(2)"
+\i (00:07:17) QtSignal splitter_2 m_treeView selectionChanged DRC(2) Spacing(2) "Thru Pin To(2)" +
+\i (00:07:17) QtSignal "Thru Pin(2)"
+\i (00:07:17) zoom out 1 
+\i (00:07:17) setwindow pcb
+\i (00:07:17) zoom out 133.37 1898.31
+\i (00:07:17) trapsize 73
+\i (00:07:17) QtSignal splitter_2 m_treeView selectionChanged DRC(2) Spacing(2) "Thru Pin To(2)" +
+\i (00:07:17) QtSignal "Thru Pin(2)"
+\i (00:07:18) QtSignal splitter_2 m_treeView selectionChanged DRC(2) Spacing(2) "Thru Pin To(2)" +
+\i (00:07:18) QtSignal "Thru Pin(2)"
+\i (00:07:18) QtSignal splitter_2 m_treeView selectionChanged DRC(2) Spacing(2) "Thru Pin To(2)" +
+\i (00:07:18) QtSignal "Thru Pin(2)"
+\i (00:07:18) QtSignal splitter_2 m_treeView selectionChanged DRC(2) Spacing(2) "Thru Pin To(2)" +
+\i (00:07:18) QtSignal "Thru Pin(2)"
+\i (00:07:19) QtSignal splitter_2 m_treeView selectionChanged DRC(2) Spacing(2) "Thru Pin To(2)"
+\i (00:07:19) QtSignal splitter_2 m_treeView clicked DRC(2) Spacing(2) "Thru Pin To(2)"
+\i (00:07:19) QtSignal splitter_2 m_treeView selectionChanged DRC(2) Spacing(2) "Thru Pin To(2)"
+\i (00:07:19) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:20) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:20) QtSignal splitter m_drcTableView clicked 0 0
+\i (00:07:20) QtSignal dwrFilterHeader m_combobox CurrentIndexChanged All
+\i (00:07:20) QtSignal dwrFilterHeader m_combobox CurrentIndexChanged All
+\i (00:07:20) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:21) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView dataChanged 1 0 "(125.00 1900.00)"
+\i (00:07:21) QtSignal splitter m_drcTableView selectionChanged
+\i (00:07:21) QtSignal splitter m_drcTableView clicked 1 0
+\i (00:07:21) trapsize 37
+\i (00:07:21) trapsize 37
+\i (00:07:22) QtSignal splitter_2 m_treeView selectionChanged DRC(2) Spacing(2) "Thru Pin To(2)" +
+\i (00:07:22) QtSignal "Thru Pin(2)"
+\i (00:07:22) zoom out 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom out 133.29 1900.73
+\i (00:07:22) trapsize 73
+\i (00:07:22) zoom out 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom out 133.30 1900.74
+\i (00:07:22) trapsize 147
+\i (00:07:22) zoom out 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom out 133.30 1900.74
+\i (00:07:22) trapsize 293
+\i (00:07:23) zoom in 1 
+\i (00:07:23) setwindow pcb
+\i (00:07:23) zoom in 100.43 1891.93
+\i (00:07:23) trapsize 147
+\i (00:07:23) roam start
+\i (00:07:24) roam end
+\i (00:07:24) pick grid 112.47 1913.94
+\t (00:07:24) last pick:  100.00 1925.00
+\i (00:07:25) zoom out 1 
+\i (00:07:25) setwindow pcb
+\i (00:07:25) zoom out 124.50 1907.78
+\i (00:07:25) trapsize 293
+\i (00:07:25) zoom out 1 
+\i (00:07:25) setwindow pcb
+\i (00:07:25) zoom out 123.91 1908.37
+\i (00:07:25) trapsize 587
+\i (00:07:25) zoom out 1 
+\i (00:07:25) setwindow pcb
+\i (00:07:25) zoom out 122.73 1908.36
+\i (00:07:25) trapsize 1174
+\i (00:07:27) prepopup 122.73 1915.41
+\i (00:07:29) pop dyn_option_select '@:@Unplace component' 
+\i (00:07:29) unplace component 
+\i (00:07:29) generaledit 
+\i (00:07:31) place manual 
+\i (00:07:37) setwindow form.plc_manual
+\i (00:07:37) FORM plc_manual advanced_settings  
+\i (00:07:37) FORM plc_manual library YES 
+\i (00:07:40) FORM plc_manual database NO 
+\i (00:07:42) FORM plc_manual placement_list  
+\i (00:07:46) FORM plc_manual alpha_filter fid* 
+\i (00:07:47) FORM plc_manual tree  FIDUCIAL 'Package symbols' 
+\i (00:07:47) FORM plc_manual tree 'MULTISEL YES' FIDUCIAL 'Package symbols' 
+\i (00:07:53) setwindow pcb
+\i (00:07:53) pick grid 1012.45 1866.11
+\t (00:07:53) last pick:  1000.00 1875.00
+\i (00:07:54) QtSignal dwrFilterHeader m_combobox CurrentIndexChanged All
+\i (00:07:54) QtSignal dwrFilterHeader m_combobox CurrentIndexChanged All
+\i (00:07:54) roam start
+\i (00:07:54) roam x 16
+\i (00:07:54) roam y 16
+\i (00:07:54) roam x 48
+\i (00:07:54) roam x 32
+\i (00:07:54) roam y 16
+\i (00:07:54) roam x 32
+\i (00:07:54) roam x 32
+\i (00:07:54) roam y 16
+\i (00:07:54) roam x 48
+\i (00:07:55) roam x 32
+\i (00:07:55) roam y 16
+\i (00:07:55) roam x 48
+\i (00:07:55) roam y 16
+\i (00:07:55) roam x 80
+\i (00:07:55) roam y 16
+\i (00:07:55) roam x 64
+\i (00:07:55) roam y 16
+\i (00:07:55) roam x 64
+\i (00:07:55) roam y 16
+\i (00:07:55) roam end
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out 2190.47 1314.79
+\i (00:07:55) trapsize 2348
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out 2134.14 1305.41
+\i (00:07:55) trapsize 4695
+\i (00:07:56) zoom in 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom in 1669.34 432.12
+\i (00:07:56) trapsize 2348
+\i (00:07:56) roam start
+\i (00:07:56) roam x -64
+\i (00:07:56) roam x -80
+\i (00:07:56) roam y -16
+\i (00:07:57) roam x -48
+\i (00:07:57) roam y -16
+\i (00:07:57) roam end
+\i (00:07:59) setwindow form.plc_manual
+\i (00:07:59) FORM plc_manual tree 'MULTISEL YES' FIDUCIAL 'Package symbols' 
+\i (00:08:01) setwindow pcb
+\i (00:08:01) zoom in 1 
+\i (00:08:01) setwindow pcb
+\i (00:08:01) zoom in 2082.50 1021.36
+\i (00:08:01) trapsize 1174
+\i (00:08:02) pick grid 2012.08 1225.60
+\t (00:08:02) last pick:  2000.00 1225.00
+\i (00:08:02) QtSignal dwrFilterHeader m_combobox CurrentIndexChanged All
+\i (00:08:02) QtSignal dwrFilterHeader m_combobox CurrentIndexChanged All
+\i (00:08:06) setwindow form.plc_manual
+\i (00:08:06) FORM plc_manual done  
+\i (00:08:06) setwindow pcb
+\i (00:08:06) generaledit 
+\i (00:08:08) shadow toggle 
+\i (00:08:09) pick grid 1040.20 1847.70
+\t (00:08:09) last pick:  1050.00 1850.00
+\i (00:08:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities "DRC Browser"
+\i (00:08:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities "DRC Browser"
+\i (00:08:12) browse drcs 
+\i (00:08:12) generaledit 
+\i (00:08:13) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:13) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:13) QtSignal splitter_2 m_treeView selectionChanged
+\i (00:08:13) QtSignal splitter_2 m_treeView selectionChanged
+\i (00:08:13) QtSignal splitter_2 m_treeView selectionChanged
+\i (00:08:13) QtSignal splitter_2 m_treeView selectionChanged DRC(4) Spacing(4)
+\i (00:08:13) QtSignal splitter_2 m_treeView clicked DRC(4) Spacing(4)
+\i (00:08:14) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:14) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:14) QtSignal splitter m_drcTableView clicked 0 0
+\i (00:08:14) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:15) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView dataChanged 0 0 "Thru Pin"
+\i (00:08:15) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:17) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:20) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:20) QtSignal splitter_2 m_treeView selectionChanged DRC(4) Spacing(4) "Thru Pin To(4)"
+\i (00:08:20) QtSignal splitter_2 m_treeView selectionChanged DRC(4) Spacing(4) "Thru Pin To(4)"
+\i (00:08:21) zoom in 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom in 1155.22 1854.74
+\i (00:08:21) trapsize 587
+\i (00:08:22) zoom in 1 
+\i (00:08:22) setwindow pcb
+\i (00:08:22) zoom in 990.89 1882.91
+\i (00:08:22) trapsize 293
+\i (00:08:23) zoom in 1 
+\i (00:08:23) setwindow pcb
+\i (00:08:23) zoom in 1046.06 1800.16
+\i (00:08:23) trapsize 147
+\i (00:08:24) zoom in 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom in 1030.51 1828.33
+\i (00:08:24) trapsize 73
+\i (00:08:24) roam start
+\i (00:08:24) roam y -16
+\i (00:08:24) roam x -16
+\i (00:08:24) roam y -48
+\i (00:08:24) roam y -16
+\i (00:08:24) roam x -16
+\i (00:08:24) roam y -32
+\i (00:08:24) roam x -16
+\i (00:08:24) roam y -32
+\i (00:08:24) roam x -16
+\i (00:08:24) roam y -48
+\i (00:08:24) roam x -16
+\i (00:08:24) roam y -48
+\i (00:08:25) roam y -32
+\i (00:08:25) roam x -16
+\i (00:08:25) roam end
+\i (00:08:30) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:30) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:30) QtSignal splitter m_drcTableView clicked 0 0
+\i (00:08:30) QtSignal dwrFilterHeader m_combobox CurrentIndexChanged All
+\i (00:08:30) QtSignal dwrFilterHeader m_combobox CurrentIndexChanged All
+\i (00:08:30) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:31) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:31) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:31) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:32) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:34) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:35) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:35) QtSignal splitter m_drcTableView clicked 0 2
+\i (00:08:35) trapsize 37
+\i (00:08:35) trapsize 37
+\i (00:08:36) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView dataChanged 0 1 Bottom
+\i (00:08:36) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:37) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView dataChanged 0 0 "(2025.00 1200.00)"
+\i (00:08:37) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:37) QtSignal splitter m_drcTableView clicked 0 3
+\i (00:08:37) trapsize 37
+\i (00:08:37) trapsize 37
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 0 2 "0 MIL"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 1 Top
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView dataChanged 1 0 "(2025.00 1200.00)"
+\i (00:08:38) QtSignal splitter m_drcTableView selectionChanged
+\i (00:08:38) QtSignal splitter_2 m_treeView selectionChanged DRC(4) Spacing(4) "Thru Pin To(4)" +
+\i (00:08:38) QtSignal "Thru Pin(4)"
+\i (00:08:38) zoom out 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom out 2007.55 1208.44
+\i (00:08:38) trapsize 73
+\i (00:08:38) zoom out 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom out 2007.69 1208.43
+\i (00:08:38) trapsize 147
+\i (00:08:38) zoom out 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom out 2008.56 1206.68
+\i (00:08:38) trapsize 293
+\i (00:08:38) zoom out 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom out 2010.33 1192.59
+\i (00:08:38) trapsize 587
+\i (00:08:43) color192 
+\i (00:08:43) generaledit 
+\i (00:08:45) shadow toggle 
+\i (00:08:46) shadow toggle 
+\i (00:08:46) save 
+\i (00:08:47) fillin yes 
+\i (00:08:47) generaledit 
+\i (00:08:48) zoom out 1 
+\i (00:08:48) setwindow pcb
+\i (00:08:48) zoom out 2261.51 1091.64
+\i (00:08:48) trapsize 1174
+\i (00:08:49) zoom out 1 
+\i (00:08:49) setwindow pcb
+\i (00:08:49) zoom out 2047.89 1199.63
+\i (00:08:49) trapsize 2348
+\i (00:08:49) zoom in 1 
+\i (00:08:49) setwindow pcb
+\i (00:08:49) zoom in 2033.79 1514.20
+\i (00:08:49) trapsize 1174
+\i (00:08:50) zoom in 1 
+\i (00:08:50) setwindow pcb
+\i (00:08:50) zoom in 2040.84 1594.02
+\i (00:08:50) trapsize 587
+\i (00:08:51) zoom in 1 
+\i (00:08:51) setwindow pcb
+\i (00:08:51) zoom in 2063.14 1570.55
+\i (00:08:51) trapsize 293
+\i (00:08:52) zoom in 1 
+\i (00:08:52) setwindow pcb
+\i (00:08:52) zoom in 2124.17 1565.27
+\i (00:08:52) trapsize 147
+\i (00:08:53) pick grid 2127.99 1572.02
+\t (00:08:53) last pick:  2125.00 1575.00
+\i (00:08:53) zoom out 1 
+\i (00:08:53) setwindow pcb
+\i (00:08:53) zoom out 2132.09 1569.09
+\i (00:08:53) trapsize 293
+\i (00:08:54) zoom out 1 
+\i (00:08:54) setwindow pcb
+\i (00:08:54) zoom out 2132.69 1567.33
+\i (00:08:54) trapsize 587
+\i (00:08:54) pick grid 2100.99 1626.01
+\t (00:08:54) last pick:  2100.00 1625.00
+\i (00:08:55) zoom in 1 
+\i (00:08:55) setwindow pcb
+\i (00:08:55) zoom in 2052.86 1456.99
+\i (00:08:55) trapsize 293
+\i (00:08:55) zoom in 1 
+\i (00:08:55) setwindow pcb
+\i (00:08:55) zoom in 2052.86 1459.34
+\i (00:08:55) trapsize 147
+\i (00:08:56) zoom out 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom out 2030.56 1472.25
+\i (00:08:56) trapsize 293
+\i (00:08:57) zoom out 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom out 2152.05 1370.72
+\i (00:08:57) trapsize 587
+\i (00:08:57) zoom out 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom out 2155.57 1368.37
+\i (00:08:57) trapsize 1174
+\i (00:08:57) zoom out 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom out 2155.56 1366.03
+\i (00:08:57) trapsize 2348
+\i (00:08:57) zoom in 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 2333.97 525.60
+\i (00:08:57) trapsize 1174
+\i (00:08:57) zoom in 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 2333.97 525.61
+\i (00:08:57) trapsize 587
+\i (00:08:57) zoom in 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 2333.97 525.61
+\i (00:08:57) trapsize 293
+\i (00:08:58) zoom out 1 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) zoom out 2383.27 611.89
+\i (00:08:58) trapsize 587
+\i (00:08:59) zoom in 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom in 2731.87 656.49
+\i (00:08:59) trapsize 293
+\i (00:08:59) zoom in 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom in 2570.48 692.88
+\i (00:08:59) trapsize 147
+\i (00:09:00) zoom out 1 
+\i (00:09:00) setwindow pcb
+\i (00:09:00) zoom out 2574.30 696.40
+\i (00:09:00) trapsize 293
+\i (00:09:00) zoom out 1 
+\i (00:09:00) setwindow pcb
+\i (00:09:00) zoom out 2574.29 696.40
+\i (00:09:00) trapsize 587
+\i (00:09:00) zoom out 1 
+\i (00:09:00) setwindow pcb
+\i (00:09:00) zoom out 2574.29 691.70
+\i (00:09:00) trapsize 1174
+\i (00:09:01) zoom out 1 
+\i (00:09:01) setwindow pcb
+\i (00:09:01) zoom out 2006.18 658.84
+\i (00:09:01) trapsize 2348
+\i (00:09:03) zoom out 1 
+\i (00:09:03) setwindow pcb
+\i (00:09:03) zoom out 1240.88 1062.62
+\i (00:09:03) trapsize 4695
+\i (00:09:03) zoom out 1 
+\i (00:09:03) setwindow pcb
+\i (00:09:03) zoom out 1250.27 1062.63
+\i (00:09:03) trapsize 9390
+\i (00:09:04) zoom in 1 
+\i (00:09:04) setwindow pcb
+\i (00:09:04) zoom in 852.39 1495.57
+\i (00:09:04) trapsize 4695
+\i (00:10:12) pick grid 119.96 3101.29
+\t (00:10:12) last pick:  125.00 3100.00
+\i (00:10:14) place manual 
+\i (00:10:15) zoom in 1 
+\i (00:10:15) setwindow pcb
+\i (00:10:15) zoom in 899.35 2021.42
+\i (00:10:15) trapsize 2348
+\i (00:10:17) setwindow form.plc_manual
+\i (00:10:17) FORM plc_manual cancel  
+\i (00:10:17) setwindow pcb
+\i (00:10:17) generaledit 
+\i (00:10:19) pick grid 997.95 1796.06
+\t (00:10:19) last pick:  1000.00 1800.00
+\i (00:10:19) prepopup 1012.04 1800.76
+\i (00:10:21) pop dyn_option_select '@:@Unplace component' 
+\i (00:10:21) unplace component 
+\i (00:10:21) generaledit 
+\i (00:10:22) pick grid 2016.78 1190.40
+\t (00:10:22) last pick:  2025.00 1200.00
+\i (00:10:23) pick grid 2030.87 1223.26
+\t (00:10:23) last pick:  2025.00 1225.00
+\i (00:10:23) zoom in 1 
+\i (00:10:23) setwindow pcb
+\i (00:10:23) zoom in 2030.87 1223.26
+\i (00:10:23) trapsize 1174
+\i (00:10:23) zoom in 1 
+\i (00:10:23) setwindow pcb
+\i (00:10:23) zoom in 2030.87 1223.27
+\i (00:10:23) trapsize 587
+\i (00:10:24) pick grid 2017.96 1237.36
+\t (00:10:24) last pick:  2025.00 1225.00
+\i (00:10:25) prepopup 2016.79 1236.18
+\i (00:10:27) pop dyn_option_select '@:@Unplace component' 
+\i (00:10:27) unplace component 
+\i (00:10:27) generaledit 
+\i (00:10:44) zoom out 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom out 1956.92 1612.96
+\i (00:10:44) trapsize 1174
+\i (00:10:45) zoom out 1 
+\i (00:10:45) setwindow pcb
+\i (00:10:45) zoom out 1956.93 1612.97
+\i (00:10:45) trapsize 2348
+\i (00:10:46) save 
+\i (00:10:47) fillin yes 
+\i (00:10:47) generaledit 
+\i (00:10:47) zoom in 1 
+\i (00:10:47) setwindow pcb
+\i (00:10:47) zoom in 2388.86 1030.78
+\i (00:10:47) trapsize 1174
+\i (00:10:51) zoom out 1 
+\i (00:10:51) setwindow pcb
+\i (00:10:51) zoom out 2675.26 913.41
+\i (00:10:51) trapsize 2348
+\i (00:10:53) rats all 
+\i (00:10:53) generaledit 
+\i (00:10:53) unrats all 
+\i (00:10:53) generaledit 
+\i (00:10:54) zoom in 1 
+\i (00:10:54) setwindow pcb
+\i (00:10:54) zoom in 1661.12 1185.72
+\i (00:10:54) trapsize 1174
+\i (00:10:55) zoom out 1 
+\i (00:10:55) setwindow pcb
+\i (00:10:55) zoom out 1170.49 1014.35
+\i (00:10:55) trapsize 2348
+\i (00:10:57) roam start
+\i (00:10:57) roam x -16
+\i (00:10:57) roam x -64
+\i (00:10:57) roam x -64
+\i (00:10:58) roam x -32
+\i (00:10:58) roam end
+\i (00:11:22) zoom in 1 
+\i (00:11:22) setwindow pcb
+\i (00:11:22) zoom in 2204.57 511.99
+\i (00:11:22) trapsize 1174
+\i (00:11:23) zoom in 1 
+\i (00:11:23) setwindow pcb
+\i (00:11:23) zoom in 2303.17 479.12
+\i (00:11:23) trapsize 587
+\i (00:11:25) pick grid 2461.63 529.60
+\t (00:11:25) last pick:  2450.00 525.00
+\i (00:11:25) zoom out 1 
+\i (00:11:25) setwindow pcb
+\i (00:11:25) zoom out 2461.63 529.60
+\i (00:11:25) trapsize 1174
+\i (00:11:25) zoom out 1 
+\i (00:11:25) setwindow pcb
+\i (00:11:25) zoom out 2461.63 529.60
+\i (00:11:25) trapsize 2348
+\i (00:11:25) zoom out 1 
+\i (00:11:25) setwindow pcb
+\i (00:11:25) zoom out 2461.63 529.59
+\i (00:11:25) trapsize 4695
+\i (00:11:26) save 
+\i (00:11:27) fillin yes 
+\i (00:11:28) generaledit 
+\i (00:11:32) auto_route 
+\w (00:11:32) Xtalk table in drawing D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd does not exist. For xtalk estimation or xtalk DRC update, xtalk tables must be generated.
+   (00:11:32) Loading vse.cxt 
+\i (00:11:34) setwindow form.vse_armain
+\i (00:11:34) FORM vse_armain execute  
+\i (00:11:35) setwindow pcb
+\i (00:11:35) zoom in 1 
+\i (00:11:35) setwindow pcb
+\i (00:11:35) zoom in 1960.43 473.25
+\i (00:11:35) trapsize 2348
+\i (00:11:36) zoom in 1 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom in 2129.46 266.67
+\i (00:11:36) trapsize 1174
+\i (00:11:38) setwindow form.vse_armain
+\i (00:11:38) FORM vse_armain close  
+\i (00:11:38) setwindow pcb
+\i (00:11:38) generaledit 
+\i (00:11:43) color192 
+\i (00:11:43) generaledit 
+\i (00:11:46) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:11:47) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:11:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:11:48) zoom out 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom out 1164.62 1048.40
+\i (00:11:48) trapsize 2348
+\i (00:11:48) zoom out 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom out 1037.84 959.19
+\i (00:11:48) trapsize 4695
+\i (00:11:49) zoom in 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom in 2765.64 1288.98
+\i (00:11:49) trapsize 2348
+\i (00:11:51) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (00:11:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:11:52) zoom in 1 
+\i (00:11:52) setwindow pcb
+\i (00:11:52) zoom in 1540.22 1101.18
+\i (00:11:52) trapsize 1174
+\i (00:11:53) zoom out 1 
+\i (00:11:53) setwindow pcb
+\i (00:11:53) zoom out 1713.94 885.21
+\i (00:11:53) trapsize 2348
+\i (00:11:54) zoom in 1 
+\i (00:11:54) setwindow pcb
+\i (00:11:54) zoom in 943.94 227.90
+\i (00:11:54) trapsize 1174
+\i (00:11:56) roam start
+\i (00:11:56) roam end
+\i (00:11:57) zoom in 1 
+\i (00:11:57) setwindow pcb
+\i (00:11:57) zoom in 1237.39 995.55
+\i (00:11:57) trapsize 587
+\i (00:11:57) zoom in 1 
+\i (00:11:57) setwindow pcb
+\i (00:11:57) zoom in 1237.39 999.07
+\i (00:11:57) trapsize 293
+\i (00:11:58) zoom out 1 
+\i (00:11:58) setwindow pcb
+\i (00:11:58) zoom out 1201.59 983.22
+\i (00:11:58) trapsize 587
+\i (00:11:58) zoom out 1 
+\i (00:11:58) setwindow pcb
+\i (00:11:58) zoom out 1202.75 982.05
+\i (00:11:58) trapsize 1174
+\i (00:11:59) roam start
+\i (00:11:59) roam x -64
+\i (00:11:59) roam x -48
+\i (00:11:59) roam x -32
+\i (00:11:59) roam x -64
+\i (00:11:59) roam x -48
+\i (00:11:59) roam x -32
+\i (00:11:59) roam x -32
+\i (00:11:59) roam x -16
+\i (00:11:59) roam end
+\i (00:12:00) roam start
+\i (00:12:00) roam x 96
+\i (00:12:00) roam x 96
+\i (00:12:00) roam x 64
+\i (00:12:00) roam x 16
+\i (00:12:00) roam end
+\i (00:12:01) zoom in 1 
+\i (00:12:01) setwindow pcb
+\i (00:12:01) zoom in 1204.52 993.80
+\i (00:12:01) trapsize 587
+\i (00:12:01) zoom in 1 
+\i (00:12:01) setwindow pcb
+\i (00:12:01) zoom in 1205.69 998.50
+\i (00:12:01) trapsize 293
+\i (00:12:02) zoom out 1 
+\i (00:12:02) setwindow pcb
+\i (00:12:02) zoom out 1296.66 993.22
+\i (00:12:02) trapsize 587
+\i (00:12:02) zoom out 1 
+\i (00:12:02) setwindow pcb
+\i (00:12:02) zoom out 1297.82 992.04
+\i (00:12:02) trapsize 1174
+\i (00:12:03) roam start
+\i (00:12:03) roam x -16
+\i (00:12:03) roam y -32
+\i (00:12:04) roam x -32
+\i (00:12:04) roam y -48
+\i (00:12:04) roam x -32
+\i (00:12:04) roam y -16
+\i (00:12:04) roam x -32
+\i (00:12:04) roam y -16
+\i (00:12:04) roam x -16
+\i (00:12:04) roam y -16
+\i (00:12:04) roam x -32
+\i (00:12:04) roam y -16
+\i (00:12:04) roam x -16
+\i (00:12:04) roam x -48
+\i (00:12:04) roam y -16
+\i (00:12:04) roam x -16
+\i (00:12:04) roam x 64
+\i (00:12:04) roam x 96
+\i (00:12:04) roam x 80
+\i (00:12:04) roam y -16
+\i (00:12:05) roam x 32
+\i (00:12:05) roam x 32
+\i (00:12:05) roam x 48
+\i (00:12:05) roam x 32
+\i (00:12:05) roam x 16
+\i (00:12:05) roam x 16
+\i (00:12:05) roam x 32
+\i (00:12:05) roam x 16
+\i (00:12:05) roam x 32
+\i (00:12:05) roam x 16
+\i (00:12:05) roam x 16
+\i (00:12:05) roam x 48
+\i (00:12:06) roam end
+\i (00:12:09) zoom out 1 
+\i (00:12:09) setwindow pcb
+\i (00:12:09) zoom out 3214.00 1246.72
+\i (00:12:09) trapsize 2348
+\i (00:12:15) pick grid 1054.27 -255.71
+\t (00:12:15) last pick:  1050.00 -250.00
+\i (00:12:16) zoom in 1 
+\i (00:12:16) setwindow pcb
+\i (00:12:16) zoom in 1467.44 514.29
+\i (00:12:16) trapsize 1174
+\i (00:12:16) zoom in 1 
+\i (00:12:16) setwindow pcb
+\i (00:12:16) zoom in 1467.44 514.29
+\i (00:12:16) trapsize 587
+\i (00:12:19) zoom out 1 
+\i (00:12:19) setwindow pcb
+\i (00:12:19) zoom out 1911.13 707.96
+\i (00:12:19) trapsize 1174
+\i (00:12:19) zoom out 1 
+\i (00:12:19) setwindow pcb
+\i (00:12:19) zoom out 1934.60 696.23
+\i (00:12:19) trapsize 2348
+\i (00:12:20) roam start
+\i (00:12:21) roam y -48
+\i (00:12:21) roam x 16
+\i (00:12:21) roam y -16
+\i (00:12:21) roam y -32
+\i (00:12:21) roam y -16
+\i (00:12:21) roam x 32
+\i (00:12:22) roam x 16
+\i (00:12:22) roam x 16
+\i (00:12:22) roam y -16
+\i (00:12:22) roam end
+\i (00:12:24) setwindow form.find
+\i (00:12:24) FORM find all_off  
+\i (00:12:26) FORM find clines YES 
+\i (00:12:28) FORM find vias YES 
+\i (00:12:29) FORM find cline_segs YES 
+\i (00:12:29) setwindow pcb
+\i (00:12:29) drag_start grid 4209.37 2256.17
+\i (00:12:29) roam y 16
+\i (00:12:29) roam x -64
+\i (00:12:29) roam y 32
+\i (00:12:29) roam x -48
+\i (00:12:29) roam y 32
+\i (00:12:29) drag_stop -2373.13 -1265.14
+\i (00:12:30) prepopup 519.04 284.23
+\i (00:12:32) pop dyn_option_select @:@Delete 
+\i (00:12:32) delete 
+\i (00:12:32) generaledit 
+\i (00:13:16) cmgr 
+\i (00:13:17) generaledit 
+\i (00:13:24) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:13:26) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:13:27) QtSignal m_domainSelector WS_Physical itemClicked Net "All Layers"
+\i (00:13:39) setwindow cmgr
+\i (00:13:39) cm scope Design "IRRIGATION_PROJECT"
+\i (00:13:39) cm putValue ( Net "GND" ) MIN_LINE_WIDTH 10 7 ( Net "GND" )
+\i (00:13:39) cm endUndoBlock
+\i (00:13:44) cm putValue ( Net "GND" ) MIN_LINE_WIDTH 10 7 ( Net "GND" )
+\i (00:13:44) cm putValue ( Net "N38120" ) MIN_LINE_WIDTH 10 7 ( Net "N38120" )
+\i (00:13:44) cm putValue ( Net "N38132" ) MIN_LINE_WIDTH 10 7 ( Net "N38132" )
+\i (00:13:44) cm putValue ( Net "N38170" ) MIN_LINE_WIDTH 10 7 ( Net "N38170" )
+\i (00:13:44) cm putValue ( Net "N38194" ) MIN_LINE_WIDTH 10 7 ( Net "N38194" )
+\i (00:13:44) cm putValue ( Net "N38286" ) MIN_LINE_WIDTH 10 7 ( Net "N38286" )
+\i (00:13:44) cm putValue ( Net "N38318" ) MIN_LINE_WIDTH 10 7 ( Net "N38318" )
+\i (00:13:44) cm putValue ( Net "N38326" ) MIN_LINE_WIDTH 10 7 ( Net "N38326" )
+\i (00:13:44) cm putValue ( Net "N38338" ) MIN_LINE_WIDTH 10 7 ( Net "N38338" )
+\i (00:13:44) cm putValue ( Net "N38498" ) MIN_LINE_WIDTH 10 7 ( Net "N38498" )
+\i (00:13:44) cm putValue ( Net "N38548" ) MIN_LINE_WIDTH 10 7 ( Net "N38548" )
+\i (00:13:44) cm putValue ( Net "N38580" ) MIN_LINE_WIDTH 10 7 ( Net "N38580" )
+\i (00:13:44) cm putValue ( Net "N42729" ) MIN_LINE_WIDTH 10 7 ( Net "N42729" )
+\i (00:13:44) cm endUndoBlock
+\i (00:13:49) cm putValue ( Net "N42729" ) MIN_LINE_WIDTH 10 7 ( Net "N42729" )
+\i (00:13:49) cm putValue ( Net "N42817" ) MIN_LINE_WIDTH 10 7 ( Net "N42817" )
+\i (00:13:49) cm putValue ( Net "N42837" ) MIN_LINE_WIDTH 10 7 ( Net "N42837" )
+\i (00:13:49) cm putValue ( Net "N43205" ) MIN_LINE_WIDTH 10 7 ( Net "N43205" )
+\i (00:13:49) cm putValue ( Net "N43213" ) MIN_LINE_WIDTH 10 7 ( Net "N43213" )
+\i (00:13:49) cm putValue ( Net "N43273" ) MIN_LINE_WIDTH 10 7 ( Net "N43273" )
+\i (00:13:49) cm putValue ( Net "N43289" ) MIN_LINE_WIDTH 10 7 ( Net "N43289" )
+\i (00:13:49) cm putValue ( Net "N43297" ) MIN_LINE_WIDTH 10 7 ( Net "N43297" )
+\i (00:13:49) cm putValue ( Net "N43349" ) MIN_LINE_WIDTH 10 7 ( Net "N43349" )
+\i (00:13:49) cm putValue ( Net "N43399" ) MIN_LINE_WIDTH 10 7 ( Net "N43399" )
+\i (00:13:49) cm putValue ( Net "N43483" ) MIN_LINE_WIDTH 10 7 ( Net "N43483" )
+\i (00:13:49) cm putValue ( Net "N43487" ) MIN_LINE_WIDTH 10 7 ( Net "N43487" )
+\i (00:13:49) cm putValue ( Net "N43499" ) MIN_LINE_WIDTH 10 7 ( Net "N43499" )
+\i (00:13:50) cm putValue ( Net "N43549" ) MIN_LINE_WIDTH 10 7 ( Net "N43549" )
+\i (00:13:50) cm putValue ( Net "N43557" ) MIN_LINE_WIDTH 10 7 ( Net "N43557" )
+\i (00:13:50) cm putValue ( Net "N43597" ) MIN_LINE_WIDTH 10 7 ( Net "N43597" )
+\i (00:13:50) cm putValue ( Net "N43605" ) MIN_LINE_WIDTH 10 7 ( Net "N43605" )
+\i (00:13:50) cm putValue ( Net "N43613" ) MIN_LINE_WIDTH 10 7 ( Net "N43613" )
+\i (00:13:50) cm putValue ( Net "N43625" ) MIN_LINE_WIDTH 10 7 ( Net "N43625" )
+\i (00:13:50) cm putValue ( Net "N43633" ) MIN_LINE_WIDTH 10 7 ( Net "N43633" )
+\i (00:13:50) cm putValue ( Net "N435731" ) MIN_LINE_WIDTH 10 7 ( Net "N435731" )
+\i (00:13:50) cm endUndoBlock
+\i (00:13:51) setwindow pcb
+\i (00:13:51) save 
+\i (00:13:53) fillin yes 
+   (00:13:54) Loading consmgr.cxt 
+   (00:13:54) Loading acns_formula.cxt 
+\i (00:13:54) generaledit 
+\i (00:14:15) QtFillin OK
+\i (00:14:24) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:14:27) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Net "All Layers"
+\i (00:14:27) QtSignal m_domainSelector WS_Spacing itemClicked Net "All Layers"
+\i (00:15:07) setwindow cmgr
+\i (00:15:07) cm putValue ( Net "GND" ) THRUPIN_SPACING 6 7 ( Net "GND" )
+\i (00:15:07) cm endUndoBlock
+\i (00:15:09) setwindow pcb
+\i (00:15:09) undo 
+\i (00:15:09) setwindow cmgr
+\i (00:15:09) cm exit
+\i (00:15:09) setwindow pcb
+\i (00:15:09) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:15:09) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:15:09) generaledit 
+\i (00:15:12) cmgr 
+\i (00:15:12) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:15:12) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:15:12) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:15:12) generaledit 
+\i (00:15:13) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:15:14) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:15:15) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Net Class-Class" "All Layers"
+\i (00:15:15) QtSignal m_domainSelector WS_Spacing itemClicked "Net Class-Class" "All Layers"
+\i (00:15:16) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Net "All Layers"
+\i (00:15:16) QtSignal m_domainSelector WS_Spacing itemClicked Net "All Layers"
+\i (00:15:21) setwindow cmgr
+\i (00:15:21) cm scope Design "IRRIGATION_PROJECT"
+\i (00:15:21) cm putValue ( Net "GND" ) SMDPIN_SPACING 6 7 ( Net "GND" )
+\i (00:15:22) cm endUndoBlock
+\i (00:15:24) cm putValue ( Net "GND" ) LINE_SPACING 6 7 ( Net "GND" )
+\i (00:15:25) cm putValue ( Net "GND" ) THRUPIN_SPACING 6 7 ( Net "GND" )
+\i (00:15:25) cm putValue ( Net "GND" ) SMDPIN_SPACING 6 7 ( Net "GND" )
+\i (00:15:25) cm putValue ( Net "GND" ) TESTPIN_SPACING 6 7 ( Net "GND" )
+\i (00:15:25) cm putValue ( Net "GND" ) THRUVIA_SPACING 6 7 ( Net "GND" )
+\i (00:15:25) cm putValue ( Net "GND" ) BBV_SPACING 6 7 ( Net "GND" )
+\i (00:15:25) cm endUndoBlock
+\i (00:15:31) cm putValue ( Net "GND" ) LINE_SPACING 6 7 ( Net "GND" )
+\i (00:15:31) cm putValue ( Net "N38120" ) LINE_SPACING 6 7 ( Net "N38120" )
+\i (00:15:31) cm putValue ( Net "N38132" ) LINE_SPACING 6 7 ( Net "N38132" )
+\i (00:15:31) cm putValue ( Net "GND" ) THRUPIN_SPACING 6 7 ( Net "GND" )
+\i (00:15:31) cm putValue ( Net "N38120" ) THRUPIN_SPACING 6 7 ( Net "N38120" )
+\i (00:15:31) cm putValue ( Net "N38132" ) THRUPIN_SPACING 6 7 ( Net "N38132" )
+\i (00:15:31) cm putValue ( Net "GND" ) SMDPIN_SPACING 6 7 ( Net "GND" )
+\i (00:15:31) cm putValue ( Net "N38120" ) SMDPIN_SPACING 6 7 ( Net "N38120" )
+\i (00:15:31) cm putValue ( Net "N38132" ) SMDPIN_SPACING 6 7 ( Net "N38132" )
+\i (00:15:31) cm putValue ( Net "GND" ) TESTPIN_SPACING 6 7 ( Net "GND" )
+\i (00:15:31) cm putValue ( Net "N38120" ) TESTPIN_SPACING 6 7 ( Net "N38120" )
+\i (00:15:31) cm putValue ( Net "N38132" ) TESTPIN_SPACING 6 7 ( Net "N38132" )
+\i (00:15:31) cm putValue ( Net "GND" ) THRUVIA_SPACING 6 7 ( Net "GND" )
+\i (00:15:31) cm putValue ( Net "N38120" ) THRUVIA_SPACING 6 7 ( Net "N38120" )
+\i (00:15:31) cm putValue ( Net "N38132" ) THRUVIA_SPACING 6 7 ( Net "N38132" )
+\i (00:15:31) cm putValue ( Net "GND" ) BBV_SPACING 6 7 ( Net "GND" )
+\i (00:15:31) cm putValue ( Net "N38120" ) BBV_SPACING 6 7 ( Net "N38120" )
+\i (00:15:31) cm putValue ( Net "N38132" ) BBV_SPACING 6 7 ( Net "N38132" )
+\i (00:15:31) cm endUndoBlock
+\i (00:15:50) cm putValue ( Net "GND" ) LINE_SPACING 8 7 ( Net "GND" )
+\i (00:15:50) cm endUndoBlock
+\i (00:16:13) cm putValue ( Net "GND" ) LINE_SPACING 8 7 ( Net "GND" )
+\i (00:16:13) cm putValue ( Net "N38120" ) LINE_SPACING 8 7 ( Net "N38120" )
+\i (00:16:13) cm putValue ( Net "N38132" ) LINE_SPACING 8 7 ( Net "N38132" )
+\i (00:16:13) cm putValue ( Net "N38170" ) LINE_SPACING 8 7 ( Net "N38170" )
+\i (00:16:13) cm putValue ( Net "N38194" ) LINE_SPACING 8 7 ( Net "N38194" )
+\i (00:16:13) cm putValue ( Net "N38286" ) LINE_SPACING 8 7 ( Net "N38286" )
+\i (00:16:13) cm putValue ( Net "N38318" ) LINE_SPACING 8 7 ( Net "N38318" )
+\i (00:16:13) cm putValue ( Net "N38326" ) LINE_SPACING 8 7 ( Net "N38326" )
+\i (00:16:13) cm putValue ( Net "N38338" ) LINE_SPACING 8 7 ( Net "N38338" )
+\i (00:16:13) cm putValue ( Net "N38498" ) LINE_SPACING 8 7 ( Net "N38498" )
+\i (00:16:13) cm putValue ( Net "N38548" ) LINE_SPACING 8 7 ( Net "N38548" )
+\i (00:16:13) cm putValue ( Net "N38580" ) LINE_SPACING 8 7 ( Net "N38580" )
+\i (00:16:13) cm putValue ( Net "N42729" ) LINE_SPACING 8 7 ( Net "N42729" )
+\i (00:16:13) cm putValue ( Net "N42817" ) LINE_SPACING 8 7 ( Net "N42817" )
+\i (00:16:13) cm putValue ( Net "N42837" ) LINE_SPACING 8 7 ( Net "N42837" )
+\i (00:16:13) cm putValue ( Net "N43205" ) LINE_SPACING 8 7 ( Net "N43205" )
+\i (00:16:13) cm putValue ( Net "N43213" ) LINE_SPACING 8 7 ( Net "N43213" )
+\i (00:16:13) cm putValue ( Net "N43273" ) LINE_SPACING 8 7 ( Net "N43273" )
+\i (00:16:13) cm putValue ( Net "N43289" ) LINE_SPACING 8 7 ( Net "N43289" )
+\i (00:16:13) cm putValue ( Net "N43297" ) LINE_SPACING 8 7 ( Net "N43297" )
+\i (00:16:13) cm putValue ( Net "N43349" ) LINE_SPACING 8 7 ( Net "N43349" )
+\i (00:16:13) cm putValue ( Net "N43399" ) LINE_SPACING 8 7 ( Net "N43399" )
+\i (00:16:13) cm putValue ( Net "N43483" ) LINE_SPACING 8 7 ( Net "N43483" )
+\i (00:16:13) cm putValue ( Net "N43487" ) LINE_SPACING 8 7 ( Net "N43487" )
+\i (00:16:13) cm putValue ( Net "N43499" ) LINE_SPACING 8 7 ( Net "N43499" )
+\i (00:16:13) cm putValue ( Net "N43549" ) LINE_SPACING 8 7 ( Net "N43549" )
+\i (00:16:13) cm putValue ( Net "N43557" ) LINE_SPACING 8 7 ( Net "N43557" )
+\i (00:16:13) cm putValue ( Net "N43597" ) LINE_SPACING 8 7 ( Net "N43597" )
+\i (00:16:13) cm putValue ( Net "N43605" ) LINE_SPACING 8 7 ( Net "N43605" )
+\i (00:16:13) cm putValue ( Net "N43613" ) LINE_SPACING 8 7 ( Net "N43613" )
+\i (00:16:13) cm putValue ( Net "N43625" ) LINE_SPACING 8 7 ( Net "N43625" )
+\i (00:16:13) cm putValue ( Net "N43633" ) LINE_SPACING 8 7 ( Net "N43633" )
+\i (00:16:13) cm putValue ( Net "N435731" ) LINE_SPACING 8 7 ( Net "N435731" )
+\i (00:16:13) cm endUndoBlock
+\i (00:16:16) cm putValue ( Net "GND" ) THRUPIN_SPACING 8 7 ( Net "GND" )
+\i (00:16:16) cm putValue ( Net "N38120" ) THRUPIN_SPACING 8 7 ( Net "N38120" )
+\i (00:16:16) cm putValue ( Net "N38132" ) THRUPIN_SPACING 8 7 ( Net "N38132" )
+\i (00:16:16) cm putValue ( Net "N38170" ) THRUPIN_SPACING 8 7 ( Net "N38170" )
+\i (00:16:16) cm putValue ( Net "N38194" ) THRUPIN_SPACING 8 7 ( Net "N38194" )
+\i (00:16:16) cm putValue ( Net "N38286" ) THRUPIN_SPACING 8 7 ( Net "N38286" )
+\i (00:16:16) cm putValue ( Net "N38318" ) THRUPIN_SPACING 8 7 ( Net "N38318" )
+\i (00:16:16) cm putValue ( Net "N38326" ) THRUPIN_SPACING 8 7 ( Net "N38326" )
+\i (00:16:16) cm putValue ( Net "N38338" ) THRUPIN_SPACING 8 7 ( Net "N38338" )
+\i (00:16:16) cm putValue ( Net "N38498" ) THRUPIN_SPACING 8 7 ( Net "N38498" )
+\i (00:16:16) cm putValue ( Net "N38548" ) THRUPIN_SPACING 8 7 ( Net "N38548" )
+\i (00:16:16) cm putValue ( Net "N38580" ) THRUPIN_SPACING 8 7 ( Net "N38580" )
+\i (00:16:16) cm putValue ( Net "N42729" ) THRUPIN_SPACING 8 7 ( Net "N42729" )
+\i (00:16:16) cm putValue ( Net "N42817" ) THRUPIN_SPACING 8 7 ( Net "N42817" )
+\i (00:16:16) cm putValue ( Net "N42837" ) THRUPIN_SPACING 8 7 ( Net "N42837" )
+\i (00:16:16) cm putValue ( Net "N43205" ) THRUPIN_SPACING 8 7 ( Net "N43205" )
+\i (00:16:16) cm putValue ( Net "N43213" ) THRUPIN_SPACING 8 7 ( Net "N43213" )
+\i (00:16:16) cm putValue ( Net "N43273" ) THRUPIN_SPACING 8 7 ( Net "N43273" )
+\i (00:16:16) cm putValue ( Net "N43289" ) THRUPIN_SPACING 8 7 ( Net "N43289" )
+\i (00:16:16) cm putValue ( Net "N43297" ) THRUPIN_SPACING 8 7 ( Net "N43297" )
+\i (00:16:16) cm putValue ( Net "N43349" ) THRUPIN_SPACING 8 7 ( Net "N43349" )
+\i (00:16:16) cm putValue ( Net "N43399" ) THRUPIN_SPACING 8 7 ( Net "N43399" )
+\i (00:16:16) cm putValue ( Net "N43483" ) THRUPIN_SPACING 8 7 ( Net "N43483" )
+\i (00:16:16) cm putValue ( Net "N43487" ) THRUPIN_SPACING 8 7 ( Net "N43487" )
+\i (00:16:16) cm putValue ( Net "N43499" ) THRUPIN_SPACING 8 7 ( Net "N43499" )
+\i (00:16:16) cm putValue ( Net "N43549" ) THRUPIN_SPACING 8 7 ( Net "N43549" )
+\i (00:16:16) cm putValue ( Net "N43557" ) THRUPIN_SPACING 8 7 ( Net "N43557" )
+\i (00:16:16) cm putValue ( Net "N43597" ) THRUPIN_SPACING 8 7 ( Net "N43597" )
+\i (00:16:16) cm putValue ( Net "N43605" ) THRUPIN_SPACING 8 7 ( Net "N43605" )
+\i (00:16:16) cm putValue ( Net "N43613" ) THRUPIN_SPACING 8 7 ( Net "N43613" )
+\i (00:16:16) cm putValue ( Net "N43625" ) THRUPIN_SPACING 8 7 ( Net "N43625" )
+\i (00:16:16) cm putValue ( Net "N43633" ) THRUPIN_SPACING 8 7 ( Net "N43633" )
+\i (00:16:16) cm putValue ( Net "N435731" ) THRUPIN_SPACING 8 7 ( Net "N435731" )
+\i (00:16:16) cm endUndoBlock
+\i (00:16:19) cm putValue ( Net "GND" ) SMDPIN_SPACING 8 7 ( Net "GND" )
+\i (00:16:19) cm putValue ( Net "N38120" ) SMDPIN_SPACING 8 7 ( Net "N38120" )
+\i (00:16:19) cm putValue ( Net "N38132" ) SMDPIN_SPACING 8 7 ( Net "N38132" )
+\i (00:16:19) cm putValue ( Net "N38170" ) SMDPIN_SPACING 8 7 ( Net "N38170" )
+\i (00:16:19) cm putValue ( Net "N38194" ) SMDPIN_SPACING 8 7 ( Net "N38194" )
+\i (00:16:19) cm putValue ( Net "N38286" ) SMDPIN_SPACING 8 7 ( Net "N38286" )
+\i (00:16:19) cm putValue ( Net "N38318" ) SMDPIN_SPACING 8 7 ( Net "N38318" )
+\i (00:16:19) cm putValue ( Net "N38326" ) SMDPIN_SPACING 8 7 ( Net "N38326" )
+\i (00:16:19) cm putValue ( Net "N38338" ) SMDPIN_SPACING 8 7 ( Net "N38338" )
+\i (00:16:19) cm putValue ( Net "N38498" ) SMDPIN_SPACING 8 7 ( Net "N38498" )
+\i (00:16:19) cm putValue ( Net "N38548" ) SMDPIN_SPACING 8 7 ( Net "N38548" )
+\i (00:16:19) cm putValue ( Net "N38580" ) SMDPIN_SPACING 8 7 ( Net "N38580" )
+\i (00:16:19) cm putValue ( Net "N42729" ) SMDPIN_SPACING 8 7 ( Net "N42729" )
+\i (00:16:19) cm putValue ( Net "N42817" ) SMDPIN_SPACING 8 7 ( Net "N42817" )
+\i (00:16:19) cm putValue ( Net "N42837" ) SMDPIN_SPACING 8 7 ( Net "N42837" )
+\i (00:16:19) cm putValue ( Net "N43205" ) SMDPIN_SPACING 8 7 ( Net "N43205" )
+\i (00:16:19) cm putValue ( Net "N43213" ) SMDPIN_SPACING 8 7 ( Net "N43213" )
+\i (00:16:19) cm putValue ( Net "N43273" ) SMDPIN_SPACING 8 7 ( Net "N43273" )
+\i (00:16:19) cm putValue ( Net "N43289" ) SMDPIN_SPACING 8 7 ( Net "N43289" )
+\i (00:16:19) cm putValue ( Net "N43297" ) SMDPIN_SPACING 8 7 ( Net "N43297" )
+\i (00:16:19) cm putValue ( Net "N43349" ) SMDPIN_SPACING 8 7 ( Net "N43349" )
+\i (00:16:19) cm putValue ( Net "N43399" ) SMDPIN_SPACING 8 7 ( Net "N43399" )
+\i (00:16:19) cm putValue ( Net "N43483" ) SMDPIN_SPACING 8 7 ( Net "N43483" )
+\i (00:16:19) cm putValue ( Net "N43487" ) SMDPIN_SPACING 8 7 ( Net "N43487" )
+\i (00:16:19) cm putValue ( Net "N43499" ) SMDPIN_SPACING 8 7 ( Net "N43499" )
+\i (00:16:19) cm putValue ( Net "N43549" ) SMDPIN_SPACING 8 7 ( Net "N43549" )
+\i (00:16:19) cm putValue ( Net "N43557" ) SMDPIN_SPACING 8 7 ( Net "N43557" )
+\i (00:16:19) cm putValue ( Net "N43597" ) SMDPIN_SPACING 8 7 ( Net "N43597" )
+\i (00:16:19) cm putValue ( Net "N43605" ) SMDPIN_SPACING 8 7 ( Net "N43605" )
+\i (00:16:19) cm putValue ( Net "N43613" ) SMDPIN_SPACING 8 7 ( Net "N43613" )
+\i (00:16:19) cm putValue ( Net "N43625" ) SMDPIN_SPACING 8 7 ( Net "N43625" )
+\i (00:16:19) cm putValue ( Net "N43633" ) SMDPIN_SPACING 8 7 ( Net "N43633" )
+\i (00:16:19) cm putValue ( Net "N435731" ) SMDPIN_SPACING 8 7 ( Net "N435731" )
+\i (00:16:19) cm putValue ( Net "GND" ) TESTPIN_SPACING 8 7 ( Net "GND" )
+\i (00:16:19) cm putValue ( Net "N38120" ) TESTPIN_SPACING 8 7 ( Net "N38120" )
+\i (00:16:19) cm putValue ( Net "N38132" ) TESTPIN_SPACING 8 7 ( Net "N38132" )
+\i (00:16:19) cm putValue ( Net "N38170" ) TESTPIN_SPACING 8 7 ( Net "N38170" )
+\i (00:16:19) cm putValue ( Net "N38194" ) TESTPIN_SPACING 8 7 ( Net "N38194" )
+\i (00:16:19) cm putValue ( Net "N38286" ) TESTPIN_SPACING 8 7 ( Net "N38286" )
+\i (00:16:19) cm putValue ( Net "N38318" ) TESTPIN_SPACING 8 7 ( Net "N38318" )
+\i (00:16:19) cm putValue ( Net "N38326" ) TESTPIN_SPACING 8 7 ( Net "N38326" )
+\i (00:16:19) cm putValue ( Net "N38338" ) TESTPIN_SPACING 8 7 ( Net "N38338" )
+\i (00:16:19) cm putValue ( Net "N38498" ) TESTPIN_SPACING 8 7 ( Net "N38498" )
+\i (00:16:19) cm putValue ( Net "N38548" ) TESTPIN_SPACING 8 7 ( Net "N38548" )
+\i (00:16:19) cm putValue ( Net "N38580" ) TESTPIN_SPACING 8 7 ( Net "N38580" )
+\i (00:16:19) cm putValue ( Net "N42729" ) TESTPIN_SPACING 8 7 ( Net "N42729" )
+\i (00:16:20) cm putValue ( Net "N42817" ) TESTPIN_SPACING 8 7 ( Net "N42817" )
+\i (00:16:20) cm putValue ( Net "N42837" ) TESTPIN_SPACING 8 7 ( Net "N42837" )
+\i (00:16:20) cm putValue ( Net "N43205" ) TESTPIN_SPACING 8 7 ( Net "N43205" )
+\i (00:16:20) cm putValue ( Net "N43213" ) TESTPIN_SPACING 8 7 ( Net "N43213" )
+\i (00:16:20) cm putValue ( Net "N43273" ) TESTPIN_SPACING 8 7 ( Net "N43273" )
+\i (00:16:20) cm putValue ( Net "N43289" ) TESTPIN_SPACING 8 7 ( Net "N43289" )
+\i (00:16:20) cm putValue ( Net "N43297" ) TESTPIN_SPACING 8 7 ( Net "N43297" )
+\i (00:16:20) cm putValue ( Net "N43349" ) TESTPIN_SPACING 8 7 ( Net "N43349" )
+\i (00:16:20) cm putValue ( Net "N43399" ) TESTPIN_SPACING 8 7 ( Net "N43399" )
+\i (00:16:20) cm putValue ( Net "N43483" ) TESTPIN_SPACING 8 7 ( Net "N43483" )
+\i (00:16:20) cm putValue ( Net "N43487" ) TESTPIN_SPACING 8 7 ( Net "N43487" )
+\i (00:16:20) cm putValue ( Net "N43499" ) TESTPIN_SPACING 8 7 ( Net "N43499" )
+\i (00:16:20) cm putValue ( Net "N43549" ) TESTPIN_SPACING 8 7 ( Net "N43549" )
+\i (00:16:20) cm putValue ( Net "N43557" ) TESTPIN_SPACING 8 7 ( Net "N43557" )
+\i (00:16:20) cm putValue ( Net "N43597" ) TESTPIN_SPACING 8 7 ( Net "N43597" )
+\i (00:16:20) cm putValue ( Net "N43605" ) TESTPIN_SPACING 8 7 ( Net "N43605" )
+\i (00:16:20) cm putValue ( Net "N43613" ) TESTPIN_SPACING 8 7 ( Net "N43613" )
+\i (00:16:20) cm putValue ( Net "N43625" ) TESTPIN_SPACING 8 7 ( Net "N43625" )
+\i (00:16:20) cm putValue ( Net "N43633" ) TESTPIN_SPACING 8 7 ( Net "N43633" )
+\i (00:16:20) cm putValue ( Net "N435731" ) TESTPIN_SPACING 8 7 ( Net "N435731" )
+\i (00:16:20) cm putValue ( Net "GND" ) THRUVIA_SPACING 8 7 ( Net "GND" )
+\i (00:16:20) cm putValue ( Net "N38120" ) THRUVIA_SPACING 8 7 ( Net "N38120" )
+\i (00:16:20) cm putValue ( Net "N38132" ) THRUVIA_SPACING 8 7 ( Net "N38132" )
+\i (00:16:20) cm putValue ( Net "N38170" ) THRUVIA_SPACING 8 7 ( Net "N38170" )
+\i (00:16:20) cm putValue ( Net "N38194" ) THRUVIA_SPACING 8 7 ( Net "N38194" )
+\i (00:16:20) cm putValue ( Net "N38286" ) THRUVIA_SPACING 8 7 ( Net "N38286" )
+\i (00:16:20) cm putValue ( Net "N38318" ) THRUVIA_SPACING 8 7 ( Net "N38318" )
+\i (00:16:20) cm putValue ( Net "N38326" ) THRUVIA_SPACING 8 7 ( Net "N38326" )
+\i (00:16:20) cm putValue ( Net "N38338" ) THRUVIA_SPACING 8 7 ( Net "N38338" )
+\i (00:16:20) cm putValue ( Net "N38498" ) THRUVIA_SPACING 8 7 ( Net "N38498" )
+\i (00:16:20) cm putValue ( Net "N38548" ) THRUVIA_SPACING 8 7 ( Net "N38548" )
+\i (00:16:20) cm putValue ( Net "N38580" ) THRUVIA_SPACING 8 7 ( Net "N38580" )
+\i (00:16:20) cm putValue ( Net "N42729" ) THRUVIA_SPACING 8 7 ( Net "N42729" )
+\i (00:16:20) cm putValue ( Net "N42817" ) THRUVIA_SPACING 8 7 ( Net "N42817" )
+\i (00:16:20) cm putValue ( Net "N42837" ) THRUVIA_SPACING 8 7 ( Net "N42837" )
+\i (00:16:20) cm putValue ( Net "N43205" ) THRUVIA_SPACING 8 7 ( Net "N43205" )
+\i (00:16:20) cm putValue ( Net "N43213" ) THRUVIA_SPACING 8 7 ( Net "N43213" )
+\i (00:16:20) cm putValue ( Net "N43273" ) THRUVIA_SPACING 8 7 ( Net "N43273" )
+\i (00:16:20) cm putValue ( Net "N43289" ) THRUVIA_SPACING 8 7 ( Net "N43289" )
+\i (00:16:20) cm putValue ( Net "N43297" ) THRUVIA_SPACING 8 7 ( Net "N43297" )
+\i (00:16:20) cm putValue ( Net "N43349" ) THRUVIA_SPACING 8 7 ( Net "N43349" )
+\i (00:16:20) cm putValue ( Net "N43399" ) THRUVIA_SPACING 8 7 ( Net "N43399" )
+\i (00:16:20) cm putValue ( Net "N43483" ) THRUVIA_SPACING 8 7 ( Net "N43483" )
+\i (00:16:20) cm putValue ( Net "N43487" ) THRUVIA_SPACING 8 7 ( Net "N43487" )
+\i (00:16:20) cm putValue ( Net "N43499" ) THRUVIA_SPACING 8 7 ( Net "N43499" )
+\i (00:16:20) cm putValue ( Net "N43549" ) THRUVIA_SPACING 8 7 ( Net "N43549" )
+\i (00:16:20) cm putValue ( Net "N43557" ) THRUVIA_SPACING 8 7 ( Net "N43557" )
+\i (00:16:20) cm putValue ( Net "N43597" ) THRUVIA_SPACING 8 7 ( Net "N43597" )
+\i (00:16:20) cm putValue ( Net "N43605" ) THRUVIA_SPACING 8 7 ( Net "N43605" )
+\i (00:16:20) cm putValue ( Net "N43613" ) THRUVIA_SPACING 8 7 ( Net "N43613" )
+\i (00:16:20) cm putValue ( Net "N43625" ) THRUVIA_SPACING 8 7 ( Net "N43625" )
+\i (00:16:20) cm putValue ( Net "N43633" ) THRUVIA_SPACING 8 7 ( Net "N43633" )
+\i (00:16:20) cm putValue ( Net "N435731" ) THRUVIA_SPACING 8 7 ( Net "N435731" )
+\i (00:16:20) cm endUndoBlock
+\i (00:16:26) cm putValue ( Net "GND" ) BBV_SPACING 8 7 ( Net "GND" )
+\i (00:16:26) cm putValue ( Net "N38120" ) BBV_SPACING 8 7 ( Net "N38120" )
+\i (00:16:26) cm putValue ( Net "N38132" ) BBV_SPACING 8 7 ( Net "N38132" )
+\i (00:16:26) cm putValue ( Net "N38170" ) BBV_SPACING 8 7 ( Net "N38170" )
+\i (00:16:26) cm putValue ( Net "N38194" ) BBV_SPACING 8 7 ( Net "N38194" )
+\i (00:16:26) cm putValue ( Net "N38286" ) BBV_SPACING 8 7 ( Net "N38286" )
+\i (00:16:26) cm putValue ( Net "N38318" ) BBV_SPACING 8 7 ( Net "N38318" )
+\i (00:16:26) cm putValue ( Net "N38326" ) BBV_SPACING 8 7 ( Net "N38326" )
+\i (00:16:26) cm putValue ( Net "N38338" ) BBV_SPACING 8 7 ( Net "N38338" )
+\i (00:16:26) cm putValue ( Net "N38498" ) BBV_SPACING 8 7 ( Net "N38498" )
+\i (00:16:26) cm putValue ( Net "N38548" ) BBV_SPACING 8 7 ( Net "N38548" )
+\i (00:16:26) cm putValue ( Net "N38580" ) BBV_SPACING 8 7 ( Net "N38580" )
+\i (00:16:26) cm putValue ( Net "N42729" ) BBV_SPACING 8 7 ( Net "N42729" )
+\i (00:16:26) cm putValue ( Net "N42817" ) BBV_SPACING 8 7 ( Net "N42817" )
+\i (00:16:26) cm putValue ( Net "N42837" ) BBV_SPACING 8 7 ( Net "N42837" )
+\i (00:16:26) cm putValue ( Net "N43205" ) BBV_SPACING 8 7 ( Net "N43205" )
+\i (00:16:26) cm putValue ( Net "N43213" ) BBV_SPACING 8 7 ( Net "N43213" )
+\i (00:16:26) cm putValue ( Net "N43273" ) BBV_SPACING 8 7 ( Net "N43273" )
+\i (00:16:26) cm putValue ( Net "N43289" ) BBV_SPACING 8 7 ( Net "N43289" )
+\i (00:16:26) cm putValue ( Net "N43297" ) BBV_SPACING 8 7 ( Net "N43297" )
+\i (00:16:26) cm putValue ( Net "N43349" ) BBV_SPACING 8 7 ( Net "N43349" )
+\i (00:16:26) cm putValue ( Net "N43399" ) BBV_SPACING 8 7 ( Net "N43399" )
+\i (00:16:26) cm putValue ( Net "N43483" ) BBV_SPACING 8 7 ( Net "N43483" )
+\i (00:16:26) cm putValue ( Net "N43487" ) BBV_SPACING 8 7 ( Net "N43487" )
+\i (00:16:26) cm putValue ( Net "N43499" ) BBV_SPACING 8 7 ( Net "N43499" )
+\i (00:16:26) cm putValue ( Net "N43549" ) BBV_SPACING 8 7 ( Net "N43549" )
+\i (00:16:26) cm putValue ( Net "N43557" ) BBV_SPACING 8 7 ( Net "N43557" )
+\i (00:16:26) cm putValue ( Net "N43597" ) BBV_SPACING 8 7 ( Net "N43597" )
+\i (00:16:26) cm putValue ( Net "N43605" ) BBV_SPACING 8 7 ( Net "N43605" )
+\i (00:16:26) cm putValue ( Net "N43613" ) BBV_SPACING 8 7 ( Net "N43613" )
+\i (00:16:26) cm putValue ( Net "N43625" ) BBV_SPACING 8 7 ( Net "N43625" )
+\i (00:16:26) cm putValue ( Net "N43633" ) BBV_SPACING 8 7 ( Net "N43633" )
+\i (00:16:26) cm putValue ( Net "N435731" ) BBV_SPACING 8 7 ( Net "N435731" )
+\i (00:16:26) cm putValue ( Net "GND" ) MVIA_SPACING 8 7 ( Net "GND" )
+\i (00:16:26) cm putValue ( Net "N38120" ) MVIA_SPACING 8 7 ( Net "N38120" )
+\i (00:16:26) cm putValue ( Net "N38132" ) MVIA_SPACING 8 7 ( Net "N38132" )
+\i (00:16:26) cm putValue ( Net "N38170" ) MVIA_SPACING 8 7 ( Net "N38170" )
+\i (00:16:26) cm putValue ( Net "N38194" ) MVIA_SPACING 8 7 ( Net "N38194" )
+\i (00:16:26) cm putValue ( Net "N38286" ) MVIA_SPACING 8 7 ( Net "N38286" )
+\i (00:16:26) cm putValue ( Net "N38318" ) MVIA_SPACING 8 7 ( Net "N38318" )
+\i (00:16:26) cm putValue ( Net "N38326" ) MVIA_SPACING 8 7 ( Net "N38326" )
+\i (00:16:26) cm putValue ( Net "N38338" ) MVIA_SPACING 8 7 ( Net "N38338" )
+\i (00:16:26) cm putValue ( Net "N38498" ) MVIA_SPACING 8 7 ( Net "N38498" )
+\i (00:16:26) cm putValue ( Net "N38548" ) MVIA_SPACING 8 7 ( Net "N38548" )
+\i (00:16:26) cm putValue ( Net "N38580" ) MVIA_SPACING 8 7 ( Net "N38580" )
+\i (00:16:26) cm putValue ( Net "N42729" ) MVIA_SPACING 8 7 ( Net "N42729" )
+\i (00:16:26) cm putValue ( Net "N42817" ) MVIA_SPACING 8 7 ( Net "N42817" )
+\i (00:16:26) cm putValue ( Net "N42837" ) MVIA_SPACING 8 7 ( Net "N42837" )
+\i (00:16:26) cm putValue ( Net "N43205" ) MVIA_SPACING 8 7 ( Net "N43205" )
+\i (00:16:26) cm putValue ( Net "N43213" ) MVIA_SPACING 8 7 ( Net "N43213" )
+\i (00:16:26) cm putValue ( Net "N43273" ) MVIA_SPACING 8 7 ( Net "N43273" )
+\i (00:16:26) cm putValue ( Net "N43289" ) MVIA_SPACING 8 7 ( Net "N43289" )
+\i (00:16:26) cm putValue ( Net "N43297" ) MVIA_SPACING 8 7 ( Net "N43297" )
+\i (00:16:26) cm putValue ( Net "N43349" ) MVIA_SPACING 8 7 ( Net "N43349" )
+\i (00:16:26) cm putValue ( Net "N43399" ) MVIA_SPACING 8 7 ( Net "N43399" )
+\i (00:16:26) cm putValue ( Net "N43483" ) MVIA_SPACING 8 7 ( Net "N43483" )
+\i (00:16:26) cm putValue ( Net "N43487" ) MVIA_SPACING 8 7 ( Net "N43487" )
+\i (00:16:26) cm putValue ( Net "N43499" ) MVIA_SPACING 8 7 ( Net "N43499" )
+\i (00:16:26) cm putValue ( Net "N43549" ) MVIA_SPACING 8 7 ( Net "N43549" )
+\i (00:16:26) cm putValue ( Net "N43557" ) MVIA_SPACING 8 7 ( Net "N43557" )
+\i (00:16:26) cm putValue ( Net "N43597" ) MVIA_SPACING 8 7 ( Net "N43597" )
+\i (00:16:26) cm putValue ( Net "N43605" ) MVIA_SPACING 8 7 ( Net "N43605" )
+\i (00:16:26) cm putValue ( Net "N43613" ) MVIA_SPACING 8 7 ( Net "N43613" )
+\i (00:16:26) cm putValue ( Net "N43625" ) MVIA_SPACING 8 7 ( Net "N43625" )
+\i (00:16:26) cm putValue ( Net "N43633" ) MVIA_SPACING 8 7 ( Net "N43633" )
+\i (00:16:26) cm putValue ( Net "N435731" ) MVIA_SPACING 8 7 ( Net "N435731" )
+\i (00:16:26) cm putValue ( Net "GND" ) TESTVIA_SPACING 8 7 ( Net "GND" )
+\i (00:16:26) cm putValue ( Net "N38120" ) TESTVIA_SPACING 8 7 ( Net "N38120" )
+\i (00:16:26) cm putValue ( Net "N38132" ) TESTVIA_SPACING 8 7 ( Net "N38132" )
+\i (00:16:26) cm putValue ( Net "N38170" ) TESTVIA_SPACING 8 7 ( Net "N38170" )
+\i (00:16:26) cm putValue ( Net "N38194" ) TESTVIA_SPACING 8 7 ( Net "N38194" )
+\i (00:16:26) cm putValue ( Net "N38286" ) TESTVIA_SPACING 8 7 ( Net "N38286" )
+\i (00:16:26) cm putValue ( Net "N38318" ) TESTVIA_SPACING 8 7 ( Net "N38318" )
+\i (00:16:26) cm putValue ( Net "N38326" ) TESTVIA_SPACING 8 7 ( Net "N38326" )
+\i (00:16:26) cm putValue ( Net "N38338" ) TESTVIA_SPACING 8 7 ( Net "N38338" )
+\i (00:16:26) cm putValue ( Net "N38498" ) TESTVIA_SPACING 8 7 ( Net "N38498" )
+\i (00:16:26) cm putValue ( Net "N38548" ) TESTVIA_SPACING 8 7 ( Net "N38548" )
+\i (00:16:26) cm putValue ( Net "N38580" ) TESTVIA_SPACING 8 7 ( Net "N38580" )
+\i (00:16:26) cm putValue ( Net "N42729" ) TESTVIA_SPACING 8 7 ( Net "N42729" )
+\i (00:16:26) cm putValue ( Net "N42817" ) TESTVIA_SPACING 8 7 ( Net "N42817" )
+\i (00:16:26) cm putValue ( Net "N42837" ) TESTVIA_SPACING 8 7 ( Net "N42837" )
+\i (00:16:26) cm putValue ( Net "N43205" ) TESTVIA_SPACING 8 7 ( Net "N43205" )
+\i (00:16:26) cm putValue ( Net "N43213" ) TESTVIA_SPACING 8 7 ( Net "N43213" )
+\i (00:16:26) cm putValue ( Net "N43273" ) TESTVIA_SPACING 8 7 ( Net "N43273" )
+\i (00:16:26) cm putValue ( Net "N43289" ) TESTVIA_SPACING 8 7 ( Net "N43289" )
+\i (00:16:26) cm putValue ( Net "N43297" ) TESTVIA_SPACING 8 7 ( Net "N43297" )
+\i (00:16:26) cm putValue ( Net "N43349" ) TESTVIA_SPACING 8 7 ( Net "N43349" )
+\i (00:16:26) cm putValue ( Net "N43399" ) TESTVIA_SPACING 8 7 ( Net "N43399" )
+\i (00:16:26) cm putValue ( Net "N43483" ) TESTVIA_SPACING 8 7 ( Net "N43483" )
+\i (00:16:26) cm putValue ( Net "N43487" ) TESTVIA_SPACING 8 7 ( Net "N43487" )
+\i (00:16:26) cm putValue ( Net "N43499" ) TESTVIA_SPACING 8 7 ( Net "N43499" )
+\i (00:16:26) cm putValue ( Net "N43549" ) TESTVIA_SPACING 8 7 ( Net "N43549" )
+\i (00:16:26) cm putValue ( Net "N43557" ) TESTVIA_SPACING 8 7 ( Net "N43557" )
+\i (00:16:26) cm putValue ( Net "N43597" ) TESTVIA_SPACING 8 7 ( Net "N43597" )
+\i (00:16:26) cm putValue ( Net "N43605" ) TESTVIA_SPACING 8 7 ( Net "N43605" )
+\i (00:16:26) cm putValue ( Net "N43613" ) TESTVIA_SPACING 8 7 ( Net "N43613" )
+\i (00:16:26) cm putValue ( Net "N43625" ) TESTVIA_SPACING 8 7 ( Net "N43625" )
+\i (00:16:26) cm putValue ( Net "N43633" ) TESTVIA_SPACING 8 7 ( Net "N43633" )
+\i (00:16:26) cm putValue ( Net "N435731" ) TESTVIA_SPACING 8 7 ( Net "N435731" )
+\i (00:16:26) cm putValue ( Net "GND" ) SHAPE_SPACING 8 7 ( Net "GND" )
+\i (00:16:26) cm putValue ( Net "N38120" ) SHAPE_SPACING 8 7 ( Net "N38120" )
+\i (00:16:26) cm putValue ( Net "N38132" ) SHAPE_SPACING 8 7 ( Net "N38132" )
+\i (00:16:26) cm putValue ( Net "N38170" ) SHAPE_SPACING 8 7 ( Net "N38170" )
+\i (00:16:26) cm putValue ( Net "N38194" ) SHAPE_SPACING 8 7 ( Net "N38194" )
+\i (00:16:26) cm putValue ( Net "N38286" ) SHAPE_SPACING 8 7 ( Net "N38286" )
+\i (00:16:26) cm putValue ( Net "N38318" ) SHAPE_SPACING 8 7 ( Net "N38318" )
+\i (00:16:26) cm putValue ( Net "N38326" ) SHAPE_SPACING 8 7 ( Net "N38326" )
+\i (00:16:26) cm putValue ( Net "N38338" ) SHAPE_SPACING 8 7 ( Net "N38338" )
+\i (00:16:26) cm putValue ( Net "N38498" ) SHAPE_SPACING 8 7 ( Net "N38498" )
+\i (00:16:26) cm putValue ( Net "N38548" ) SHAPE_SPACING 8 7 ( Net "N38548" )
+\i (00:16:26) cm putValue ( Net "N38580" ) SHAPE_SPACING 8 7 ( Net "N38580" )
+\i (00:16:26) cm putValue ( Net "N42729" ) SHAPE_SPACING 8 7 ( Net "N42729" )
+\i (00:16:26) cm putValue ( Net "N42817" ) SHAPE_SPACING 8 7 ( Net "N42817" )
+\i (00:16:26) cm putValue ( Net "N42837" ) SHAPE_SPACING 8 7 ( Net "N42837" )
+\i (00:16:26) cm putValue ( Net "N43205" ) SHAPE_SPACING 8 7 ( Net "N43205" )
+\i (00:16:26) cm putValue ( Net "N43213" ) SHAPE_SPACING 8 7 ( Net "N43213" )
+\i (00:16:26) cm putValue ( Net "N43273" ) SHAPE_SPACING 8 7 ( Net "N43273" )
+\i (00:16:26) cm putValue ( Net "N43289" ) SHAPE_SPACING 8 7 ( Net "N43289" )
+\i (00:16:26) cm putValue ( Net "N43297" ) SHAPE_SPACING 8 7 ( Net "N43297" )
+\i (00:16:26) cm putValue ( Net "N43349" ) SHAPE_SPACING 8 7 ( Net "N43349" )
+\i (00:16:26) cm putValue ( Net "N43399" ) SHAPE_SPACING 8 7 ( Net "N43399" )
+\i (00:16:26) cm putValue ( Net "N43483" ) SHAPE_SPACING 8 7 ( Net "N43483" )
+\i (00:16:26) cm putValue ( Net "N43487" ) SHAPE_SPACING 8 7 ( Net "N43487" )
+\i (00:16:26) cm putValue ( Net "N43499" ) SHAPE_SPACING 8 7 ( Net "N43499" )
+\i (00:16:26) cm putValue ( Net "N43549" ) SHAPE_SPACING 8 7 ( Net "N43549" )
+\i (00:16:26) cm putValue ( Net "N43557" ) SHAPE_SPACING 8 7 ( Net "N43557" )
+\i (00:16:26) cm putValue ( Net "N43597" ) SHAPE_SPACING 8 7 ( Net "N43597" )
+\i (00:16:26) cm putValue ( Net "N43605" ) SHAPE_SPACING 8 7 ( Net "N43605" )
+\i (00:16:26) cm putValue ( Net "N43613" ) SHAPE_SPACING 8 7 ( Net "N43613" )
+\i (00:16:26) cm putValue ( Net "N43625" ) SHAPE_SPACING 8 7 ( Net "N43625" )
+\i (00:16:26) cm putValue ( Net "N43633" ) SHAPE_SPACING 8 7 ( Net "N43633" )
+\i (00:16:26) cm putValue ( Net "N435731" ) SHAPE_SPACING 8 7 ( Net "N435731" )
+\i (00:16:26) cm putValue ( Net "GND" ) BONDPAD_SPACING 8 7 ( Net "GND" )
+\i (00:16:26) cm putValue ( Net "N38120" ) BONDPAD_SPACING 8 7 ( Net "N38120" )
+\i (00:16:26) cm putValue ( Net "N38132" ) BONDPAD_SPACING 8 7 ( Net "N38132" )
+\i (00:16:26) cm putValue ( Net "N38170" ) BONDPAD_SPACING 8 7 ( Net "N38170" )
+\i (00:16:26) cm putValue ( Net "N38194" ) BONDPAD_SPACING 8 7 ( Net "N38194" )
+\i (00:16:26) cm putValue ( Net "N38286" ) BONDPAD_SPACING 8 7 ( Net "N38286" )
+\i (00:16:26) cm putValue ( Net "N38318" ) BONDPAD_SPACING 8 7 ( Net "N38318" )
+\i (00:16:26) cm putValue ( Net "N38326" ) BONDPAD_SPACING 8 7 ( Net "N38326" )
+\i (00:16:26) cm putValue ( Net "N38338" ) BONDPAD_SPACING 8 7 ( Net "N38338" )
+\i (00:16:26) cm putValue ( Net "N38498" ) BONDPAD_SPACING 8 7 ( Net "N38498" )
+\i (00:16:26) cm putValue ( Net "N38548" ) BONDPAD_SPACING 8 7 ( Net "N38548" )
+\i (00:16:26) cm putValue ( Net "N38580" ) BONDPAD_SPACING 8 7 ( Net "N38580" )
+\i (00:16:26) cm putValue ( Net "N42729" ) BONDPAD_SPACING 8 7 ( Net "N42729" )
+\i (00:16:26) cm putValue ( Net "N42817" ) BONDPAD_SPACING 8 7 ( Net "N42817" )
+\i (00:16:26) cm putValue ( Net "N42837" ) BONDPAD_SPACING 8 7 ( Net "N42837" )
+\i (00:16:26) cm putValue ( Net "N43205" ) BONDPAD_SPACING 8 7 ( Net "N43205" )
+\i (00:16:26) cm putValue ( Net "N43213" ) BONDPAD_SPACING 8 7 ( Net "N43213" )
+\i (00:16:26) cm putValue ( Net "N43273" ) BONDPAD_SPACING 8 7 ( Net "N43273" )
+\i (00:16:26) cm putValue ( Net "N43289" ) BONDPAD_SPACING 8 7 ( Net "N43289" )
+\i (00:16:26) cm putValue ( Net "N43297" ) BONDPAD_SPACING 8 7 ( Net "N43297" )
+\i (00:16:26) cm putValue ( Net "N43349" ) BONDPAD_SPACING 8 7 ( Net "N43349" )
+\i (00:16:26) cm putValue ( Net "N43399" ) BONDPAD_SPACING 8 7 ( Net "N43399" )
+\i (00:16:26) cm putValue ( Net "N43483" ) BONDPAD_SPACING 8 7 ( Net "N43483" )
+\i (00:16:26) cm putValue ( Net "N43487" ) BONDPAD_SPACING 8 7 ( Net "N43487" )
+\i (00:16:26) cm putValue ( Net "N43499" ) BONDPAD_SPACING 8 7 ( Net "N43499" )
+\i (00:16:26) cm putValue ( Net "N43549" ) BONDPAD_SPACING 8 7 ( Net "N43549" )
+\i (00:16:26) cm putValue ( Net "N43557" ) BONDPAD_SPACING 8 7 ( Net "N43557" )
+\i (00:16:26) cm putValue ( Net "N43597" ) BONDPAD_SPACING 8 7 ( Net "N43597" )
+\i (00:16:26) cm putValue ( Net "N43605" ) BONDPAD_SPACING 8 7 ( Net "N43605" )
+\i (00:16:26) cm putValue ( Net "N43613" ) BONDPAD_SPACING 8 7 ( Net "N43613" )
+\i (00:16:26) cm putValue ( Net "N43625" ) BONDPAD_SPACING 8 7 ( Net "N43625" )
+\i (00:16:26) cm putValue ( Net "N43633" ) BONDPAD_SPACING 8 7 ( Net "N43633" )
+\i (00:16:26) cm putValue ( Net "N435731" ) BONDPAD_SPACING 8 7 ( Net "N435731" )
+\i (00:16:26) cm endUndoBlock
+\i (00:16:31) setwindow pcb
+\i (00:16:31) save 
+\i (00:16:32) fillin yes 
+\i (00:16:32) generaledit 
+\i (00:16:33) pick grid -1077.29 1547.21
+\t (00:16:33) last pick:  -1075.00 1550.00
+\i (00:16:41) auto_route 
+\i (00:16:43) setwindow form.vse_armain
+\i (00:16:43) FORM vse_armain execute  
+\i (00:16:46) FORM vse_armain close  
+\i (00:16:46) setwindow pcb
+\i (00:16:46) generaledit 
+\i (00:16:46) zoom in 1 
+\i (00:16:46) setwindow pcb
+\i (00:16:46) zoom in 2814.94 946.24
+\i (00:16:46) trapsize 1174
+\i (00:16:48) zoom in 1 
+\i (00:16:48) setwindow pcb
+\i (00:16:48) zoom in 3185.84 882.86
+\i (00:16:48) trapsize 587
+\i (00:16:48) zoom in 1 
+\i (00:16:48) setwindow pcb
+\i (00:16:48) zoom in 3187.02 880.52
+\i (00:16:48) trapsize 293
+\i (00:16:49) zoom in 1 
+\i (00:16:49) setwindow pcb
+\i (00:16:49) zoom in 3195.82 812.44
+\i (00:16:49) trapsize 147
+\i (00:16:49) zoom out 1 
+\i (00:16:49) setwindow pcb
+\i (00:16:49) zoom out 3195.82 812.44
+\i (00:16:49) trapsize 293
+\i (00:16:50) zoom out 1 
+\i (00:16:50) setwindow pcb
+\i (00:16:50) zoom out 3195.82 812.44
+\i (00:16:50) trapsize 587
+\i (00:16:50) zoom out 1 
+\i (00:16:50) setwindow pcb
+\i (00:16:50) zoom out 3195.83 812.44
+\i (00:16:50) trapsize 1174
+\i (00:16:50) zoom out 1 
+\i (00:16:50) setwindow pcb
+\i (00:16:50) zoom out 3195.82 810.09
+\i (00:16:50) trapsize 2348
+\i (00:16:51) zoom in 1 
+\i (00:16:51) setwindow pcb
+\i (00:16:51) zoom in 3195.83 810.10
+\i (00:16:51) trapsize 1174
+\i (00:16:53) color192 
+\i (00:16:54) generaledit 
+\i (00:16:55) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:16:57) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:16:57) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:16:58) zoom out 1 
+\i (00:16:58) setwindow pcb
+\i (00:16:58) zoom out 1181.64 960.34
+\i (00:16:58) trapsize 2348
+\i (00:17:02) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:17:02) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:17:02) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (00:17:02) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:17:03) zoom in 1 
+\i (00:17:03) setwindow pcb
+\i (00:17:03) zoom in 2069.00 547.19
+\i (00:17:03) trapsize 1174
+\i (00:17:04) zoom out 1 
+\i (00:17:04) setwindow pcb
+\i (00:17:04) zoom out 2069.00 551.89
+\i (00:17:04) trapsize 2348
+\i (00:17:07) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:17:10) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:17:12) save 
+\i (00:17:14) fillin yes 
+\i (00:17:14) generaledit 
+\i (00:17:29) pick grid 4008.07 2321.93
+\t (00:17:29) last pick:  4000.00 2325.00
+\i (00:17:41) pick grid 4411.85 1406.39
+\t (00:17:41) last pick:  4400.00 1400.00
+\i (00:17:42) save 
+\i (00:17:43) fillin yes 
+\i (00:17:43) generaledit 
+\i (00:17:44) exit 
+\i (00:17:44) setwindow cmgr
+\i (00:17:44) cm exit
+\i (00:17:44) setwindow pcb
+\i (00:17:44) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\t (00:17:45)     Journal end - Thu Apr 14 18:40:05 2022

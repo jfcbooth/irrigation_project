@@ -1,11 +1,31 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 16:11:40 }
+{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 17:50:34 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='IRRIGATION_PROJECT';
  POST_TIME='Jun 13 2018 09:15:00';
  SOURCE_TOOL='CAPTURE_WRITER';
 END_DIRECTIVES;
+
+PART_NAME
+ B1 'BATTERY_CONN_5-146280-2_TYCO_12':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS48443@LIBRARY2.BATTERY.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins48443@library2.\battery.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins48443@library2.\battery.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B2 'BATTERY_CONN_5-146280-2_TYCO_7.':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS49005@LIBRARY2.BATTERY.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins49005@library2.\battery.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins49005@library2.\battery.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
 
 PART_NAME
  C1 'C_0603_AVX_1U':;
@@ -108,12 +128,62 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- MS1 'MOISTURE SENSOR_SOT-323_DIO_MOI':;
+ K1 'G5LE-1DC24_RELAY_G5LE-1DC5_OMR_':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS51619@LIBRARY2.G5LE-1DC24.NORMAL(SCH_1)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins51619@library2.\g5le-1dc24.normal\(sch_1)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins51619@library2.\g5le-1dc24.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MS1 'MOISTURE SENSOR_SAMTEC_TSW-103-':;
 
 SECTION_NUMBER 1
  '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS43505@LIBRARY2.MOISTURE SENSOR.NORMAL(CHIPS)':
  C_PATH='@irrigation_project.schematic1(sch_1):ins43505@library2.\moisture sensor.normal\(chips)',
  P_PATH='@irrigation_project.schematic1(sch_1):page1_ins43505@library2.\moisture sensor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ NM1 'N-CHANNEL MOSFET_SOT-323_DIO_N-':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS46258@LIBRARY2.N-CHANNEL MOSFET.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins46258@library2.\n-channel mosfet.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins46258@library2.\n-channel mosfet.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ NM2 'N-CHANNEL MOSFET_SOT-323_DIO_N-':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS46908@LIBRARY2.N-CHANNEL MOSFET.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins46908@library2.\n-channel mosfet.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins46908@library2.\n-channel mosfet.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ NM3 'N-CHANNEL MOSFET_SOT-323_DIO_N-':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS47092@LIBRARY2.N-CHANNEL MOSFET.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins47092@library2.\n-channel mosfet.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins47092@library2.\n-channel mosfet.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ NM4 'N-CHANNEL MOSFET_SOT-323_DIO_P-':;
+
+SECTION_NUMBER 1
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS47872@LIBRARY2.N-CHANNEL MOSFET.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins47872@library2.\n-channel mosfet.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins47872@library2.\n-channel mosfet.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

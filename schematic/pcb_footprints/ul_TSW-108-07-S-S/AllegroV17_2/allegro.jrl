@@ -1,67 +1,43 @@
 \t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Tue Apr 12 17:55:27 2022
-\t (00:00:01)         Host=MCT163S08 User=jb7008 Pid=12980 CPUs=16
-\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:01)     Journal start - Thu Apr 14 17:52:18 2022
+\t (00:00:01)         Host=MCT163S07 User=jb7008 Pid=11212 CPUs=16
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\irrigation_project\schematic\pcb_footprints\ul_TSW-108-07-S-S\AllegroV17_2\CON8_1X8_TU_TSW.dra
 \t (00:00:01) 
    (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Starting new design...
-\i (00:00:05) trapsize 29310
-\i (00:00:05) replay builder.scr.txt 
-\i (00:00:05) skill 'load "D:/irrigation_project/schematic/pcb_footprints/ul_TSW-108-07-S-S/AllegroV17_2/builder.ile" ' 
-   (00:00:05) t
-\i (00:00:05) skill 'changeWorkingDir "D:/irrigation_project/schematic/pcb_footprints/ul_TSW-108-07-S-S/AllegroV17_2" ' 
-   (00:00:05) t
-\i (00:00:05) skill 'LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_TSW-108-07-S-S/AllegroV17_2/CON8_1X8_TU_TSW.xml" ' 
-\t (00:00:05) Reading Footprint XML
-\t (00:00:05) Creating padstacks
-\t (00:00:05) Starting new design...
-\i (00:00:05) trapsize 1304
-\i (00:00:05) trapsize 1364
-\i (00:00:05) trapsize 1385
-\i (00:00:05) trapsize 1638
-\i (00:00:05) trapsize 1537
-\i (00:00:05) trapsize 1537
-\i (00:00:06) trapsize 153707
-\t (00:00:06) Performing DRC...
-\t (00:00:06) Multithreaded DRC update (16 threads).
-\t (00:00:06) No DRC errors detected.
-\t (00:00:07) Opening Design "CON8_1X8_TU_TSW.dra"
-\t (00:00:07) Starting new design...
-\i (00:00:07) trapsize 130435
-\i (00:00:07) trapsize 136364
-\i (00:00:07) trapsize 130435
-\i (00:00:07) trapsize 163776
-\i (00:00:07) trapsize 163776
-\i (00:00:07) trapsize 153707
-\i (00:00:07) trapsize 34765
-\t (00:00:07) Creating TextBlocks
-\t (00:00:07) Creating Shapes on Package layers
-\t (00:00:07) Creating Pins
-\t (00:00:07) Creating Vias
-\t (00:00:07) Creating package symbol 'D:/irrigation_project/schematic/pcb_footprints/ul_TSW-108-07-S-S/AllegroV17_2/con8_1x8_tu_tsw.psm'.
-\t (00:00:07) Starting Create symbol...
-\t (00:00:07) Symbol Created
-\i (00:00:07) trapsize 6646
-   (00:00:07) Loading cmds.cxt 
-   (00:00:07) Loading skillExt.cxt 
-\t (00:00:07) Opening existing design...
-\i (00:00:07) trapsize 6646
-\i (00:00:07) trapsize 6948
-\i (00:00:07) trapsize 6646
-\i (00:00:07) trapsize 7081
-\d (00:00:07) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_TSW-108-07-S-S/AllegroV17_2/CON8_1X8_TU_TSW.dra
-\t (00:00:07) Symbol Saved
-   (00:00:07) t
-\i (00:00:07) scriptmode +i +n 
-\i (00:00:07) step pkg map 
-\i (00:00:07) setwindow form.pkgmap3d 
-\i (00:00:07) FORM pkgmap3d stplist CON8_1X8_TU_TSW.step 
-\i (00:00:08) FORM pkgmap3d rotation_x 0 
-\i (00:00:08) FORM pkgmap3d save_current 
-\i (00:00:08) FORM pkgmap3d done 
-\i (00:00:08) setwindow pcb 
-\i (00:00:08) save 
-\i (00:00:08) fillin yes 
-\t (00:00:08) Symbol 'con8_1x8_tu_tsw.psm' created.
-\i (00:00:08) exit 
-\t (00:00:08)     Journal end - Tue Apr 12 17:55:33 2022
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged CON8_1X8_TU_TSW
+\d (00:00:04) Design opened: D:/irrigation_project/schematic/pcb_footprints/ul_TSW-108-07-S-S/AllegroV17_2/CON8_1X8_TU_TSW.dra
+\t (00:00:04) Grids are drawn 640.000, 640.000 apart for enhanced viewability.
+\i (00:00:04) trapsize 10889
+\i (00:00:04) trapsize 11194
+\i (00:00:04) trapsize 10889
+\t (00:00:05) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:05) trapsize 12615
+\i (00:00:05) generaledit 
+\i (00:00:07) drag_start grid 772.877 414.885
+\i (00:00:07) move 
+\t (00:00:07) last pick:  770.000 410.000
+\t (00:00:07) Element has no origin, using pick.
+\t (00:00:07) Pick new location for the element(s).
+\i (00:00:11) drag_stop grid 977.238 392.178
+\i (00:00:11) generaledit 
+\e (00:00:12) Command not found: Del
+\i (00:00:14) prepopup 964.623 1209.619
+\i (00:00:15) pop dyn_option_select @:@Delete 
+\i (00:00:15) delete 
+\i (00:00:15) generaledit 
+\i (00:00:23) setwindow form.mini
+\i (00:00:23) FORM mini class BOARD GEOMETRY 
+\i (00:00:26) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) shape add rect 
+\i (00:00:30) pick grid -534.019 -175.489
+\t (00:00:30) last pick:  -530.000 -180.000
+\i (00:00:36) pick grid 535.719 1116.269
+\t (00:00:36) last pick:  540.000 1120.000
+\i (00:00:38) save 
+\i (00:00:39) fillin yes 
+\t (00:00:39) Symbol 'con8_1x8_tu_tsw.psm' created.
+\i (00:00:39) generaledit 
+\i (00:00:40) exit 
+\t (00:00:40)     Journal end - Thu Apr 14 17:52:56 2022

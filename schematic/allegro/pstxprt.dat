@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 16:52:32 }
+{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 18:22:19 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='IRRIGATION_PROJECT';
@@ -211,9 +211,9 @@ PART_NAME
  R3 'R_0805_PAN_1K':;
 
 SECTION_NUMBER 1
- '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS38212@ANALOG.R.NORMAL(CHIPS)':
- C_PATH='@irrigation_project.schematic1(sch_1):ins38212@analog.\r.normal\(chips)',
- P_PATH='@irrigation_project.schematic1(sch_1):page1_ins38212@analog.\r.normal\(chips)',
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS55184@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins55184@analog.\r.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins55184@analog.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
