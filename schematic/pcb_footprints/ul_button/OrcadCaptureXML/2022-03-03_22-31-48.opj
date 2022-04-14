@@ -1,0 +1,30 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\2022-03-03_22-31-48.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\2022-03-03_22-31-48.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 464"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1810 208 707"))
+      (Path
+         "C:\USERS\LEOLT\DOCUMENTS\COLLEGE_DOCS\ELEC323\GITATTEMPT\BATTERYCHARGER\UC2906\ALLEGROPCBFILES\UL_BUTTON\ORCADCAPTUREXML\2022-03-03_22-31-48.OLB")
+      (Package "1825910-7")
+      (PartType "1")))
+  (MPSSessionName "leolt"))

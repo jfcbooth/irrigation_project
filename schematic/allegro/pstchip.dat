@@ -1,5 +1,50 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Apr-12-2022 at 18:14:45}
+{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 16:52:32}
+primitive 'BATTERY_CONN_5-146280-2_TYCO_12';
+  pin
+    '+':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '-':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Battery';
+    JEDEC_TYPE='CONN_5-146280-2_TYCO';
+    VALUE='12vDc';
+  end_body;
+end_primitive;
+primitive 'BATTERY_CONN_5-146280-2_TYCO_7.';
+  pin
+    '+':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '-':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Battery';
+    JEDEC_TYPE='CONN_5-146280-2_TYCO';
+    VALUE='7.4V DC';
+  end_body;
+end_primitive;
+primitive 'C_0603_AVX_1U';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='0603_AVX';
+    VALUE='1u';
+  end_body;
+end_primitive;
 primitive 'C_0603_AVX_22PF';
   pin
     '1':
@@ -13,6 +58,21 @@ primitive 'C_0603_AVX_22PF';
     PART_NAME='C';
     JEDEC_TYPE='0603_AVX';
     VALUE='22pF';
+  end_body;
+end_primitive;
+primitive 'C_0603_AVX_.1U';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='0603_AVX';
+    VALUE='.1u';
   end_body;
 end_primitive;
 primitive 'CLOCK_XTAL_HC49SM-8-30-50-60-16';
@@ -43,6 +103,21 @@ primitive 'MBR7545_0805_PAN_PWR_LED';
     PART_NAME='MBR7545';
     JEDEC_TYPE='0805_PAN';
     VALUE='PWR_LED';
+  end_body;
+end_primitive;
+primitive 'LED_0805_PAN_5V,LED,LED';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED';
+    JEDEC_TYPE='0805_PAN';
+    VALUE='5V,LED,LED';
   end_body;
 end_primitive;
 primitive 'DHT20_CON4_1X4_P100UM_HDR2_TYC_';
@@ -78,7 +153,7 @@ primitive '2-PIN_HEADER_CONN_5-146280-2_TY';
   body
     PART_NAME='2-pin_header';
     JEDEC_TYPE='CONN_5-146280-2_TYCO';
-    VALUE='PWR_IN';
+    VALUE='solenoid';
   end_body;
 end_primitive;
 primitive '2-PIN_HEADER_CONN_5-146280-2__1';
@@ -93,7 +168,31 @@ primitive '2-PIN_HEADER_CONN_5-146280-2__1';
   body
     PART_NAME='2-pin_header';
     JEDEC_TYPE='CONN_5-146280-2_TYCO';
-    VALUE='solenoid';
+    VALUE='Solar panel Pos';
+  end_body;
+end_primitive;
+primitive 'G5LE-1DC24_RELAY_G5LE-1DC5_OMR_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='G5LE-1DC24';
+    JEDEC_TYPE='RELAY_G5LE-1DC5_OMR';
+    VALUE='RELAY_G5LE-1DC5';
   end_body;
 end_primitive;
 primitive 'MOISTURE SENSOR_SAMTEC_TSW-103-';
@@ -114,6 +213,42 @@ primitive 'MOISTURE SENSOR_SAMTEC_TSW-103-';
     VALUE='Moisture Sensor';
   end_body;
 end_primitive;
+primitive 'N-CHANNEL MOSFET_SOT-323_DIO_N-';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='N-channel mosfet';
+    JEDEC_TYPE='SOT-323_DIO';
+    VALUE='N-channel mosfet';
+  end_body;
+end_primitive;
+primitive 'N-CHANNEL MOSFET_SOT-323_DIO_P-';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='N-channel mosfet';
+    JEDEC_TYPE='SOT-323_DIO';
+    VALUE='P-channel mosfet';
+  end_body;
+end_primitive;
 primitive 'R_0805_PAN_1K';
   pin
     '2':
@@ -127,6 +262,111 @@ primitive 'R_0805_PAN_1K';
     PART_NAME='R';
     JEDEC_TYPE='0805_PAN';
     VALUE='1k';
+  end_body;
+end_primitive;
+primitive 'R_0805_PAN_.2';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='0805_PAN';
+    VALUE='.2';
+  end_body;
+end_primitive;
+primitive 'R_0805_PAN_15K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='0805_PAN';
+    VALUE='15k';
+  end_body;
+end_primitive;
+primitive 'R_0805_PAN_2K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='0805_PAN';
+    VALUE='2k';
+  end_body;
+end_primitive;
+primitive 'R_0805_PAN_4.6K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='0805_PAN';
+    VALUE='4.6k';
+  end_body;
+end_primitive;
+primitive 'R_0805_PAN_470';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='0805_PAN';
+    VALUE='470';
+  end_body;
+end_primitive;
+primitive 'R_0805_PAN_658';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='0805_PAN';
+    VALUE='658';
+  end_body;
+end_primitive;
+primitive 'R_0805_PAN_4.7K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='0805_PAN';
+    VALUE='4.7k';
   end_body;
 end_primitive;
 primitive 'SD_CARD_CON8_1X8_TU_TSW_SD_CARD';
@@ -341,6 +581,39 @@ primitive 'HC-05_CON5_1X5_P100RM_SHDR_TYC_';
     PART_NAME='HC-05';
     JEDEC_TYPE='CON5_1X5_P100RM_SHDR_TYC';
     VALUE='HC-05';
+  end_body;
+end_primitive;
+primitive 'BQ2057WSNTR_D8_BQ2057W_D_8';
+  pin
+    'VCC':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'TS':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+    'STAT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(*)';
+    'VSS':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'CC':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(*)';
+    'COMP':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+    'SNS':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(*)';
+    'BAT':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='BQ2057WSNTR';
+    JEDEC_TYPE='D8';
+    VALUE='BQ2057W_D_8';
   end_body;
 end_primitive;
 END.

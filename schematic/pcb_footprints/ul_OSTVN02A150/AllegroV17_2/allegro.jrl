@@ -1,0 +1,32 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed Mar 30 12:35:53 2022
+\t (00:00:02)         Host=MCT163S05 User=jb7008 Pid=18788 CPUs=16
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe \\FSERV\home\jb7008\Desktop\batterycharger\uc2906\AllegroPCBFiles\ul_OSTVN02A150\AllegroV17_2\CONN_OSTVN02A150_OST.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged CONN_OSTVN02A150_OST
+\d (00:00:02) Design opened: //FSERV/home/jb7008/Desktop/batterycharger/uc2906/AllegroPCBFiles/ul_OSTVN02A150/AllegroV17_2/CONN_OSTVN02A150_OST.dra
+\i (00:00:02) trapsize 4010
+\i (00:00:02) trapsize 4011
+\i (00:00:02) trapsize 4123
+\i (00:00:02) trapsize 4011
+\i (00:00:02) trapsize 4010
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 242.855 3.025
+\i (00:00:03) trapsize 8021
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -15.421 -4.996
+\i (00:00:04) trapsize 4010
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -21.838 -4.194
+\i (00:00:05) trapsize 2005
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 128.957 65.589
+\i (00:00:26) trapsize 4010
+\i (00:00:31) exit 
+\t (00:00:32)     Journal end - Wed Mar 30 12:36:22 2022

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : RELAY_G5LE-1ADC5_OMR.dra                      )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Thu Mar 24 17:23:06 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_G5LE-1A-CF-DC5/AllegroV17_2
+    Name      = relay_g5le-1adc5_omr.psm
+    User      = lo2055
+    Machine   = MCT163S07
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

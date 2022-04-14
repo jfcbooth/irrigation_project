@@ -1,75 +1,73 @@
-\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Tue Apr 12 18:12:22 2022
-\t (00:00:02)         Host=MCT163S08 User=jb7008 Pid=10428 CPUs=16
-\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession jb7008 D:\IRRIGATION_PROJECT\SCHEMATIC\allegro\IRRIGATION_PROJECT.brd
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:05) Opening existing design...
-\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged IRRIGATION_PROJECT
-\d (00:00:05) Design opened: D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd
-\i (00:00:05) trapsize 13043
-\i (00:00:05) trapsize 13636
-\i (00:00:05) trapsize 13852
-\i (00:00:05) trapsize 16378
-\i (00:00:05) trapsize 15371
-\i (00:00:06) placementedit 
-\i (00:00:07) trapsize 9629
-\i (00:00:09) setwindow form.mini
-\i (00:00:09) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
-\i (00:00:09) FORM mini tree  'Components by refdes' 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) place manual 
-\w (00:00:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:09) Placing C2 / C_0603_AVX_22PF / 0603_AVX on Top.
-\i (00:00:11) pick grid 11208.30 10052.80
-\t (00:00:11) last pick:  11200.00 10100.00
-\t (00:00:11) Placing C3 / C_0603_AVX_22PF / 0603_AVX on Top.
-\i (00:00:11) pick grid 11920.85 9243.96
-\t (00:00:11) last pick:  11900.00 9200.00
-\w (00:00:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:11) Placing CLK2 / CLOCK_XTAL_HC49SM-8-30-50-60-16 / XTAL_HC49SM-8-30-50-60-16-AT00 on Top.
-\i (00:00:11) pick grid 14443.68 8242.53
-\t (00:00:11) last pick:  14400.00 8200.00
-\w (00:00:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:11) Placing D1 / MBR7545_0805_PAN_PWR_LED / 0805_PAN on Top.
-\i (00:00:12) pick grid 10341.68 6393.74
-\t (00:00:12) last pick:  10300.00 6400.00
-\w (00:00:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:12) Placing DHT1 / DHT20_CON4_1X4_P100UM_HDR2_TYC_ / CON4_1X4_P100UM_HDR2_TYC on Top.
-\i (00:00:12) pick grid 15753.24 5854.51
-\t (00:00:12) last pick:  15800.00 5900.00
-\w (00:00:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:12) Placing J1 / 2-PIN_HEADER_CONN_5-146280-2_TY / CONN_5-146280-2_TYCO on Top.
-\i (00:00:13) pick grid 7741.81 9032.12
-\t (00:00:13) last pick:  7700.00 9000.00
-\t (00:00:13) Placing J2 / 2-PIN_HEADER_CONN_5-146280-2__1 / CONN_5-146280-2_TYCO on Top.
-\i (00:00:13) pick grid 12652.66 5661.92
-\t (00:00:13) last pick:  12700.00 5700.00
-\w (00:00:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:13) Placing MS1 / MOISTURE SENSOR_SAMTEC_TSW-103- / SAMTEC_TSW-103-25-S-S-RA on Top.
-\i (00:00:13) pick grid 13557.80 6952.23
-\t (00:00:13) last pick:  13600.00 7000.00
-\t (00:00:13) Placing R1 / R_0805_PAN_1K / 0805_PAN on Top.
-\i (00:00:14) pick grid 17698.32 8223.27
-\t (00:00:14) last pick:  17700.00 8200.00
-\w (00:00:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:14) Placing SD1 / SD_CARD_CON8_1X8_TU_TSW_SD_CARD / CON8_1X8_TU_TSW on Top.
-\i (00:00:14) pick grid 14270.36 10553.52
-\t (00:00:14) last pick:  14300.00 10600.00
-\w (00:00:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:14) Placing U1 / ATMEGA328-PU_28P3_SPDIP28_SP_MC / 28P3_SPDIP28_SP_MCH on Top.
-\i (00:00:15) pick grid 18102.75 6701.87
-\t (00:00:15) last pick:  18100.00 6700.00
-\w (00:00:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:15) Placing U2 / LVR_DPAK-3_ONS_LVR / DPAK-3_ONS on Top.
-\i (00:00:15) pick grid 14848.10 4044.23
-\t (00:00:15) last pick:  14800.00 4000.00
-\w (00:00:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:15) Placing U3 / HC-05_CON5_1X5_P100RM_SHDR_TYC_ / CON5_1X5_P100RM_SHDR_TYC on Top.
-\i (00:00:16) pick grid 9802.44 3851.65
-\t (00:00:16) last pick:  9800.00 3900.00
-\i (00:00:16) placementedit 
-\i (00:00:23) exit 
-\e (00:00:23) Do you want to save the changes you made to IRRIGATION_PROJECT.brd?
-\i (00:00:24) fillin no 
-\t (00:00:24)     Journal end - Tue Apr 12 18:12:44 2022
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Apr 14 16:25:08 2022
+\t (00:00:03)         Host=MCT163S07 User=jb7008 Pid=13792 CPUs=16
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession jb7008 D:\IRRIGATION_PROJECT\SCHEMATIC\allegro\IRRIGATION_PROJECT.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged IRRIGATION_PROJECT
+\d (00:00:06) Design opened: D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/IRRIGATION_PROJECT.brd
+\i (00:00:06) trapsize 8171
+\i (00:00:06) trapsize 8400
+\i (00:00:06) trapsize 8481
+\i (00:00:06) trapsize 11676
+\i (00:00:06) trapsize 11155
+\i (00:00:06) generaledit 
+\i (00:00:21) place manual 
+\i (00:00:31) trapsize 15315
+\i (00:01:27) xname_flush 
+\i (00:01:27) xname_flush 
+\i (00:01:35) xname_flush 
+\i (00:01:36) Net Gnd 
+\t (00:01:36) Nets are not selectable at this time.
+\i (00:01:36) xname_flush 
+\i (00:01:41) Net Gnd 
+\t (00:01:41) Nets are not selectable at this time.
+\i (00:01:41) xname_flush 
+\i (00:01:41) Net Gnd 
+\t (00:01:41) Nets are not selectable at this time.
+\i (00:01:41) xname_flush 
+\i (00:01:44) Net Gnd 
+\t (00:01:44) Nets are not selectable at this time.
+\i (00:01:44) xname_flush 
+\i (00:01:46) xname_flush 
+\i (00:01:51) xname_flush 
+\i (00:02:00) Net Gnd 
+\t (00:02:00) Nets are not selectable at this time.
+\i (00:02:00) xname_flush 
+\i (00:02:04) xname_flush 
+\i (00:02:20) xname_flush 
+\i (00:02:34) xname_flush 
+\i (00:02:35) Net Gnd 
+\t (00:02:35) Nets are not selectable at this time.
+\i (00:02:35) xname_flush 
+\i (00:02:36) Net Gnd 
+\t (00:02:36) Nets are not selectable at this time.
+\i (00:02:36) xname_flush 
+\i (00:02:37) xname_flush 
+\i (00:02:41) xname_flush 
+\i (00:02:43) Net N38540 
+\t (00:02:43) Nets are not selectable at this time.
+\i (00:02:43) xname_flush 
+\i (00:03:44) xname_flush 
+\i (00:04:15) refdes D2 
+\w (00:04:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:04:15) Placing D2 / LED_0805_PAN_5V,LED,LED / 0805_PAN on Top.
+\i (00:04:15) xname_flush 
+\i (00:06:10) xname_flush 
+\i (00:06:28) xname_flush 
+\i (00:13:08) xname_flush 
+\i (00:13:13) refdes C4 
+\w (00:13:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:13:13) Placing C4 / C_0603_AVX_.1U / 0603_AVX on Top.
+\i (00:13:13) xname_flush 
+\i (00:13:15) xname_flush 
+\i (00:15:30) xname_flush 
+\i (00:17:35) setwindow form.plc_manual
+\i (00:17:35) FORM plc_manual cancel  
+\i (00:17:35) setwindow pcb
+\i (00:17:35) generaledit 
+\i (00:17:37) exit 
+\e (00:17:37) Do you want to save the changes you made to IRRIGATION_PROJECT.brd?
+\i (00:17:37) fillin no 
+\t (00:17:38)     Journal end - Thu Apr 14 16:42:43 2022

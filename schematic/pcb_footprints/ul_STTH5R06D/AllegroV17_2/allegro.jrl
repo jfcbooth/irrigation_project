@@ -1,0 +1,28 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed Mar 30 12:36:07 2022
+\t (00:00:02)         Host=MCT163S05 User=jb7008 Pid=24500 CPUs=16
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe \\FSERV\home\jb7008\Desktop\batterycharger\uc2906\AllegroPCBFiles\ul_STTH5R06D\AllegroV17_2\TO-220AC_STM.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged TO-220AC_STM
+\d (00:00:02) Design opened: //FSERV/home/jb7008/Desktop/batterycharger/uc2906/AllegroPCBFiles/ul_STTH5R06D/AllegroV17_2/TO-220AC_STM.dra
+\i (00:00:02) trapsize 2960
+\i (00:00:02) trapsize 3043
+\i (00:00:02) trapsize 2960
+\i (00:00:02) trapsize 2960
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 225.471 59.746
+\i (00:00:03) trapsize 5920
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 219.551 51.457
+\i (00:00:04) trapsize 11841
+\i (00:00:05) roam start
+\i (00:00:05) roam y -64
+\i (00:00:05) roam y -16
+\i (00:00:05) roam y -16
+\i (00:00:06) roam end
+\i (00:00:09) exit 
+\t (00:00:09)     Journal end - Wed Mar 30 12:36:15 2022

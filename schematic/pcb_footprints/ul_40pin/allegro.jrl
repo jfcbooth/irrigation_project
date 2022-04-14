@@ -1,0 +1,55 @@
+\t (00:00:07) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Thu Mar 03 18:27:54 2022
+\t (00:00:07)         Host=LILYS-DESKTOP User=leolt Pid=7500 CPUs=8
+\t (00:00:07) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\leolt\Documents\College_Docs\ELEC323\GitAttempt\batterycharger\uc2906\AllegroPCBFiles\ED40DT\DIPS1524W58P254L5100H490Q40.dra
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\i (00:00:12) fillin yes 
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged DIPS1524W58P254L5100H490Q40
+\d (00:00:12) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ED40DT/DIPS1524W58P254L5100H490Q40.dra
+\i (00:00:13) trapsize 27953
+\i (00:00:13) trapsize 29258
+\i (00:00:13) trapsize 30692
+\i (00:00:13) trapsize 29258
+\i (00:00:13) trapsize 24605
+\i (00:00:13) trapsize 27953
+\i (00:00:13) generaledit 
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 29.7126 42.4961
+\i (00:00:15) trapsize 13976
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -13.8937 42.4961
+\i (00:00:15) trapsize 6988
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -35.6968 42.4961
+\i (00:00:16) trapsize 3494
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -5.5777 41.6575
+\i (00:00:17) trapsize 6988
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 24.5414 41.6576
+\i (00:00:17) trapsize 13976
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 106.5827 41.6575
+\i (00:00:17) trapsize 27953
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 270.6653 35.7874
+\i (00:00:17) trapsize 27953
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 270.6653 35.7874
+\i (00:00:17) trapsize 27953
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 270.6653 35.7874
+\i (00:00:17) trapsize 27953
+\i (00:00:18) exit 
+\t (00:00:18)     Journal end - Thu Mar 03 18:28:05 2022

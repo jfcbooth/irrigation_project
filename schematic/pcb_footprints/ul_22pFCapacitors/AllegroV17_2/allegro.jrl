@@ -1,0 +1,160 @@
+\t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Mar 29 17:19:31 2022
+\t (00:00:01)         Host=MCT163S06 User=lo2055 Pid=11924 CPUs=16
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 29310
+\i (00:00:02) replay builder.scr.txt 
+\i (00:00:02) skill 'load "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_22pFCapacitors/AllegroV17_2/builder.ile" ' 
+   (00:00:02) t
+\i (00:00:02) skill 'changeWorkingDir "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_22pFCapacitors/AllegroV17_2" ' 
+   (00:00:02) t
+\i (00:00:02) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_22pFCapacitors/AllegroV17_2/CAP_0402C_AVX-L.xml" ' 
+\t (00:00:02) Reading Footprint XML
+\t (00:00:02) Creating padstacks
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 765
+\i (00:00:02) trapsize 785
+\i (00:00:02) trapsize 792
+\i (00:00:02) trapsize 1168
+\i (00:00:02) trapsize 1168
+\i (00:00:02) trapsize 1115
+\i (00:00:02) trapsize 111549
+\t (00:00:02) Performing DRC...
+\t (00:00:02) Multithreaded DRC update (16 threads).
+\t (00:00:02) No DRC errors detected.
+\t (00:00:03) Opening Design "CAP_0402C_AVX-L.dra"
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 76531
+\i (00:00:03) trapsize 78534
+\i (00:00:03) trapsize 76531
+\i (00:00:03) trapsize 116758
+\i (00:00:03) trapsize 116758
+\i (00:00:03) trapsize 111549
+\i (00:00:03) trapsize 26417
+\t (00:00:03) Creating TextBlocks
+\t (00:00:03) Creating Shapes on Package layers
+\t (00:00:03) Creating Pins
+\t (00:00:03) Creating Vias
+\t (00:00:03) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_22pFCapacitors/AllegroV17_2/cap_0402c_avx-l.psm'.
+\t (00:00:03) Starting Create symbol...
+\t (00:00:04) Symbol Created
+\i (00:00:04) trapsize 545
+   (00:00:04) Loading cmds.cxt 
+   (00:00:04) Loading skillExt.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) trapsize 545
+\i (00:00:04) trapsize 560
+\i (00:00:04) trapsize 545
+\i (00:00:04) trapsize 570
+\d (00:00:04) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_22pFCapacitors/AllegroV17_2/CAP_0402C_AVX-L.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) scriptmode +i +n 
+\i (00:00:05) step pkg map 
+\i (00:00:05) setwindow form.pkgmap3d 
+\i (00:00:05) FORM pkgmap3d stplist CAP_0402C_AVX.step 
+\i (00:00:05) FORM pkgmap3d rotation_x 0 
+\i (00:00:05) FORM pkgmap3d save_current 
+\i (00:00:05) FORM pkgmap3d done 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) save 
+\i (00:00:05) fillin yes 
+\t (00:00:05) Symbol 'cap_0402c_avx-l.psm' created.
+\i (00:00:05) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_22pFCapacitors/AllegroV17_2/CAP_0402C_AVX-M.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 15193
+\i (00:00:05) trapsize 15618
+\i (00:00:05) trapsize 15193
+\i (00:00:05) trapsize 27651
+\i (00:00:06) trapsize 27651
+\i (00:00:06) trapsize 26417
+\t (00:00:06) Opening Design "CAP_0402C_AVX-M.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 15193
+\i (00:00:06) trapsize 15618
+\i (00:00:06) trapsize 15193
+\i (00:00:06) trapsize 27651
+\i (00:00:06) trapsize 27651
+\i (00:00:06) trapsize 26417
+\i (00:00:06) trapsize 26509
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_22pFCapacitors/AllegroV17_2/cap_0402c_avx-m.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 556
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 556
+\i (00:00:07) trapsize 572
+\i (00:00:07) trapsize 556
+\i (00:00:07) trapsize 582
+\d (00:00:07) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_22pFCapacitors/AllegroV17_2/CAP_0402C_AVX-M.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) scriptmode +i +n 
+\i (00:00:07) step pkg map 
+\i (00:00:07) setwindow form.pkgmap3d 
+\i (00:00:07) FORM pkgmap3d stplist CAP_0402C_AVX.step 
+\i (00:00:07) FORM pkgmap3d rotation_x 0 
+\i (00:00:07) FORM pkgmap3d save_current 
+\i (00:00:07) FORM pkgmap3d done 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) save 
+\i (00:00:07) fillin yes 
+\t (00:00:08) Symbol 'cap_0402c_avx-m.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_22pFCapacitors/AllegroV17_2/CAP_0402C_AVX.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 15193
+\i (00:00:08) trapsize 15618
+\i (00:00:08) trapsize 15193
+\i (00:00:08) trapsize 27747
+\i (00:00:08) trapsize 27747
+\i (00:00:08) trapsize 26509
+\t (00:00:08) Opening Design "CAP_0402C_AVX.dra"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 15193
+\i (00:00:08) trapsize 15618
+\i (00:00:08) trapsize 15193
+\i (00:00:08) trapsize 27747
+\i (00:00:08) trapsize 27747
+\i (00:00:08) trapsize 26509
+\i (00:00:09) trapsize 26463
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+\e (00:00:09) ERROR(SPMHDB-69): Incomplete arc segment data.
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_22pFCapacitors/AllegroV17_2/cap_0402c_avx.psm'.
+\t (00:00:09) Starting Create symbol...
+\t (00:00:09) Symbol Created
+\i (00:00:09) trapsize 545
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 545
+\i (00:00:09) trapsize 560
+\i (00:00:09) trapsize 545
+\i (00:00:09) trapsize 570
+\d (00:00:09) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_22pFCapacitors/AllegroV17_2/CAP_0402C_AVX.dra
+\t (00:00:09) Symbol Saved
+   (00:00:09) t
+\i (00:00:09) scriptmode +i +n 
+\i (00:00:09) step pkg map 
+\i (00:00:10) setwindow form.pkgmap3d 
+\i (00:00:10) FORM pkgmap3d stplist CAP_0402C_AVX.step 
+\i (00:00:10) FORM pkgmap3d rotation_x 0 
+\i (00:00:10) FORM pkgmap3d save_current 
+\i (00:00:10) FORM pkgmap3d done 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) save 
+\i (00:00:10) fillin yes 
+\t (00:00:10) Symbol 'cap_0402c_avx.psm' created.
+\i (00:00:10) exit 
+\t (00:00:11)     Journal end - Tue Mar 29 17:19:40 2022

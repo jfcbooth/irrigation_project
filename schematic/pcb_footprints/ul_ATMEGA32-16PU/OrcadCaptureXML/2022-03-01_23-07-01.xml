@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Lib xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="olb.xsd">
+ 
+  <Defn name="2022-03-01_23-07-01.OLB"/>
+ 
+  <Package>
+    <Defn alphabeticNumbering="2" isHomogeneous="1" name="ATMEGA32-16PU" pcbFootprint="40P6_ATM" pcbLib="" refdesPrefix="U"/>
+    <LibPart>
+      <Defn/>
+      <NormalView>
+        <Defn suffix=".Normal"/>
+        <SymbolDisplayProp>
+          <Defn locX="130" locY="-30" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn val="1"/>
+          </PropDispType>
+        </SymbolDisplayProp>
+        <SymbolDisplayProp>
+          <Defn locX="130" locY="-20" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn val="1"/>
+          </PropDispType>
+        </SymbolDisplayProp>
+        <SymbolUserProp>
+          <Defn name="Manufacturer_Part_Number" val="ATMEGA32-16PU"/>
+        </SymbolUserProp>
+        <SymbolUserProp>
+          <Defn name="Mfr_Name" val="Microchip"/>
+        </SymbolUserProp>
+        <SymbolUserProp>
+          <Defn name="Copyright" val="Copyright (C) 2022 Ultra Librarian. All rights reserved."/>
+        </SymbolUserProp>
+        <SymbolColor>
+          <Defn val="48"/>
+        </SymbolColor>
+        <SymbolBBox>
+          <Defn x1="0" x2="260" y1="0" y2="230"/>
+        </SymbolBBox>
+        <IsPinNumbersVisible>
+          <Defn val="1"/>
+        </IsPinNumbersVisible>
+        <IsPinNamesRotated>
+          <Defn val="1"/>
+        </IsPinNamesRotated>
+        <IsPinNamesVisible>
+          <Defn val="1"/>
+        </IsPinNamesVisible>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name="ATMEGA32-16PU"/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="0"/>
+        </ContentsViewType>
+        <PartValue>
+          <Defn name="ATMEGA32-16PU"/>
+        </PartValue>
+        <Reference>
+          <Defn name="U"/>
+        </Reference>
+        <Rect>
+          <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="3" x1="0" x2="260" y1="0" y2="230"/>
+        </Rect>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="20" name="(XCK/T0) PB0" position="0" startX="0" startY="20" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="30" name="(T1) PB1" position="1" startX="0" startY="30" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="40" name="(INT2/AIN0) PB2" position="2" startX="0" startY="40" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="50" name="(OC0/AIN1) PB3" position="3" startX="0" startY="50" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="60" name="(SS*) PB4" position="4" startX="0" startY="60" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="70" name="(MOSI) PB5" position="5" startX="0" startY="70" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="80" name="(MISO) PB6" position="6" startX="0" startY="80" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="90" name="(SCK) PB7" position="7" startX="0" startY="90" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="100" name="RESET*" position="8" startX="0" startY="100" type="0" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="110" name="VCC" position="9" startX="0" startY="110" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="120" name="GND" position="10" startX="0" startY="120" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="130" name="XTAL2" position="11" startX="0" startY="130" type="2" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="140" name="XTAL1" position="12" startX="0" startY="140" type="0" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="150" name="(RXD) PD0" position="13" startX="0" startY="150" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="160" name="(TXD) PD1" position="14" startX="0" startY="160" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="170" name="(INT0) PD2" position="15" startX="0" startY="170" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="180" name="(INT1) PD3" position="16" startX="0" startY="180" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="190" name="(OC1B) PD4" position="17" startX="0" startY="190" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="200" name="(OC1A) PD5" position="18" startX="0" startY="200" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="210" name="(ICP1) PD6" position="19" startX="0" startY="210" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="210" name="PD7 (OC2)" position="20" startX="260" startY="210" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="200" name="PC0 (SCL)" position="21" startX="260" startY="200" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="190" name="PC1 (SDA)" position="22" startX="260" startY="190" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="180" name="PC2 (TCK)" position="23" startX="260" startY="180" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="170" name="PC3 (TMS)" position="24" startX="260" startY="170" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="160" name="PC4 (TDO)" position="25" startX="260" startY="160" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="150" name="PC5 (TDI)" position="26" startX="260" startY="150" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="140" name="PC6 (TOSC1)" position="27" startX="260" startY="140" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="130" name="PC7 (TOSC2)" position="28" startX="260" startY="130" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="120" name="AVCC" position="29" startX="260" startY="120" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="110" name="GND_1" position="30" startX="260" startY="110" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="100" name="AREF" position="31" startX="260" startY="100" type="4" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="90" name="PA7 (ADC7)" position="32" startX="260" startY="90" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="80" name="PA6 (ADC6)" position="33" startX="260" startY="80" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="70" name="PA5 (ADC5)" position="34" startX="260" startY="70" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="60" name="PA4 (ADC4)" position="35" startX="260" startY="60" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="50" name="PA3 (ADC3)" position="36" startX="260" startY="50" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="40" name="PA2 (ADC2)" position="37" startX="260" startY="40" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="30" name="PA1 (ADC1)" position="38" startX="260" startY="30" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="290" hotptY="20" name="PA0 (ADC0)" position="39" startX="260" startY="20" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+      </NormalView>
+      <PhysicalPart>
+        <Defn/>
+        <PinNumber>
+          <Defn number="1" position="0"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="2" position="1"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="3" position="2"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="4" position="3"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="5" position="4"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="6" position="5"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="7" position="6"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="8" position="7"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="9" position="8"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="10" position="9"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="11" position="10"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="12" position="11"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="13" position="12"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="14" position="13"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="15" position="14"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="16" position="15"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="17" position="16"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="18" position="17"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="19" position="18"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="20" position="19"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="21" position="20"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="22" position="21"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="23" position="22"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="24" position="23"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="25" position="24"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="26" position="25"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="27" position="26"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="28" position="27"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="29" position="28"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="30" position="29"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="31" position="30"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="32" position="31"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="33" position="32"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="34" position="33"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="35" position="34"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="36" position="35"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="37" position="36"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="38" position="37"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="39" position="38"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="40" position="39"/>
+        </PinNumber>
+      </PhysicalPart>
+    </LibPart>
+  </Package>
+ 
+</Lib>

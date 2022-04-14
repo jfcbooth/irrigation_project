@@ -1,0 +1,24 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Mar 01 18:36:39 2022
+\t (00:00:02)         Host=LILYS-DESKTOP User=leolt Pid=20852 CPUs=8
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged N16
+\d (00:00:06) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_UC2906N/AllegroV17_2/N16.dra
+\i (00:00:07) trapsize 10179
+\i (00:00:07) trapsize 11416
+\i (00:00:07) trapsize 10179
+\i (00:00:08) trapsize 5809
+\i (00:00:08) trapsize 5809
+\i (00:00:09) generaledit 
+\i (00:00:11) open 
+\i (00:00:38) fillin "C:\Cadence\SPB_17.2\share\pcb\pcb_lib\symbols\switch.dra"
+\i (00:00:38) cd "C:\Cadence\SPB_17.2\share\pcb\pcb_lib\symbols"
+\t (00:00:38) Opening existing design...
+\i (00:00:38) trapsize 19
+\i (00:00:38) trapsize 21
+\i (00:00:38) trapsize 19
+\i (00:00:39) trapsize 19
+\t (00:00:39)     Journal end - Tue Mar 01 18:37:16 2022

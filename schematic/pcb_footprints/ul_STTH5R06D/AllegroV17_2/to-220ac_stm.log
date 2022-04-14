@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TO-220AC_STM.dra                              )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Thu Mar 24 18:22:32 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_STTH5R06D/AllegroV17_2
+    Name      = to-220ac_stm.psm
+    User      = lo2055
+    Machine   = MCT163S07
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

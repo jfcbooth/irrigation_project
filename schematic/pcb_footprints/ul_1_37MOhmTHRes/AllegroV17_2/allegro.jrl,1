@@ -1,0 +1,74 @@
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Mar 29 16:09:06 2022
+\t (00:00:03)         Host=MCT163S06 User=lo2055 Pid=10048 CPUs=16
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 29310
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_1_37MOhmTHRes/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_1_37MOhmTHRes/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_1_37MOhmTHRes/AllegroV17_2/RES_VISHAY_HVR37_VIS.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 765
+\i (00:00:04) trapsize 785
+\i (00:00:04) trapsize 792
+\i (00:00:04) trapsize 1168
+\i (00:00:04) trapsize 1168
+\i (00:00:04) trapsize 1115
+\i (00:00:04) trapsize 111549
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (16 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 76531
+\i (00:00:05) trapsize 78534
+\i (00:00:05) trapsize 79245
+\i (00:00:05) trapsize 116758
+\i (00:00:05) trapsize 116758
+\i (00:00:05) trapsize 111549
+\t (00:00:05) Opening Design "RES_VISHAY_HVR37_VIS.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 76531
+\i (00:00:05) trapsize 78534
+\i (00:00:05) trapsize 76531
+\i (00:00:05) trapsize 116758
+\i (00:00:05) trapsize 116758
+\i (00:00:05) trapsize 111549
+\i (00:00:06) trapsize 24291
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_1_37MOhmTHRes/AllegroV17_2/res_vishay_hvr37_vis.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:06) Symbol Created
+\i (00:00:06) trapsize 2914
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 2914
+\i (00:00:07) trapsize 2996
+\i (00:00:07) trapsize 2914
+\i (00:00:07) trapsize 3051
+\d (00:00:07) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_1_37MOhmTHRes/AllegroV17_2/RES_VISHAY_HVR37_VIS.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) scriptmode +i +n 
+\i (00:00:07) step pkg map 
+\i (00:00:07) setwindow form.pkgmap3d 
+\i (00:00:07) FORM pkgmap3d stplist RES_VISHAY_HVR37_VIS.step 
+\i (00:00:07) FORM pkgmap3d rotation_x 0 
+\i (00:00:07) FORM pkgmap3d save_current 
+\i (00:00:07) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'res_vishay_hvr37_vis.psm' created.
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Tue Mar 29 16:09:11 2022

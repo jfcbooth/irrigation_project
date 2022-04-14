@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : IRRIGATION_PROJECT.brd                        )
 (    Software Version : 17.2S042                                      )
-(    Date/Time        : Tue Apr 12 18:14:45 2022                      )
+(    Date/Time        : Thu Apr 14 16:52:32 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -27,7 +27,7 @@ CmdLine: netrev.exe -y 1 -n -i D:\IRRIGATION_PROJECT\SCHEMATIC\allegro D:\IRRIGA
 ------ Preparing to read pst files ------
 
 Starting to read D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstchip.dat 
-   Finished reading D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstchip.dat (00:00:00.03)
+   Finished reading D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstchip.dat (00:00:00.02)
 Starting to read D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstxprt.dat 
    Finished reading D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstxprt.dat (00:00:00.00)
 Starting to read D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/pstxnet.dat 
@@ -61,7 +61,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Apr 12 18:14:45 2022
+netrev run on Apr 14 16:52:32 2022
    DESIGN NAME : 'IRRIGATION_PROJECT'
    PACKAGING ON Jun 13 2018 09:15:00
 

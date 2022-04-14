@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CONN3_020524_WRE.dra                          )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Thu Mar 03 18:30:45 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_450405020524/AllegroV17_2
+    Name      = conn3_020524_wre.psm
+    User      = lo2055
+    Machine   = MCT163S04
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

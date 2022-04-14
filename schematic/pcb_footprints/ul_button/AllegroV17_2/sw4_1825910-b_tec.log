@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SW4_1825910-B_TEC.dra                         )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Thu Mar 03 18:29:54 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = //FSERV/home/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_1825910-7/AllegroV17_2
+    Name      = sw4_1825910-b_tec.psm
+    User      = lo2055
+    Machine   = MCT163S04
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

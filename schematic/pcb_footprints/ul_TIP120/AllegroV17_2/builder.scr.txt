@@ -1,0 +1,14 @@
+skill load "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_TIP120/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_TIP120/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_TIP120/AllegroV17_2/TO-220_STM.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist TO-220_STM.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

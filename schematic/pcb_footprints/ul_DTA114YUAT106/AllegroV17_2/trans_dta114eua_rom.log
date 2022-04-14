@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TRANS_DTA114EUA_ROM.dra                       )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Thu Apr 14 16:04:28 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/irrigation_project/schematic/pcb_footprints/ul_DTA114YUAT106/AllegroV17_2
+    Name      = trans_dta114eua_rom.psm
+    User      = jb7008
+    Machine   = MCT163S07
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

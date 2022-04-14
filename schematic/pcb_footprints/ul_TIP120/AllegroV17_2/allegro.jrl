@@ -1,0 +1,73 @@
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Mar 03 13:05:12 2022
+\t (00:00:03)         Host=LILYS-DESKTOP User=leolt Pid=17264 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 29310
+\i (00:00:06) replay builder.scr.txt 
+\i (00:00:06) skill 'load "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_TIP120/AllegroV17_2/builder.ile" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'changeWorkingDir "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_TIP120/AllegroV17_2" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'LB_createFootprint "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_TIP120/AllegroV17_2/TO-220_STM.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:07) trapsize 1855
+\i (00:00:07) trapsize 1977
+\i (00:00:07) trapsize 2023
+\i (00:00:07) trapsize 2023
+\i (00:00:07) trapsize 2023
+\i (00:00:07) trapsize 1855
+\i (00:00:07) trapsize 185512
+\t (00:00:07) Performing DRC...
+\t (00:00:07) Multithreaded DRC update (8 threads).
+\t (00:00:07) No DRC errors detected.
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 185512
+\i (00:00:07) trapsize 197740
+\i (00:00:08) trapsize 202312
+\i (00:00:08) trapsize 202312
+\i (00:00:08) trapsize 202312
+\i (00:00:08) trapsize 185512
+\t (00:00:08) Opening Design "TO-220_STM.dra"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 185512
+\i (00:00:08) trapsize 197740
+\i (00:00:08) trapsize 185512
+\i (00:00:08) trapsize 185512
+\i (00:00:09) trapsize 185512
+\i (00:00:09) trapsize 35446
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Creating package symbol 'C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_TIP120/AllegroV17_2/to-220_stm.psm'.
+\t (00:00:09) Starting Create symbol...
+\t (00:00:11) Symbol Created
+\i (00:00:11) trapsize 5830
+   (00:00:11) Loading cmds.cxt 
+   (00:00:11) Loading skillExt.cxt 
+\t (00:00:11) Opening existing design...
+\i (00:00:11) trapsize 5830
+\i (00:00:11) trapsize 6215
+\i (00:00:11) trapsize 5830
+\i (00:00:11) trapsize 6107
+\d (00:00:11) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_TIP120/AllegroV17_2/TO-220_STM.dra
+\t (00:00:12) Symbol Saved
+   (00:00:12) t
+\i (00:00:12) scriptmode +i +n 
+\i (00:00:12) step pkg map 
+\i (00:00:12) setwindow form.pkgmap3d 
+\i (00:00:12) FORM pkgmap3d stplist TO-220_STM.step 
+\i (00:00:12) FORM pkgmap3d rotation_x 0 
+\i (00:00:12) FORM pkgmap3d save_current 
+\i (00:00:12) FORM pkgmap3d done 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) save 
+\i (00:00:12) fillin yes 
+\t (00:00:12) Symbol 'to-220_stm.psm' created.
+\i (00:00:12) exit 
+\t (00:00:13)     Journal end - Thu Mar 03 13:05:21 2022

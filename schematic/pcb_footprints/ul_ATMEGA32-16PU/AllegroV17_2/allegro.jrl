@@ -1,0 +1,61 @@
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Mar 03 13:58:09 2022
+\t (00:00:03)         Host=LILYS-DESKTOP User=leolt Pid=6784 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\leolt\Documents\College_Docs\ELEC323\GitAttempt\batterycharger\uc2906\AllegroPCBFiles\ul_ATMEGA32-16PU\AllegroV17_2\40P6_ATM.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 40P6_ATM
+\d (00:00:03) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_ATMEGA32-16PU/AllegroV17_2/40P6_ATM.dra
+\i (00:00:03) trapsize 6389
+\i (00:00:03) trapsize 6568
+\i (00:00:04) trapsize 6389
+\i (00:00:04) trapsize 5373
+\i (00:00:04) trapsize 14295
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -460.303 -1403.885
+\i (00:00:05) trapsize 28591
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 1251.084 -1972.882
+\i (00:00:05) trapsize 36581
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 2277.047 -2858.215
+\i (00:00:06) trapsize 18291
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -71.476 -2858.215
+\i (00:00:06) trapsize 9145
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 411.398 -2053.425
+\i (00:00:06) trapsize 18291
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 901.588 -2020.502
+\i (00:00:06) trapsize 36581
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 4230.492 324.363
+\i (00:00:06) trapsize 36581
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -20.262 -231.673
+\i (00:00:07) trapsize 18291
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -1220.131 -231.672
+\i (00:00:07) trapsize 9145
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -20.262 -568.221
+\i (00:00:08) trapsize 18291
+\i (00:00:10) drag_start grid 1077.179 -1596.157
+\i (00:00:10) drag_stop 1073.521 -1373.011
+\i (00:00:11) pick grid 283.363 -352.391
+\t (00:00:11) last pick:  300.000 -400.000
+\i (00:01:57) exit 
+\t (00:01:57)     Journal end - Thu Mar 03 14:00:03 2022

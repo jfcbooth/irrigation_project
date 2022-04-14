@@ -1,0 +1,60 @@
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Mar 24 17:23:02 2022
+\t (00:00:03)         Host=MCT163S07 User=lo2055 Pid=10992 CPUs=16
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged RELAY_G5LE-1ADC5_OMR
+\d (00:00:03) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_G5LE-1A-CF-DC5/AllegroV17_2/RELAY_G5LE-1ADC5_OMR.dra
+\i (00:00:03) trapsize 7220
+\i (00:00:03) trapsize 7423
+\i (00:00:03) trapsize 7220
+\i (00:00:03) trapsize 7220
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_G5LE-1A-CF-DC5/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_G5LE-1A-CF-DC5/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_G5LE-1A-CF-DC5/AllegroV17_2/RELAY_G5LE-1ADC5_OMR.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 18317
+\i (00:00:03) trapsize 18830
+\i (00:00:03) trapsize 18317
+\i (00:00:03) trapsize 31405
+\i (00:00:03) trapsize 31405
+\i (00:00:03) trapsize 30004
+\i (00:00:03) trapsize 23537595
+\t (00:00:03) Unknown pad shape type ""
+   (00:00:03) *WARNING* (figureHeight): Not a floating point number! - nil
+\t (00:00:04) Opening Design "RELAY_G5LE-1ADC5_OMR.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 18317
+\i (00:00:04) trapsize 18830
+\i (00:00:04) trapsize 18317
+\i (00:00:04) trapsize 31405
+\i (00:00:04) trapsize 31405
+\i (00:00:04) trapsize 30004
+\t (00:00:04) Creating TextBlocks
+\t (00:00:04) Creating Shapes on Package layers
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\i (00:00:06) fillin yes 
+\t (00:00:06) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_G5LE-1A-CF-DC5/AllegroV17_2/relay_g5le-1adc5_omr.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 7220
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 7220
+\i (00:00:07) trapsize 7423
+\i (00:00:07) trapsize 7220
+\i (00:00:07) trapsize 7558
+\d (00:00:07) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_G5LE-1A-CF-DC5/AllegroV17_2/RELAY_G5LE-1ADC5_OMR.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) exit 
+\t (00:00:08)     Journal end - Thu Mar 24 17:23:07 2022

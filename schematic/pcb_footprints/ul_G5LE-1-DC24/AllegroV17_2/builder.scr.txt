@@ -1,0 +1,4 @@
+skill load "D:/irrigation_project/schematic/pcb_footprints/ul_G5LE-1-DC24/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "D:/irrigation_project/schematic/pcb_footprints/ul_G5LE-1-DC24/AllegroV17_2" 
+skill LB_createFootprint "D:/irrigation_project/schematic/pcb_footprints/ul_G5LE-1-DC24/AllegroV17_2/RELAY_G5LE-1DC5_OMR.xml" 
+exit 

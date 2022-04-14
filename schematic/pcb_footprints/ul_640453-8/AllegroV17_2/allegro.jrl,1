@@ -1,0 +1,58 @@
+\t (00:00:01) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Mar 28 18:44:56 2022
+\t (00:00:01)         Host=MCT163S06 User=lo2055 Pid=5744 CPUs=16
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 640453-8_TYC
+\d (00:00:01) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_640453-8/AllegroV17_2/640453-8_TYC.dra
+\i (00:00:01) trapsize 3560
+\i (00:00:02) trapsize 3660
+\i (00:00:02) trapsize 3560
+\i (00:00:02) trapsize 3560
+\i (00:00:02) replay builder.scr.txt 
+\i (00:00:02) skill 'load "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_640453-8/AllegroV17_2/builder.ile" ' 
+   (00:00:02) t
+\i (00:00:02) skill 'changeWorkingDir "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_640453-8/AllegroV17_2" ' 
+   (00:00:02) t
+\i (00:00:02) skill 'LB_createFootprint "Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_640453-8/AllegroV17_2/640453-8_TYC.xml" ' 
+\t (00:00:02) Reading Footprint XML
+\t (00:00:02) Creating padstacks
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 19261
+\i (00:00:02) trapsize 19800
+\i (00:00:02) trapsize 19261
+\i (00:00:02) trapsize 29911
+\i (00:00:02) trapsize 29911
+\i (00:00:02) trapsize 28576
+\i (00:00:02) trapsize 24750000
+\t (00:00:02) Opening Design "640453-8_TYC.dra"
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 19261
+\i (00:00:02) trapsize 19800
+\i (00:00:03) trapsize 19261
+\i (00:00:03) trapsize 29911
+\i (00:00:03) trapsize 29911
+\i (00:00:03) trapsize 28576
+\t (00:00:03) Creating TextBlocks
+\t (00:00:03) Creating Shapes on Package layers
+\t (00:00:03) Creating Pins
+\t (00:00:03) Creating Vias
+\i (00:00:04) fillin yes 
+\t (00:00:04) Creating package symbol 'Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_640453-8/AllegroV17_2/640453-8_tyc.psm'.
+\t (00:00:04) Starting Create symbol...
+\t (00:00:05) Symbol Created
+\i (00:00:05) trapsize 3560
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 3560
+\i (00:00:05) trapsize 3660
+\i (00:00:05) trapsize 3560
+\i (00:00:05) trapsize 3727
+\d (00:00:06) Design opened: Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_640453-8/AllegroV17_2/640453-8_TYC.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) exit 
+\t (00:00:06)     Journal end - Mon Mar 28 18:45:01 2022

@@ -1,0 +1,25 @@
+\t (00:00:03) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Mar 15 13:02:55 2022
+\t (00:00:03)         Host=LILYS-DESKTOP User=leolt Pid=6540 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\leolt\Documents\College_Docs\ELEC323\GitAttempt\batterycharger\uc2906\AllegroPCBFiles\ul_button\AllegroV17_2\SW4_1825910-B_TEC.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SW4_1825910-B_TEC
+\d (00:00:03) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_button/AllegroV17_2/SW4_1825910-B_TEC.dra
+\i (00:00:03) trapsize 3467
+\i (00:00:03) trapsize 3565
+\i (00:00:03) trapsize 3467
+\i (00:00:03) trapsize 2916
+\i (00:00:03) trapsize 4017
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 315.690 -172.697
+\i (00:00:05) trapsize 8034
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 299.623 -169.483
+\i (00:00:05) trapsize 4017
+\i (00:00:12) exit 
+\t (00:00:12)     Journal end - Tue Mar 15 13:03:04 2022

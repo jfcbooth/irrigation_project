@@ -1,0 +1,21 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Mar 03 13:40:17 2022
+\t (00:00:02)         Host=LILYS-DESKTOP User=leolt Pid=21272 CPUs=8
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 1001C_MUR
+\d (00:00:06) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_1001C/AllegroV17_2/1001C_MUR.dra
+\i (00:00:06) trapsize 13050
+\i (00:00:06) trapsize 14635
+\i (00:00:06) trapsize 13050
+\i (00:00:06) trapsize 7447
+\i (00:00:06) trapsize 7447
+\i (00:00:07) generaledit 
+\i (00:00:10) trapsize 2759
+\i (00:00:17) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:04:02) exit 
+\e (00:04:02) Do you want to save the changes you made to 1001C_MUR.dra?
+\i (00:04:12) fillin no 
+\t (00:04:12)     Journal end - Thu Mar 03 13:44:27 2022

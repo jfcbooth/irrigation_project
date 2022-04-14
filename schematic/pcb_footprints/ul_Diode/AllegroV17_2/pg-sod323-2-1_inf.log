@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PG-SOD323-2-1_INF.dra                         )
+(    Software Version : 17.2S042                                      )
+(    Date/Time        : Thu Mar 03 18:32:47 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Y:/lo2055/Desktop/new git repo/batterycharger/uc2906/AllegroPCBFiles/ul_Diode/AllegroV17_2
+    Name      = pg-sod323-2-1_inf.psm
+    User      = lo2055
+    Machine   = MCT163S04
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

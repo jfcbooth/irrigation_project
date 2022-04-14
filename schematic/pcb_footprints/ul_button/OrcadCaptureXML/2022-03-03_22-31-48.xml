@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Lib xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="olb.xsd">
+ 
+  <Defn name="2022-03-03_22-31-48.OLB"/>
+ 
+  <Package>
+    <Defn alphabeticNumbering="2" isHomogeneous="1" name="1825910-7" pcbFootprint="SW4_1825910-B_TEC" pcbLib="" refdesPrefix="SW"/>
+    <LibPart>
+      <Defn/>
+      <NormalView>
+        <Defn suffix=".Normal"/>
+        <SymbolDisplayProp>
+          <Defn locX="50" locY="-30" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn val="1"/>
+          </PropDispType>
+        </SymbolDisplayProp>
+        <SymbolDisplayProp>
+          <Defn locX="50" locY="-20" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn val="1"/>
+          </PropDispType>
+        </SymbolDisplayProp>
+        <SymbolUserProp>
+          <Defn name="Copyright" val="Copyright (C) 2022 Ultra Librarian. All rights reserved."/>
+        </SymbolUserProp>
+        <SymbolUserProp>
+          <Defn name="Mfr_Name" val="TE Connectivity"/>
+        </SymbolUserProp>
+        <SymbolUserProp>
+          <Defn name="Manufacturer_Part_Number" val="1825910-7"/>
+        </SymbolUserProp>
+        <SymbolColor>
+          <Defn val="48"/>
+        </SymbolColor>
+        <SymbolBBox>
+          <Defn x1="0" x2="100" y1="0" y2="70"/>
+        </SymbolBBox>
+        <IsPinNumbersVisible>
+          <Defn val="1"/>
+        </IsPinNumbersVisible>
+        <IsPinNamesRotated>
+          <Defn val="1"/>
+        </IsPinNamesRotated>
+        <IsPinNamesVisible>
+          <Defn val="1"/>
+        </IsPinNamesVisible>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name="1825910-7"/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="0"/>
+        </ContentsViewType>
+        <PartValue>
+          <Defn name="SW4_1825910"/>
+        </PartValue>
+        <Reference>
+          <Defn name="SW"/>
+        </Reference>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="0" x2="18" y1="20" y2="20"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="0" x2="18" y1="50" y2="50"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="100" x2="83" y1="20" y2="20"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="100" x2="83" y1="50" y2="50"/>
+        </Line>
+          <Arc>
+            <Defn endX="22" endY="20" lineStyle="0" lineWidth="3" startX="22" startY="20" x1="18" x2="22" y1="18" y2="22"/>
+          </Arc>
+          <Arc>
+            <Defn endX="22" endY="50" lineStyle="0" lineWidth="3" startX="22" startY="50" x1="18" x2="22" y1="48" y2="52"/>
+          </Arc>
+          <Arc>
+            <Defn endX="78" endY="50" lineStyle="0" lineWidth="3" startX="78" startY="50" x1="78" x2="82" y1="48" y2="52"/>
+          </Arc>
+          <Arc>
+            <Defn endX="78" endY="20" lineStyle="0" lineWidth="3" startX="78" startY="20" x1="78" x2="82" y1="18" y2="22"/>
+          </Arc>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="20" x2="20" y1="22" y2="48"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="80" x2="80" y1="22" y2="48"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="80" x2="63" y1="35" y2="35"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="20" x2="38" y1="35" y2="35"/>
+        </Line>
+          <Arc>
+            <Defn endX="42" endY="35" lineStyle="0" lineWidth="3" startX="42" startY="35" x1="38" x2="42" y1="32" y2="38"/>
+          </Arc>
+          <Arc>
+            <Defn endX="58" endY="35" lineStyle="0" lineWidth="3" startX="58" startY="35" x1="58" x2="62" y1="32" y2="38"/>
+          </Arc>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="43" x2="60" y1="35" y2="25"/>
+        </Line>
+        <Rect>
+          <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="3" x1="0" x2="100" y1="0" y2="70"/>
+        </Rect>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="20" name="1" position="0" startX="0" startY="20" type="4" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="50" name="2" position="1" startX="0" startY="50" type="4" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="130" hotptY="20" name="3" position="2" startX="100" startY="20" type="4" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="130" hotptY="50" name="4" position="3" startX="100" startY="50" type="4" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+      </NormalView>
+      <PhysicalPart>
+        <Defn/>
+        <PinNumber>
+          <Defn number="1" position="0"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="2" position="1"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="3" position="2"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="4" position="3"/>
+        </PinNumber>
+      </PhysicalPart>
+    </LibPart>
+  </Package>
+ 
+</Lib>

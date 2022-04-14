@@ -1,0 +1,1 @@
+RES_VISHAY_HVR37_VIS.dra

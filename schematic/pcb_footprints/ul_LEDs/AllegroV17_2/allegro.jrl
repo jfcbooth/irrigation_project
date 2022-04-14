@@ -1,0 +1,56 @@
+\t (00:00:02) allegro 17.2 S042 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Mar 15 13:36:39 2022
+\t (00:00:02)         Host=LILYS-DESKTOP User=leolt Pid=2172 CPUs=8
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Starting new design...
+\i (00:00:03) trapsize 29310
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_LEDs/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_LEDs/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_LEDs/AllegroV17_2/521-9183_DIA.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 687
+\i (00:00:03) trapsize 703
+\i (00:00:03) trapsize 709
+\i (00:00:04) trapsize 1259
+\i (00:00:04) trapsize 1259
+\i (00:00:04) trapsize 1199
+\i (00:00:04) trapsize 119887
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (8 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "521-9183_DIA.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 68717
+\i (00:00:04) trapsize 70328
+\i (00:00:04) trapsize 68717
+\i (00:00:05) trapsize 125926
+\i (00:00:05) trapsize 125926
+\i (00:00:05) trapsize 111549
+\i (00:00:05) trapsize 24803
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_LEDs/AllegroV17_2/521-9183_dia.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 3150
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 3150
+\i (00:00:07) trapsize 3223
+\i (00:00:07) trapsize 3150
+\i (00:00:07) trapsize 3297
+\d (00:00:07) Design opened: C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_LEDs/AllegroV17_2/521-9183_DIA.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Tue Mar 15 13:36:45 2022

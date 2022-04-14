@@ -1,0 +1,4 @@
+skill load "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_OSTVN02A150/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_OSTVN02A150/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/leolt/Documents/College_Docs/ELEC323/GitAttempt/batterycharger/uc2906/AllegroPCBFiles/ul_OSTVN02A150/AllegroV17_2/CONN_OSTVN02A150_OST.xml" 
+exit 
