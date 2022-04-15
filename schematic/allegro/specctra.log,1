@@ -5,7 +5,7 @@
 # ===============================================================================
 # 
 # Software licensed for sale by Cadence Design Systems, Inc.
-# Current time = Thu Apr 14 18:02:39 2022
+# Current time = Thu Apr 14 18:03:48 2022
 # 
 # Allegro PCB Router v17-2-50 made 2017/01/16 at 14:16:53
 # Running on: mct163s07, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium
@@ -14,10 +14,10 @@
 # Design Name D:/IRRIGATION_PROJECT/SCHEMATIC/allegro\IRRIGATION_PROJECT.dsn
 # Batch File Name: pasde.do
 # Did File Name: D:/IRRIGATION_PROJECT/SCHEMATIC/allegro/specctra.did
-# Current time = Thu Apr 14 18:02:40 2022
+# Current time = Thu Apr 14 18:03:48 2022
 # PCB D:/IRRIGATION_PROJECT/SCHEMATIC/allegro
 # Master Unit set up as: MIL 1000
-# PCB Limits xlo=-162.5000 ylo=-100.0000 xhi=3412.5000 yhi=2100.0000
+# PCB Limits xlo=-135.0000 ylo=-72.5000 xhi=3385.0000 yhi=2072.5000
 # Total 19 Images Consolidated.
 # Via VIA z=1, 2 xlo=-12.0000 ylo=-12.0000 xhi= 12.0000 yhi= 12.0000
 # 
@@ -31,7 +31,7 @@
 # Layers Processed: Signal Layers 2
 # Components Placed 32, Images Processed 45, Padstacks Processed 18
 # Nets Processed 33, Net Terminals 110
-# PCB Area=6500000.000  EIC=8  Area/EIC=812500.000  SMDs=22
+# PCB Area=6240000.000  EIC=8  Area/EIC=780000.000  SMDs=22
 # Total Pin Count: 116
 # Signal Connections Created 77
 # 
@@ -55,7 +55,7 @@
 # Loading Do File pasde.do ...
 # Loading Do File D:/IRRIGATION_PROJECT/SCHEMATIC/allegro\IRRIGATION_PROJECT_rules.do ...
 # Colormap Written to File _notify.std
-# Enter command <# Loading Do File C:/Users/jb7008/AppData/Local/Temp/#Taaaaai07000.tmp ...
+# Enter command <# Loading Do File C:/Users/jb7008/AppData/Local/Temp/#Taaaaao07000.tmp ...
 # All Components Unselected.
 # All Nets Unselected.
 set route_diagonal 0
@@ -88,7 +88,7 @@ rule pcb (trombone_gap -1)
 unprotect selected
 # All Selected Wires Unprotected.
 route 25 1
-# Current time = Thu Apr 14 18:02:43 2022
+# Current time = Thu Apr 14 18:03:49 2022
 # 
 #    VIA     TOP  BOTTOM
 # 
@@ -115,46 +115,46 @@ route 25 1
 # Total Conflicts: 81 (Cross: 80, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
 # Total Unroutes: 0
 # Attempts 77 Successes 77 Failures 0 Vias 9
-# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
 # End Pass 1 of 25
 # Start Route Pass 2 of 25
-# Routing 109 wires.
-# Total Conflicts: 40 (Cross: 40, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Routing 108 wires.
+# Total Conflicts: 41 (Cross: 41, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
 # Total Unroutes: 0
-# Attempts 97 Successes 97 Failures 0 Vias 14
+# Attempts 96 Successes 96 Failures 0 Vias 15
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
-# Conflict Reduction  0.5062
+# Conflict Reduction  0.4938
 # End Pass 2 of 25
 # Start Route Pass 3 of 25
-# Routing 124 wires.
-# Total Conflicts: 13 (Cross: 12, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Routing 123 wires.
+# Total Conflicts: 12 (Cross: 12, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
 # Total Unroutes: 0
-# Attempts 97 Successes 97 Failures 0 Vias 23
+# Attempts 96 Successes 96 Failures 0 Vias 24
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
-# Conflict Reduction  0.6750
+# Conflict Reduction  0.7073
 # End Pass 3 of 25
 # Start Route Pass 4 of 25
 # Routing 133 wires.
-# Total Conflicts: 5 (Cross: 5, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Conflicts: 4 (Cross: 4, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
 # Total Unroutes: 0
-# Attempts 103 Successes 103 Failures 0 Vias 26
+# Attempts 105 Successes 105 Failures 0 Vias 28
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
-# Conflict Reduction  0.6154
+# Conflict Reduction  0.6667
 # End Pass 4 of 25
-# 26 bend points have been removed.
+# 28 bend points have been removed.
 # 0 bend points have been removed.
-# 1 bend points have been removed.
+# 0 bend points have been removed.
 # Start Route Pass 5 of 25
-# Routing 10 wires.
+# Routing 8 wires.
 # 22 bend points have been removed.
 # 0 bend points have been removed.
-# 0 bend points have been removed.
+# 1 bend points have been removed.
 # Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
 # Total Unroutes: 0
-# Attempts 10 Successes 10 Failures 0 Vias 30
+# Attempts 8 Successes 8 Failures 0 Vias 31
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # End Pass 5 of 25
-# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
 # 
 # Design Rules --------------------------------------------
 # Via Grid 0.0100 with offset 0.0000
@@ -164,11 +164,11 @@ route 25 1
 #     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
 #   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
 #----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
-# Route    |  1|    80|     1|   0|    0|    9|    0|   0|  0|  0:00:00|  0:00:00|
-# Route    |  2|    40|     0|   0|    0|   14|    0|   0| 50|  0:00:00|  0:00:00|
-# Route    |  3|    12|     1|   0|    0|   23|    0|   0| 67|  0:00:00|  0:00:00|
-# Route    |  4|     5|     0|   0|    0|   26|    0|   0| 61|  0:00:00|  0:00:00|
-# Route    |  5|     0|     0|   0|    0|   30|    0|   0|100|  0:00:00|  0:00:00|
+# Route    |  1|    80|     1|   0|    0|    9|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|    41|     0|   0|    0|   15|    0|   0| 49|  0:00:00|  0:00:01|
+# Route    |  3|    12|     0|   0|    0|   24|    0|   0| 70|  0:00:00|  0:00:01|
+# Route    |  4|     4|     0|   0|    0|   28|    0|   0| 66|  0:00:00|  0:00:01|
+# Route    |  5|     0|     0|   0|    0|   31|    0|   0|100|  0:00:00|  0:00:01|
 # Conflicts between polygon wires and fixed objects:   0
 # Stub Violations:   0
 # Net Order Violations:   0
@@ -176,19 +176,19 @@ route 25 1
 # Diffpair Phase Tolerance  Violations:   0
 # Total layerset violations:   0
 # Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
-# Overall Routing Time: 0:00:00
+# Overall Routing Time: 0:00:01
 # 
 # Wiring Statistics ----------------- D:/IRRIGATION_PROJECT/SCHEMATIC/allegro\IRRIGATION_PROJECT.dsn
 # Nets 33 Connections 77 Unroutes 0
 # Signal Layers 2 Power Layers 0
-# Wire Junctions 31, at vias 8 Total Vias 30
+# Wire Junctions 31, at vias 7 Total Vias 31
 # Percent Connected  100.00
-# Manhattan Length 77496.6200 Horizontal 46590.5670 Vertical 30906.0530
-# Routed Length 84271.2100 Horizontal 48051.5100 Vertical 36219.7000
-# Ratio Actual / Manhattan   1.0874
+# Manhattan Length 78278.4200 Horizontal 47113.8590 Vertical 31164.5610
+# Routed Length 82250.7800 Horizontal 46494.3900 Vertical 35756.3900
+# Ratio Actual / Manhattan   1.0507
 # Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
 clean 2
-# Current time = Thu Apr 14 18:02:43 2022
+# Current time = Thu Apr 14 18:03:49 2022
 # 
 #    VIA     TOP  BOTTOM
 # 
@@ -204,27 +204,27 @@ clean 2
 # Wiring Statistics ----------------- D:/IRRIGATION_PROJECT/SCHEMATIC/allegro\IRRIGATION_PROJECT.dsn
 # Nets 33 Connections 77 Unroutes 0
 # Signal Layers 2 Power Layers 0
-# Wire Junctions 31, at vias 8 Total Vias 30
+# Wire Junctions 31, at vias 7 Total Vias 31
 # Percent Connected  100.00
-# Manhattan Length 77496.6200 Horizontal 46590.5670 Vertical 30906.0530
-# Routed Length 84271.2100 Horizontal 48051.5100 Vertical 36219.7000
-# Ratio Actual / Manhattan   1.0874
+# Manhattan Length 78278.4200 Horizontal 47113.8590 Vertical 31164.5610
+# Routed Length 82250.7800 Horizontal 46494.3900 Vertical 35756.3900
+# Ratio Actual / Manhattan   1.0507
 # Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
 # Start Clean Pass 1 of 2
-# Routing 130 wires.
+# Routing 132 wires.
 # Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
 # Total Unroutes: 0
-# Attempts 105 Successes 105 Failures 0 Vias 28
+# Attempts 106 Successes 106 Failures 0 Vias 28
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # End Pass 1 of 2
 # Start Clean Pass 2 of 2
-# Routing 137 wires.
+# Routing 136 wires.
 # 1 bend points have been removed.
 # 0 bend points have been removed.
 # 0 bend points have been removed.
 # Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
 # Total Unroutes: 0
-# Attempts 105 Successes 105 Failures 0 Vias 26
+# Attempts 105 Successes 105 Failures 0 Vias 27
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # End Pass 2 of 2
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
@@ -237,13 +237,13 @@ clean 2
 #     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
 #   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
 #----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
-# Route    |  1|    80|     1|   0|    0|    9|    0|   0|  0|  0:00:00|  0:00:00|
-# Route    |  2|    40|     0|   0|    0|   14|    0|   0| 50|  0:00:00|  0:00:00|
-# Route    |  3|    12|     1|   0|    0|   23|    0|   0| 67|  0:00:00|  0:00:00|
-# Route    |  4|     5|     0|   0|    0|   26|    0|   0| 61|  0:00:00|  0:00:00|
-# Route    |  5|     0|     0|   0|    0|   30|    0|   0|100|  0:00:00|  0:00:00|
-# Clean    |  6|     0|     0|   0|    0|   28|    0|   0|   |  0:00:00|  0:00:00|
-# Clean    |  7|     0|     0|   0|    0|   26|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    80|     1|   0|    0|    9|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|    41|     0|   0|    0|   15|    0|   0| 49|  0:00:00|  0:00:01|
+# Route    |  3|    12|     0|   0|    0|   24|    0|   0| 70|  0:00:00|  0:00:01|
+# Route    |  4|     4|     0|   0|    0|   28|    0|   0| 66|  0:00:00|  0:00:01|
+# Route    |  5|     0|     0|   0|    0|   31|    0|   0|100|  0:00:00|  0:00:01|
+# Clean    |  6|     0|     0|   0|    0|   28|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    |  7|     0|     0|   0|    0|   27|    0|   0|   |  0:00:00|  0:00:01|
 # Conflicts between polygon wires and fixed objects:   0
 # Stub Violations:   0
 # Net Order Violations:   0
@@ -251,89 +251,17 @@ clean 2
 # Diffpair Phase Tolerance  Violations:   0
 # Total layerset violations:   0
 # Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
-# Overall Routing Time: 0:00:00
+# Overall Routing Time: 0:00:01
 # 
 # Wiring Statistics ----------------- D:/IRRIGATION_PROJECT/SCHEMATIC/allegro\IRRIGATION_PROJECT.dsn
 # Nets 33 Connections 77 Unroutes 0
 # Signal Layers 2 Power Layers 0
-# Wire Junctions 28, at vias 6 Total Vias 26
+# Wire Junctions 29, at vias 6 Total Vias 27
 # Percent Connected  100.00
-# Manhattan Length 77958.9000 Horizontal 47275.2120 Vertical 30683.6880
-# Routed Length 83651.4200 Horizontal 47979.6400 Vertical 35671.7800
-# Ratio Actual / Manhattan   1.0730
+# Manhattan Length 77888.5500 Horizontal 46955.8130 Vertical 30932.7370
+# Routed Length 81910.2700 Horizontal 46632.8300 Vertical 35277.4400
+# Ratio Actual / Manhattan   1.0516
 # Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
-write routes (changed_only) (reset_changed) C:/Users/jb7008/AppData/Local/Temp/#Taaaaaj07000.tmp
-# Routing Written to File C:/Users/jb7008/AppData/Local/Temp/#Taaaaaj07000.tmp
-# Loading Do File C:/Users/jb7008/AppData/Local/Temp/#Taaaaal07000.tmp ...
-# All Components Unselected.
-# All Nets Unselected.
-# Net N435731 Selected.
-# Net N38498 Selected.
-# Net N38548 Selected.
-# Net N38580 Selected.
-# Net N38286 Selected.
-# Net N38170 Selected.
-# Net N38338 Selected.
-# Net N38326 Selected.
-# Net N38132 Selected.
-# Net N38120 Selected.
-# Net N38194 Selected.
-# Net N38318 Selected.
-# Net GND Selected.
-# Net N43613 Selected.
-# Net N43273 Selected.
-# Net N43597 Selected.
-# Net N43605 Selected.
-# Net N43297 Selected.
-# Net N43213 Selected.
-# Net N43549 Selected.
-# Net N42837 Selected.
-# Net N43487 Selected.
-# Net N42729 Selected.
-# Net N43557 Selected.
-# Net N43625 Selected.
-# Net N42817 Selected.
-# Net N43633 Selected.
-# Net N43483 Selected.
-# Net N43399 Selected.
-# Net N43205 Selected.
-# Net N43349 Selected.
-# Net N43289 Selected.
-# Net N43499 Selected.
-# All Selected Wires Unprotected.
-# All unprotected selected wires were deleted.
-# Current time = Thu Apr 14 18:02:56 2022
-# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
-# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
-# 
-# Wiring Statistics ----------------- D:/IRRIGATION_PROJECT/SCHEMATIC/allegro\IRRIGATION_PROJECT.dsn
-# Nets 33 Connections 77 Unroutes 77
-# Signal Layers 2 Power Layers 0
-# Wire Junctions 0, at vias 0 Total Vias 0
-# Percent Connected    0.00
-# Manhattan Length 76243.8100 Horizontal 46130.7000 Vertical 30113.1100
-# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
-# Ratio Actual / Manhattan   0.0000
-# Unconnected Length 76243.8100 Horizontal 44550.3000 Vertical 31693.5100
-# All Components Unselected.
-# All Nets Unselected.
-# Current time = Thu Apr 14 18:02:56 2022
-# Nets Processed 34, Net Terminals 116
-# Signal Connections Created 77
-# 
-# Design Rules --------------------------------------------
-# Via Grid 0.0100 with offset 0.0000
-# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
-# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
-# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
-# 
-# Wiring Statistics ----------------- D:/IRRIGATION_PROJECT/SCHEMATIC/allegro\IRRIGATION_PROJECT.dsn
-# Nets 34 Connections 77 Unroutes 77
-# Signal Layers 2 Power Layers 0
-# Wire Junctions 0, at vias 0 Total Vias 0
-# Percent Connected    0.00
-# Manhattan Length 76243.8100 Horizontal 46130.7000 Vertical 30113.1100
-# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
-# Ratio Actual / Manhattan   0.0000
-# Unconnected Length 76243.8100 Horizontal 44550.3000 Vertical 31693.5100
+write routes (changed_only) (reset_changed) C:/Users/jb7008/AppData/Local/Temp/#Taaaaap07000.tmp
+# Routing Written to File C:/Users/jb7008/AppData/Local/Temp/#Taaaaap07000.tmp
 quit

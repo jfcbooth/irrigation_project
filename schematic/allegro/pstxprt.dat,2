@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 17:50:55 }
+{ Using PSTWRITER 17.2.0 d001Apr-15-2022 at 11:31:16 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='IRRIGATION_PROJECT';
@@ -18,7 +18,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- B2 'BATTERY_CONN_5-146280-2_TYCO_7.':;
+ B2 'BATTERY_CONN_5-146280-2_TYCO_BA':;
 
 SECTION_NUMBER 1
  '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS49005@LIBRARY2.BATTERY.NORMAL(CHIPS)':
@@ -84,16 +84,6 @@ SECTION_NUMBER 1
  '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS43701@DIODE.MBR7545.NORMAL(CHIPS)':
  C_PATH='@irrigation_project.schematic1(sch_1):ins43701@diode.\mbr7545.normal\(chips)',
  P_PATH='@irrigation_project.schematic1(sch_1):page1_ins43701@diode.\mbr7545.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D2 'LED_0805_PAN_5V,LED,LED':;
-
-SECTION_NUMBER 1
- '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS38292@LED.LED.NORMAL(CHIPS)':
- C_PATH='@irrigation_project.schematic1(sch_1):ins38292@led.\led.normal\(chips)',
- P_PATH='@irrigation_project.schematic1(sch_1):page1_ins38292@led.\led.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -211,9 +201,9 @@ PART_NAME
  R3 'R_0805_PAN_1K':;
 
 SECTION_NUMBER 1
- '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS38212@ANALOG.R.NORMAL(CHIPS)':
- C_PATH='@irrigation_project.schematic1(sch_1):ins38212@analog.\r.normal\(chips)',
- P_PATH='@irrigation_project.schematic1(sch_1):page1_ins38212@analog.\r.normal\(chips)',
+ '@IRRIGATION_PROJECT.SCHEMATIC1(SCH_1):INS55184@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@irrigation_project.schematic1(sch_1):ins55184@analog.\r.normal\(chips)',
+ P_PATH='@irrigation_project.schematic1(sch_1):page1_ins55184@analog.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

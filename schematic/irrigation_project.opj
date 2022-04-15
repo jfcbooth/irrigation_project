@@ -166,20 +166,19 @@
       (Path "Design Resources" ".\irrigation_project.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\irrigation_project.dsn" "SCHEMATIC1"
-         "PAGE1"))
+      (Select "Design Resources" ".\irrigation_project.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 420"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 420"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1713 52 507")
-        (Scroll "1580 96")
-        (Zoom "200")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1713 52 507")
+        (Scroll "338 531")
+        (Zoom "164")
         (Occurrence "/"))
       (Path "D:\IRRIGATION_PROJECT\SCHEMATIC\IRRIGATION_PROJECT.DSN")
       (Schematic "SCHEMATIC1")

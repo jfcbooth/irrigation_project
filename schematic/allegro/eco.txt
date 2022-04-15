@@ -3,9 +3,48 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  D:/irrigation_project/schematic/allegro/IRRIGATION_PROJECT.brd              |
-|                                                    Thu Apr 14 18:22:19 2022  |
+|                                                    Fri Apr 15 11:59:40 2022  |
 |------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ N-CHANNEL MOSFET_SOT-323_DIO_NM
+ N-CHANNEL MOSFET_SOT-323_DIO_PM
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
+|  D:/irrigation_project/schematic/allegro/IRRIGATION_PROJECT.brd              |
+|                                                    Fri Apr 15 11:59:40 2022  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ NM1                 N-CHANNEL MOSFET_SOT-323_DIO_NM 2275.00  175.00 N-CHANNEL MOSFET_SOT-323_DIO_N-
+ NM2                 N-CHANNEL MOSFET_SOT-323_DIO_NM 2525.00  175.00 N-CHANNEL MOSFET_SOT-323_DIO_N-
+ NM3                 N-CHANNEL MOSFET_SOT-323_DIO_NM 2800.00  175.00 N-CHANNEL MOSFET_SOT-323_DIO_N-
+ NM4                 N-CHANNEL MOSFET_SOT-323_DIO_PM 3050.00  175.00 N-CHANNEL MOSFET_SOT-323_DIO_P-
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/irrigation_project/schematic/allegro/IRRIGATION_PROJECT.brd              |
+|                                                    Fri Apr 15 11:59:40 2022  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ NM1.3          2275.00  175.00 PRIM_FILE      .\pstchip.dat
+ NM2.3          2525.00  175.00 PRIM_FILE      .\pstchip.dat
+ NM3.3          2800.00  175.00 PRIM_FILE      .\pstchip.dat
+ NM4.3          3050.00  175.00 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Comp definitions added:       2                                        |
+|       Components changed    :       4                                        |
+|       Slot property added   :       4                                        |
 |                                                                              |
-|   Total ECO changes reported:       0                                        |
+|   Total ECO changes reported:      10                                        |
 |------------------------------------------------------------------------------|

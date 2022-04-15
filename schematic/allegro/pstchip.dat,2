@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 17:50:55}
+{ Using PSTWRITER 17.2.0 d001Apr-15-2022 at 11:31:16}
 primitive 'BATTERY_CONN_5-146280-2_TYCO_12';
   pin
     '+':
@@ -15,7 +15,7 @@ primitive 'BATTERY_CONN_5-146280-2_TYCO_12';
     VALUE='12vDc';
   end_body;
 end_primitive;
-primitive 'BATTERY_CONN_5-146280-2_TYCO_7.';
+primitive 'BATTERY_CONN_5-146280-2_TYCO_BA';
   pin
     '+':
       PIN_NUMBER='(1)';
@@ -27,7 +27,7 @@ primitive 'BATTERY_CONN_5-146280-2_TYCO_7.';
   body
     PART_NAME='Battery';
     JEDEC_TYPE='CONN_5-146280-2_TYCO';
-    VALUE='7.4V DC';
+    VALUE='Bat.';
   end_body;
 end_primitive;
 primitive 'C_0603_AVX_1U';
@@ -105,21 +105,6 @@ primitive 'MBR7545_0805_PAN_PWR_LED';
     VALUE='PWR_LED';
   end_body;
 end_primitive;
-primitive 'LED_0805_PAN_5V,LED,LED';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='LED';
-    JEDEC_TYPE='0805_PAN';
-    VALUE='5V,LED,LED';
-  end_body;
-end_primitive;
 primitive 'DHT20_CON4_1X4_P100UM_HDR2_TYC_';
   pin
     'VCC':
@@ -168,7 +153,7 @@ primitive '2-PIN_HEADER_CONN_5-146280-2__1';
   body
     PART_NAME='2-pin_header';
     JEDEC_TYPE='CONN_5-146280-2_TYCO';
-    VALUE='Solar panel Pos';
+    VALUE='SP+';
   end_body;
 end_primitive;
 primitive 'G5LE-1DC24_RELAY_G5LE-1DC5_OMR_';
