@@ -1,13 +1,21 @@
-\t (00:00:20) allegro 17.2 S042 Windows SPB 64-bit Edition
-\t (00:00:20)     Journal start - Mon Apr 18 11:31:44 2022
-\t (00:00:20)         Host=MCT163S07 User=jb7008 Pid=1428 CPUs=16
-\t (00:00:20) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:20) 
-\d (00:00:20) Design opened: D:/irrigation_project - Copy/schematic/allegro/IRRIGATION_PROJECT.brd
-\i (00:00:20) generaledit 
-\i (00:00:21) zoom out 1 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) zoom out 1356.35 1269.17
-\i (00:00:21) trapsize 3346
-\i (00:00:22) exit 
-\t (00:00:22)     Journal end - Mon Apr 18 11:31:46 2022
+\t (00:00:25) allegro 17.4 S016 Windows SPB 64-bit Edition
+\t (00:00:25)     Journal start - Mon Apr 18 11:42:23 2022
+\t (00:00:25)         Host=MCT158W22 User=jb7008 Pid=1716 CPUs=16
+\t (00:00:25) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:25) 
+\d (00:00:25) Design opened: C:/Users/jb7008/irrigation_project/schematic/allegro/IRRIGATION_PROJECT.brd
+\i (00:00:25) generaledit 
+\i (00:00:27) roam start
+\i (00:00:27) roam x 16
+\i (00:00:27) roam y -48
+\i (00:00:27) roam y -16
+\i (00:00:27) roam end
+\i (00:00:31) artwork 
+\i (00:00:47) setwindow form.mini
+\i (00:00:47) FORM mini class 'PACKAGE KEEPIN' 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) shape add rect 
+\e (00:00:51) Program has encountered a problem and must exit. The design will be saved as a .SAV file that can be recovered using dbdoctor (if applicable). To resolve problem, first obtain the latest software update from Cadence and if the problem persists contact Cadence Customer Support. In addition to the data Cadence support requests; please provide the MiniDump files found in folder "C:/Users/jb7008/irrigation_project/schematic/allegro".
+\i (00:01:01) fillin confirm
+\e (00:01:01) Saving design as 'C:/Users/jb7008/irrigation_project/schematic/allegro/IRRIGATION_PROJECT.SAV'.
+\t (00:01:02)     Journal end - Mon Apr 18 11:43:00 2022
