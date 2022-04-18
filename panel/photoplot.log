@@ -1,0 +1,308 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : panelized_board.brd                           )
+(    Software Version : 17.4S016                                      )
+(    Date/Time        : Mon Apr 18 12:26:16 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
+
+ WARNING: Generating english output data from a metric database
+ may cause slight roundoff error of coordinates in output file.
+
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/jb7008/irrigation_project/panel/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.0000 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Null REGULAR-PAD specified for padstack MNN2_8 at (20.0000 5.0000).
+    WARNING: Null REGULAR-PAD specified for padstack MNN2_8 at (20.0000 425.0000).
+    WARNING: Null REGULAR-PAD specified for padstack MNN2_8 at (305.0000 425.0000).
+    WARNING: Segment with same start and end points at
+	(1.0001 421.0000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03150                                  DARK 
+  CIRCLE     0.05200                                  DARK 
+  CIRCLE     0.05394                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07118                                  DARK 
+  CIRCLE     0.19685                                  DARK 
+  SQUARE     0.05200                     0.000 NO     DARK 
+  SQUARE     0.05394                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05300       0.000 NO     DARK 
+  PAD SHAPE  FID1                        0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/jb7008/irrigation_project/panel/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.0000 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Null REGULAR-PAD specified for padstack MNN2_8 at (20.0000 5.0000).
+    WARNING: Null REGULAR-PAD specified for padstack MNN2_8 at (20.0000 425.0000).
+    WARNING: Null REGULAR-PAD specified for padstack MNN2_8 at (305.0000 425.0000).
+    WARNING: Segment with same start and end points at
+	(1.0001 421.0000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.05200                                  DARK 
+  CIRCLE     0.05394                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07118                                  DARK 
+  SQUARE     0.05200                     0.000 NO     DARK 
+  SQUARE     0.05394                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  RECTANGLE  0.01775     x 0.04375       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03800       0.000 NO     DARK 
+  RECTANGLE  0.03700     x 0.09800      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05300       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.21300       0.000 NO     DARK 
+  RECTANGLE  0.07800     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.26700     x 0.27300      90.000 NO     DARK 
+  PAD SHAPE  FID1                        0.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < C:/Users/jb7008/irrigation_project/panel/SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.0000 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (127.0800 44.4290) in MM
+           ... using undefined line width of 5.0000 MM
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 5.0000 MM
+
+    WARNING: 0 width line found at (128.8834 49.6868) in MM
+           ... using undefined line width of 5.0000 MM
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 5.0000 MM
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.19685                                  DARK 
+
+     SILKSCREEN_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOTTOM >
+     TO FILE < C:/Users/jb7008/irrigation_project/panel/SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.0000 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.19685                                  DARK 
+
+     SILKSCREEN_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < C:/Users/jb7008/irrigation_project/panel/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.0000 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.05200                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06181                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07118                                  DARK 
+  CIRCLE     0.14961                                  DARK 
+  SQUARE     0.05200                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06181                     0.000 NO     DARK 
+  SQUARE     0.17323                     0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05300       0.000 NO     DARK 
+
+     SOLDERMASK_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < C:/Users/jb7008/irrigation_project/panel/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.0000 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.05200                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06181                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07118                                  DARK 
+  SQUARE     0.05200                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06181                     0.000 NO     DARK 
+  RECTANGLE  0.01775     x 0.04375       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03800       0.000 NO     DARK 
+  RECTANGLE  0.03700     x 0.09800      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05300       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.21300       0.000 NO     DARK 
+  RECTANGLE  0.07800     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.26700     x 0.27300      90.000 NO     DARK 
+  PAD SHAPE  FID1                        0.000 NO     DARK 
+
+     SOLDERMASK_BOTTOM created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+        SILKSCREEN_TOP created with warnings
+        SILKSCREEN_BOTTOM created with warnings
+        SOLDERMASK_TOP created with warnings
+        SOLDERMASK_BOTTOM created with warnings
+
+ ARTWORK had warnings

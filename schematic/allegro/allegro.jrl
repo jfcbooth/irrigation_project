@@ -136,3 +136,58 @@
 \t (00:02:28) Starting Create artwork films...
 \w (00:02:28) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
 \w (00:02:29) Artwork generated with warnings.
+\i (00:02:49) setwindow text
+\i (00:02:49) close
+\i (00:02:53) setwindow form.film_control
+\i (00:02:53) FORM film_control ok  
+\i (00:02:54) setwindow pcb
+\i (00:02:54) generaledit 
+\i (00:02:54) save 
+\i (00:02:58) fillin yes 
+   (00:02:58) Loading signal.cxt 
+\i (00:02:59) generaledit 
+\i (00:03:53) ncdrill legend 
+   (00:03:53) Loading mfg.cxt 
+\i (00:03:55) setwindow form.nc_drilllegend
+\i (00:03:55) FORM nc_drilllegend done  
+\i (00:03:56) setwindow pcb
+\i (00:03:56) zoom out 1 
+\i (00:03:56) setwindow pcb
+\i (00:03:56) zoom out 3414.64 1600.18
+\i (00:03:56) trapsize 4067
+\i (00:03:57) zoom out 1 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom out 3862.02 1575.78
+\i (00:03:57) trapsize 8134
+\i (00:03:58) zoom in 1 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) zoom in 3666.80 1884.88
+\i (00:03:58) trapsize 4067
+\i (00:03:59) pick grid 3463.44 2088.24
+\t (00:03:59) last pick:  3475.00 2100.00
+\t (00:03:59) NC Drill Legend generation successful
+\i (00:03:59) generaledit 
+\i (00:04:40) nctape_full 
+\i (00:04:41) setwindow form.nc_drill
+\i (00:04:41) FORM nc_drill separate_tapes YES 
+\i (00:04:54) FORM nc_drill counter_drilling YES 
+\i (00:04:55) FORM nc_drill execute  
+\t (00:04:55) Starting Generating NC Drill...
+\i (00:05:00) setwindow pcb
+\i (00:05:00) save 
+\i (00:05:01) fillin yes 
+\i (00:05:01) generaledit 
+\i (00:05:43) pick grid 5976.93 4219.41
+\t (00:05:43) last pick:  5975.00 4225.00
+\i (00:06:26) pick grid 1576.29 4105.53
+\t (00:06:26) last pick:  1575.00 4100.00
+\i (00:06:27) save 
+\i (00:06:28) fillin yes 
+\i (00:06:29) generaledit 
+\i (00:06:30) open 
+\i (00:07:07) fillin "C:/Cadence/SPB_17.4/share/pcb/toolbox/getting_started/panelization/pcb_context/panel_start.brd"
+\i (00:07:07) cd "C:/Cadence/SPB_17.4/share/pcb/toolbox/getting_started/panelization/pcb_context"
+\t (00:07:07) Opening existing design...
+\t (00:07:07) Grids are drawn 4.0000, 4.0000 apart for enhanced viewing.
+\i (00:07:07) trapsize 47368
+\t (00:07:07)     Journal end - Mon Apr 18 12:14:00 2022
