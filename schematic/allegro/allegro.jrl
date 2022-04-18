@@ -1,756 +1,138 @@
-\t (00:00:13) allegro 17.4 S016 Windows SPB 64-bit Edition
-\t (00:00:13)     Journal start - Mon Apr 18 11:43:18 2022
-\t (00:00:13)         Host=MCT158W22 User=jb7008 Pid=9960 CPUs=16
-\t (00:00:13) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
-\t (00:00:13) 
-   (00:00:13) Loading axlcore.cxt 
-\t (00:00:16) Opening existing design...
-\i (00:00:17) fillin yes 
-\i (00:00:17) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "IRRIGATION_PROJECT"
-\d (00:00:17) Design opened: C:/Users/jb7008/irrigation_project/schematic/allegro/IRRIGATION_PROJECT.brd
-\i (00:00:17) trapsize 1711
-\i (00:00:17) trapsize 1762
-\i (00:00:17) trapsize 1775
-\i (00:00:18) trapsize 1711
-\i (00:00:18) trapsize 2034
-\i (00:00:18) generaledit 
-\i (00:00:20) save 
-\i (00:00:22) fillin yes 
-\i (00:00:22) generaledit 
-\i (00:00:23) roam start
-\i (00:00:23) roam y -16
-\i (00:00:23) roam y -32
-\i (00:00:23) roam y -32
-\i (00:00:23) roam end
-\i (00:00:28) setwindow form.mini
-\i (00:00:28) FORM mini class 'ROUTE KEEPIN' 
-\i (00:00:31) FORM mini class 'PACKAGE KEEPIN' 
-\i (00:00:36) setwindow pcb
-\i (00:00:36) shape add rect 
-\i (00:00:37) zoom in 1 
-\i (00:00:37) setwindow pcb
-\i (00:00:37) zoom in 19.04 1962.00
-\i (00:00:37) trapsize 1017
-\i (00:00:37) zoom in 1 
-\i (00:00:37) setwindow pcb
-\i (00:00:37) zoom in 19.05 1962.01
-\i (00:00:37) trapsize 508
-\i (00:00:38) pick grid 26.16 1974.21
-\t (00:00:38) last pick:  25.00 1975.00
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 185.79 1891.85
-\i (00:00:38) trapsize 1017
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 419.64 1725.11
-\i (00:00:38) trapsize 2034
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 919.89 1387.54
-\i (00:00:38) trapsize 4067
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 1242.63 1306.20
-\i (00:00:38) trapsize 8134
-\i (00:00:39) zoom in 1 
-\i (00:00:39) setwindow pcb
-\i (00:00:39) zoom in 2592.88 127.78
-\i (00:00:39) trapsize 4067
-\i (00:00:39) zoom in 1 
-\i (00:00:39) setwindow pcb
-\i (00:00:39) zoom in 3560.83 -148.78
+\t (00:00:24) allegro 17.4 S016 Windows SPB 64-bit Edition
+\t (00:00:24)     Journal start - Mon Apr 18 12:07:17 2022
+\t (00:00:24)         Host=MCT158W22 User=jb7008 Pid=14096 CPUs=16
+\t (00:00:24) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:24) 
+\d (00:00:24) Design opened: C:/Users/jb7008/irrigation_project/schematic/allegro/IRRIGATION_PROJECT.brd
+\i (00:00:25) generaledit 
+\i (00:00:26) setwindow form.find
+\i (00:00:26) FORM find all_on  
+\i (00:00:27) FORM find all_on  
+\i (00:00:27) FORM find all_on  
+\i (00:00:28) FORM find all_on  
+\i (00:00:28) FORM find all_off  
+\i (00:00:28) FORM find all_on  
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 1423.66 1476.07
+\i (00:00:30) trapsize 4067
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 203.51 1467.93
+\i (00:00:30) trapsize 2034
+\i (00:00:32) color192 
+\i (00:00:32) generaledit 
+\i (00:00:33) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:00:39) QtFillin No
 \i (00:00:39) trapsize 2034
-\i (00:00:40) zoom in 1 
-\i (00:00:40) setwindow pcb
-\i (00:00:40) zoom in 3483.56 -95.90
-\i (00:00:40) trapsize 1017
-\i (00:00:40) zoom in 1 
-\i (00:00:40) setwindow pcb
-\i (00:00:40) zoom in 3479.49 -93.87
-\i (00:00:40) trapsize 508
-\i (00:00:41) pick grid 3213.11 27.12
-\t (00:00:41) last pick:  3225.00 25.00
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out 3071.78 47.46
-\i (00:00:41) trapsize 1017
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out 3053.47 47.46
-\i (00:00:41) trapsize 2034
-\i (00:00:42) roam start
-\i (00:00:42) roam x -16
-\i (00:00:42) roam x -32
-\i (00:00:42) roam x -48
-\i (00:00:42) roam y -16
-\i (00:00:42) roam x -16
-\i (00:00:42) roam y -16
-\i (00:00:42) roam x -16
-\i (00:00:42) roam x -32
-\i (00:00:42) roam y -16
-\i (00:00:42) roam x -48
-\i (00:00:42) roam y -16
-\i (00:00:42) roam x -16
-\i (00:00:42) roam x -32
-\i (00:00:42) roam y -16
-\i (00:00:42) roam x -32
-\i (00:00:42) roam y -16
-\i (00:00:42) roam x -48
-\i (00:00:42) roam y -16
-\i (00:00:42) roam x -48
-\i (00:00:42) roam y -16
-\i (00:00:42) roam x -64
-\i (00:00:42) roam y -32
-\i (00:00:42) roam x -16
-\i (00:00:42) roam x -16
-\i (00:00:42) roam y -16
-\i (00:00:42) roam x -16
-\i (00:00:42) roam x -16
-\i (00:00:42) roam x -16
-\i (00:00:42) roam x -16
-\i (00:00:42) roam x -16
-\i (00:00:42) roam x -16
-\i (00:00:42) roam y -16
-\i (00:00:42) roam x -32
-\i (00:00:42) roam y -16
-\i (00:00:42) roam x -48
-\i (00:00:43) roam x -32
-\i (00:00:43) roam y -16
-\i (00:00:43) roam x -16
-\i (00:00:43) roam y -16
-\i (00:00:43) roam x -48
-\i (00:00:43) roam y -16
-\i (00:00:43) roam x -32
-\i (00:00:43) roam y -16
-\i (00:00:43) roam y -16
-\i (00:00:43) roam end
-\i (00:00:44) save 
-\i (00:00:46) fillin yes 
-\i (00:00:46) generaledit 
-\i (00:00:50) artwork 
-\i (00:00:56) color192 
-\i (00:00:59) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:03) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:04) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up"
-\i (00:01:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
-\i (00:01:08) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:08) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:09) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:09) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:10) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:10) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
-\i (00:01:11) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:12) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:14) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
-\i (00:01:15) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:15) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:17) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
-\i (00:01:18) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:20) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
-\i (00:01:21) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox Mfg 0
-\i (00:01:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:22) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox Mfg 1
-\i (00:01:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:25) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox Mfg 0
-\i (00:01:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:26) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox Mfg 1
-\i (00:01:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:26) QtSignal CVDLayerTable CVDLayerTableHorzHeader sectionDoubleClicked 0
-\i (00:01:27) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox Mfg 0
-\i (00:01:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:28) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
-\i (00:01:29) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox Drawing 0
-\i (00:01:29) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:31) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox Drawing 1
-\i (00:01:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:32) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox Drawing 0
-\i (00:01:32) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:32) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Rigid flex"
-\i (00:01:33) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox RgdFlex 0
-\i (00:01:33) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:34) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Analysis
-\i (00:01:34) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox Analysis 0
-\i (00:01:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:35) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Bond wire profiles"
-\i (00:01:36) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes"
-\i (00:01:37) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox SurFin 0
-\i (00:01:37) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:38) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
-\i (00:01:39) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
-\i (00:01:39) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:40) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:42) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Bottom" 0
-\i (00:01:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:44) QtSignal CVDLayerTable VertHeader clickedCheckBox "Display_Bottom" 0
-\i (00:01:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
-\i (00:01:45) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Bottom" 0
-\i (00:01:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
-\i (00:01:47) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
-\i (00:01:48) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:50) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:51) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:52) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:01:54) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Bottom" 0
-\i (00:01:54) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:54) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Bottom" 1
-\i (00:01:54) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:55) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Bottom" 0
-\i (00:01:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:01:56) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Detail" 0
-\i (00:01:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
-\i (00:01:57) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Notes" 0
-\i (00:01:57) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
-\i (00:01:58) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Top" 0
-\i (00:01:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
-\i (00:01:58) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Top" 1
-\i (00:01:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
-\i (00:02:00) QtSignal CVDLayerTable VertHeader clickedCheckBox "Body_Center" 0
-\i (00:02:00) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
-\i (00:02:01) QtSignal CVDLayerTable VertHeader clickedCheckBox "Both_Rooms" 0
-\i (00:02:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
-\i (00:02:02) QtSignal CVDLayerTable VertHeader clickedCheckBox "Bottom_Room" 0
-\i (00:02:02) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
-\i (00:02:02) QtSignal CVDLayerTable VertHeader clickedCheckBox Cutout 0
-\i (00:02:02) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
-\i (00:02:03) QtSignal CVDLayerTable VertHeader clickedCheckBox "Design_Outline" 0
-\i (00:02:03) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
-\i (00:02:03) QtSignal CVDLayerTable VertHeader clickedCheckBox "Design_Outline" 1
-\i (00:02:03) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
-\i (00:02:04) QtSignal CVDLayerTable VertHeader sectionDoubleClicked 8
-\i (00:02:05) QtSignal CVDLayerTable VertHeader clickedCheckBox "Design_Outline" 0
-\i (00:02:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
-\i (00:02:06) QtSignal CVDLayerTable VertHeader clickedCheckBox "Dfa_Bound_Bottom" 0
-\i (00:02:06) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 9 0
-\i (00:02:07) QtSignal CVDLayerTable VertHeader clickedCheckBox "Dfa_Bound_Top" 0
-\i (00:02:07) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 10 0
-\i (00:02:07) QtSignal CVDLayerTable VertHeader clickedCheckBox Dimension 0
-\i (00:02:07) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
-\i (00:02:08) QtSignal CVDLayerTable VertHeader clickedCheckBox "Display_Bottom" 0
-\i (00:02:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 12 0
-\i (00:02:09) QtSignal CVDLayerTable VertHeader clickedCheckBox "Display_Top" 0
-\i (00:02:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
-\i (00:02:10) QtSignal CVDLayerTable VertHeader clickedCheckBox "Model_Outline" 0
-\i (00:02:10) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
-\i (00:02:11) QtSignal CVDLayerTable VertHeader clickedCheckBox Modules 0
-\i (00:02:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
-\i (00:02:12) QtSignal CVDLayerTable VertHeader clickedCheckBox "Ncroute_Path" 0
-\i (00:02:12) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 16 0
-\i (00:02:13) QtSignal CVDLayerTable VertHeader clickedCheckBox Outline 0
-\i (00:02:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 18 0
-\i (00:02:16) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Bottom" 0
-\i (00:02:16) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 28 0
-\i (00:02:17) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Bottom" 1
-\i (00:02:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 28 0
-\i (00:02:18) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Bottom" 0
-\i (00:02:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 28 0
-\i (00:02:19) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 0
-\i (00:02:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 29 0
-\i (00:02:19) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 1
-\i (00:02:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 29 0
-\i (00:02:24) QtSignal CVDLayerTable VertHeader clickedCheckBox "Soldermask_Bottom" 0
-\i (00:02:24) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 30 0
-\i (00:02:27) QtSignal CVDLayerTable VertHeader clickedCheckBox "Switch_Area_Bottom" 0
-\i (00:02:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 32 0
-\i (00:02:27) QtSignal CVDLayerTable VertHeader clickedCheckBox "Switch_Area_Top" 0
-\i (00:02:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 33 0
-\i (00:02:28) QtSignal CVDLayerTable VertHeader clickedCheckBox "Tooling_Corners" 0
-\i (00:02:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 34 0
-\i (00:02:28) QtSignal CVDLayerTable VertHeader clickedCheckBox "Top_Room" 0
-\i (00:02:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 35 0
-\i (00:02:28) QtSignal CVDLayerTable VertHeader clickedCheckBox "Wb_Guide_Line" 0
-\i (00:02:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 36 0
-\i (00:02:30) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 0
-\i (00:02:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 29 0
-\i (00:02:30) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 1
-\i (00:02:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 29 0
-\i (00:02:31) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 0
-\i (00:02:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 29 0
-\i (00:02:31) QtSignal CVDLayerTable VertHeader sectionDoubleClicked 29
-\i (00:02:32) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 1
-\i (00:02:32) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 29 0
-\i (00:02:33) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 0
-\i (00:02:33) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 29 0
-\i (00:02:33) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 1
-\i (00:02:33) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 29 0
-\i (00:02:34) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 0
-\i (00:02:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 29 0
-\i (00:02:35) QtSignal CVDLayerTable VertHeader clickedCheckBox "Plating_Bar" 0
-\i (00:02:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 27 0
-\i (00:02:36) QtSignal CVDLayerTable VertHeader clickedCheckBox "Place_Grid_Top" 0
-\i (00:02:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 26 0
-\i (00:02:36) QtSignal CVDLayerTable VertHeader clickedCheckBox "Place_Grid_Bottom" 0
-\i (00:02:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 25 0
-\i (00:02:36) QtSignal CVDLayerTable VertHeader clickedCheckBox "Place_Bound_Top" 0
-\i (00:02:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 24 0
-\i (00:02:38) QtSignal CVDLayerTable VertHeader clickedCheckBox "Place_Bound_Top" 1
-\i (00:02:38) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 24 0
-\i (00:02:39) QtSignal CVDLayerTable VertHeader clickedCheckBox "Place_Bound_Top" 0
-\i (00:02:39) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 24 0
-\i (00:02:43) QtSignal CVDLayerTable VertHeader clickedCheckBox "Pad_Stack_Name" 0
-\i (00:02:43) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 19 0
-\i (00:02:44) QtSignal CVDLayerTable VertHeader clickedCheckBox "Pastemask_Bottom" 0
-\i (00:02:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 20 0
-\i (00:02:45) QtSignal CVDLayerTable VertHeader clickedCheckBox "Pastemask_Top" 0
-\i (00:02:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 21 0
-\i (00:02:47) QtSignal CVDLayerTable VertHeader clickedCheckBox "Pin_Number" 0
-\i (00:02:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 22 0
-\i (00:02:48) QtSignal CVDLayerTable VertHeader clickedCheckBox "Place_Bound_Bottom" 0
-\i (00:02:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 23 0
-\i (00:02:50) zoom out 1 
-\i (00:02:50) setwindow pcb
-\i (00:02:50) zoom out 2295.99 701.23
-\i (00:02:50) trapsize 4067
-\i (00:02:50) zoom in 1 
-\i (00:02:50) setwindow pcb
-\i (00:02:50) zoom in 2987.38 652.42
-\i (00:02:50) trapsize 2034
-\i (00:03:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
-\i (00:03:03) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Top" 0
-\i (00:03:03) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
-\i (00:03:04) QtSignal CVDLayerTable VertHeader clickedCheckBox "Display_Top" 0
-\i (00:03:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
-\i (00:03:06) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 0
-\i (00:03:06) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
-\i (00:03:07) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 1
-\i (00:03:07) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
-\i (00:03:07) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 0
-\i (00:03:07) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
-\i (00:03:08) QtSignal CVDLayerTable VertHeader sectionDoubleClicked 5
-\i (00:03:08) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 1
-\i (00:03:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
-\i (00:03:12) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Silkscreen_Top" UserPart +
-\i (00:03:12) QtSignal 0
-\i (00:03:12) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 4
-\i (00:03:12) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:03:13) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Silkscreen_Top" Tol 0
-\i (00:03:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 3
-\i (00:03:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:03:15) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Silkscreen_Top" Tol 1
-\i (00:03:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 3
-\i (00:03:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:03:15) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Silkscreen_Top" Tol 0
-\i (00:03:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 3
-\i (00:03:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:03:16) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Silkscreen_Top" DevType 0
-\i (00:03:16) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 1
-\i (00:03:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:03:17) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Silkscreen_Top" CmpVal 0
-\i (00:03:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
-\i (00:03:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:03:19) zoom out 1 
-\i (00:03:19) setwindow pcb
-\i (00:03:19) zoom out 2418.00 969.65
-\i (00:03:19) trapsize 4067
-\i (00:03:19) zoom in 1 
-\i (00:03:19) setwindow pcb
-\i (00:03:19) zoom in 3320.88 969.66
-\i (00:03:19) trapsize 2034
-\i (00:03:20) zoom out 1 
-\i (00:03:20) setwindow pcb
-\i (00:03:20) zoom out 1901.49 892.39
-\i (00:03:20) trapsize 4067
-\i (00:03:20) zoom in 1 
-\i (00:03:20) setwindow pcb
-\i (00:03:20) zoom in 1185.70 892.39
-\i (00:03:20) trapsize 2034
-\i (00:03:26) setwindow form.film_control
-\i (00:03:26) FORM film_control filmtree  TOP 
-\i (00:03:29) FORM film_control filmtree popup Add TOP 
-\i (00:03:33) fillin "SILKSCREEN_TOP"
-\i (00:03:34) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:03:35) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_TOP 
-\i (00:03:35) setwindow pcb
-\i (00:03:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:03:40) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Bottom" 1
-\i (00:03:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
-\i (00:03:41) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Bottom" 0
-\i (00:03:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
-\i (00:03:47) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 1
-\i (00:03:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
-\i (00:03:47) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Top" 0
-\i (00:03:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
-\i (00:03:48) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silkscreen_Bottom" 1
-\i (00:03:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
-\i (00:03:51) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Silkscreen_Bottom" CmpVal +
-\i (00:03:51) QtSignal 0
-\i (00:03:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
-\i (00:03:51) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:03:52) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Silkscreen_Bottom" DevType +
-\i (00:03:52) QtSignal 0
-\i (00:03:52) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 1
-\i (00:03:52) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:03:54) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Silkscreen_Bottom" Tol 0
-\i (00:03:54) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 3
-\i (00:03:54) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:03:54) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Silkscreen_Bottom" UserPart +
-\i (00:03:54) QtSignal 0
-\i (00:03:54) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 4
-\i (00:03:54) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:03:56) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
-\i (00:03:58) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Top" 0
-\i (00:03:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
-\i (00:04:03) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Bottom" 1
-\i (00:04:03) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:04:06) QtSignal CVDLayerTable VertHeader clickedCheckBox "Off_Grid_Area" 0
-\i (00:04:06) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
-\i (00:04:08) QtSignal CVDLayerTable VertHeader clickedCheckBox "Soldermask_Top" 0
-\i (00:04:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 31 0
-\i (00:04:09) QtSignal CVDLayerTable VertHeader clickedCheckBox "Soldermask_Bottom" 1
-\i (00:04:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 30 0
-\i (00:04:13) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
-\i (00:04:18) setwindow form.film_control
-\i (00:04:18) FORM film_control filmtree popup Add SILKSCREEN_TOP 
-\i (00:04:25) fillin "SILKSCREEN_BOTTOM"
-\i (00:04:26) FORM film_control filmtree  SILKSCREEN_BOTTOM 
-\i (00:04:27) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_BOTTOM 
-\i (00:04:27) setwindow pcb
-\i (00:04:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:04:27) setwindow form.film_control
-\i (00:04:27) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:04:28) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_TOP 
-\i (00:04:28) setwindow pcb
-\i (00:04:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:04:28) setwindow form.film_control
-\i (00:04:28) FORM film_control filmtree  SILKSCREEN_BOTTOM 
-\i (00:04:29) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_BOTTOM 
-\i (00:04:29) setwindow pcb
-\i (00:04:29) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:04:30) setwindow form.film_control
-\i (00:04:30) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:04:30) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_TOP 
-\i (00:04:31) setwindow pcb
-\i (00:04:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:04:34) setwindow form.film_control
-\i (00:04:34) FORM film_control filmtree  TOP 
-\i (00:04:35) FORM film_control filmtree popup 'Display for Visibility' TOP 
-\i (00:04:35) setwindow pcb
-\i (00:04:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:04:35) setwindow form.film_control
-\i (00:04:35) FORM film_control filmtree  BOTTOM 
-\i (00:04:36) FORM film_control filmtree popup 'Display for Visibility' BOTTOM 
-\i (00:04:36) setwindow pcb
-\i (00:04:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:04:38) setwindow form.film_control
-\i (00:04:38) FORM film_control filmtree  SILKSCREEN_BOTTOM 
-\i (00:04:39) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_BOTTOM 
-\i (00:04:39) setwindow pcb
-\i (00:04:39) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:04:40) setwindow form.film_control
-\i (00:04:40) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:04:40) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_TOP 
-\i (00:04:40) setwindow pcb
-\i (00:04:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:04:40) setwindow form.film_control
-\i (00:04:40) FORM film_control filmtree  TOP 
-\i (00:04:41) FORM film_control filmtree popup 'Display for Visibility' TOP 
-\i (00:04:41) setwindow pcb
-\i (00:04:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:04:42) setwindow form.film_control
-\i (00:04:42) FORM film_control filmtree  BOTTOM 
-\i (00:04:42) FORM film_control filmtree popup 'Display for Visibility' BOTTOM 
-\i (00:04:42) setwindow pcb
-\i (00:04:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:04:42) setwindow form.film_control
-\i (00:04:42) FORM film_control filmtree  TOP 
-\i (00:04:46) FORM film_control filmtree popup 'Add Manual' TOP 
-\i (00:04:52) fillin "menu_cancel"
-\i (00:04:56) setwindow pcb
-\i (00:04:56) QtSignal CVDLayerContainer CVDVisibilityOn clicked
-\i (00:04:59) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up"
-\i (00:05:00) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:05:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
-\i (00:05:02) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:05:03) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:05:03) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:05:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
-\i (00:05:05) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:05:05) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
-\i (00:05:06) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Bottom" 0
-\i (00:05:06) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:05:10) QtSignal CVDLayerContainer CVDVisibilityOff clicked
-\i (00:05:11) QtSignal CVDLayerTable VertHeader clickedCheckBox "Design_Outline" 1
-\i (00:05:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
-\i (00:05:15) setwindow form.film_control
-\i (00:05:15) FORM film_control filmtree  SILKSCREEN_BOTTOM 
-\i (00:05:16) FORM film_control filmtree popup 'Add Manual' SILKSCREEN_BOTTOM 
-\i (00:05:18) fillin "DESIGN_OUTLINE"
-\i (00:05:18) setwindow form.scl_browser
-\i (00:05:18) FORM scl_browser treelist  ANALYSIS 
-\i (00:05:22) FORM scl_browser cancel  
-\i (00:05:23) setwindow form.film_control
-\i (00:05:23) FORM film_control filmtree  DESIGN_OUTLINE 
-\i (00:05:26) FORM film_control filmtree popup Cut DESIGN_OUTLINE 
-\i (00:05:27) FORM film_control filmtree  ETCH/TOP TOP 
-\i (00:05:28) FORM film_control filmtree popup Add ETCH/TOP TOP 
-\i (00:05:29) setwindow form.scl_browser
-\i (00:05:29) FORM scl_browser treelist  ANALYSIS 
-\i (00:05:31) FORM scl_browser treelist  'BOARD GEOMETRY' 
-\i (00:05:32) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:05:33) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:05:33) FORM scl_browser done  
-\i (00:05:34) setwindow form.film_control
-\i (00:05:34) FORM film_control filmtree  TOP 
-\i (00:05:35) FORM film_control filmtree popup 'Display for Visibility' TOP 
-\i (00:05:35) setwindow pcb
-\i (00:05:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:05:37) setwindow form.film_control
-\i (00:05:37) FORM film_control filmtree  BOTTOM 
-\i (00:05:39) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:05:40) FORM film_control filmtree  TOP 
-\i (00:05:40) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:05:40) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:05:40) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
-\i (00:05:40) FORM film_control filmtree  SILKSCREEN_BOTTOM 
-\i (00:05:41) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOTTOM 
-\i (00:05:41) FORM film_control filmtree  BOTTOM 
-\i (00:05:42) FORM film_control filmtree popup 'Display for Visibility' BOTTOM 
-\i (00:05:42) setwindow pcb
-\i (00:05:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:05:43) setwindow form.film_control
-\i (00:05:43) FORM film_control filmtree  TOP 
-\i (00:05:44) FORM film_control filmtree popup 'Display for Visibility' TOP 
-\i (00:05:44) setwindow pcb
-\i (00:05:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:05:44) setwindow form.film_control
-\i (00:05:44) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:05:45) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_TOP 
-\i (00:05:45) setwindow pcb
-\i (00:05:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:05:46) setwindow form.film_control
-\i (00:05:46) FORM film_control filmtree  SILKSCREEN_BOTTOM 
-\i (00:05:46) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_BOTTOM 
-\i (00:05:47) setwindow pcb
-\i (00:05:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:05:49) setwindow form.film_control
-\i (00:05:49) FORM film_control filmtree popup 'Add Manual' SILKSCREEN_BOTTOM 
-\i (00:05:52) fillin "SOLDERMASK_TOP"
-\i (00:05:52) setwindow form.scl_browser
-\i (00:05:52) FORM scl_browser treelist  ANALYSIS 
-\i (00:05:53) FORM scl_browser cancel  
-\i (00:05:54) setwindow form.film_control
-\i (00:05:54) FORM film_control filmtree  SOLDERMASK_TOP 
-\i (00:05:55) FORM film_control filmtree popup Cut SOLDERMASK_TOP 
-\i (00:05:58) setwindow pcb
-\i (00:05:58) QtSignal CVDLayerContainer CVDVisibilityOn clicked
-\i (00:06:00) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up"
-\i (00:06:03) QtSignal CVDLayerContainer CVDVisibilityOff clicked
-\i (00:06:04) QtSignal CVDLayerTable VertHeader clickedCheckBox "Soldermask_Top" 1
-\i (00:06:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
-\i (00:06:09) setwindow form.film_control
-\i (00:06:09) FORM film_control filmtree popup Add SILKSCREEN_BOTTOM 
-\i (00:06:12) fillin "SOLDERMASK_TOP"
-\i (00:06:14) FORM film_control filmtree  SOLDERMASK_TOP 
-\i (00:06:19) setwindow pcb
-\i (00:06:19) QtSignal CVDLayerTable VertHeader clickedCheckBox "Soldermask_Top" 0
-\i (00:06:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
-\i (00:06:19) QtSignal CVDLayerTable VertHeader clickedCheckBox "Soldermask_Bottom" 1
-\i (00:06:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
-\i (00:06:22) setwindow form.film_control
-\i (00:06:22) FORM film_control filmtree popup 'Add Manual' SOLDERMASK_TOP 
-\i (00:06:26) fillin "SOLDERMASK_BOTTOM"
-\i (00:06:26) setwindow form.scl_browser
-\i (00:06:26) FORM scl_browser treelist  ANALYSIS 
-\i (00:06:27) FORM scl_browser cancel  
-\i (00:06:29) setwindow form.film_control
-\i (00:06:29) FORM film_control filmtree  SOLDERMASK_BOTTOM 
-\i (00:06:30) FORM film_control filmtree popup Cut SOLDERMASK_BOTTOM 
-\i (00:06:35) setwindow pcb
-\i (00:06:35) QtSignal CVDLayerTable VertHeader clickedCheckBox "Soldermask_Bottom" 0
-\i (00:06:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
-\i (00:06:35) QtSignal CVDLayerTable VertHeader clickedCheckBox "Soldermask_Bottom" 1
-\i (00:06:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
-\i (00:06:39) setwindow form.film_control
-\i (00:06:39) FORM film_control filmtree popup Add SOLDERMASK_TOP 
-\i (00:06:43) fillin "SOLDERMASK_BOTTOM"
-\i (00:06:44) FORM film_control filmtree  SOLDERMASK_BOTTOM 
-\i (00:06:45) FORM film_control filmtree popup 'Display for Visibility' SOLDERMASK_BOTTOM 
-\i (00:06:45) setwindow pcb
-\i (00:06:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:06:49) setwindow form.film_control
-\i (00:06:49) FORM film_control filmtree  SOLDERMASK_TOP 
-\i (00:06:49) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_TOP 
-\i (00:06:49) FORM film_control filmtree  SOLDERMASK_BOTTOM 
-\i (00:06:49) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_BOTTOM 
-\i (00:06:52) FORM film_control filmtree  TOP 
-\i (00:06:58) FORM film_control ok  
-\i (00:06:59) setwindow pcb
-\i (00:06:59) generaledit 
-\i (00:07:00) save 
-\i (00:07:02) fillin yes 
-\i (00:07:02) generaledit 
-\i (00:07:04) artwork 
-\i (00:07:06) setwindow form.film_control
-\i (00:07:06) FORM film_control create  
-\w (00:07:06) No film records selected.
-\i (00:07:07) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:07:07) FORM film_control filmtree  SILKSCREEN_BOTTOM 
-\i (00:07:07) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOTTOM 
-\i (00:07:08) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:07:08) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
-\i (00:07:08) FORM film_control filmtree  SOLDERMASK_BOTTOM 
-\i (00:07:08) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_BOTTOM 
-\i (00:07:08) FORM film_control filmtree  SOLDERMASK_TOP 
-\i (00:07:08) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_TOP 
-\i (00:07:09) FORM film_control filmtree  TOP 
-\i (00:07:09) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:07:09) FORM film_control create  
-\t (00:07:09) Checking db records
-\t (00:07:09)     checking for orphans...
-\t (00:07:09)     Checked 100 percent
-\t (00:07:09) Done dbdoctor.
-\t (00:07:09) Starting Create artwork films...
-\w (00:07:10) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:07:11) Artwork generated with warnings.
-\i (00:07:35) setwindow text
-\i (00:07:35) close
-\i (00:07:39) setwindow form.film_control
-\i (00:07:39) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:07:40) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_TOP 
-\i (00:07:40) setwindow pcb
-\i (00:07:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:10:13) setwindow form.film_control
-\i (00:10:13) FORM film_control create  
-\t (00:10:13) Starting Create artwork films...
-\w (00:10:13) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:10:14) Artwork generated with warnings.
-\i (00:10:29) setwindow text
-\i (00:10:29) close
-\i (00:10:38) setwindow pcb
-\i (00:10:38) zoom in 1 
-\i (00:10:38) setwindow pcb
-\i (00:10:38) zoom in 193.35 144.06
-   (00:10:38) Loading signal.cxt 
-\i (00:10:38) trapsize 1017
-\i (00:10:39) zoom in 1 
-\i (00:10:39) setwindow pcb
-\i (00:10:39) zoom in 193.35 144.06
-\i (00:10:39) trapsize 508
-\i (00:10:39) zoom in 1 
-\i (00:10:39) setwindow pcb
-\i (00:10:39) zoom in 193.35 144.07
-\i (00:10:39) trapsize 254
-\i (00:10:39) zoom in 1 
-\i (00:10:39) setwindow pcb
-\i (00:10:39) zoom in 193.35 142.55
-\i (00:10:39) trapsize 127
-\i (00:10:49) zoom out 1 
-\i (00:10:49) setwindow pcb
-\i (00:10:49) zoom out 190.80 156.78
-\i (00:10:49) trapsize 254
-\i (00:10:49) zoom out 1 
-\i (00:10:49) setwindow pcb
-\i (00:10:49) zoom out 191.32 156.28
-\i (00:10:49) trapsize 508
-\i (00:10:49) zoom out 1 
-\i (00:10:49) setwindow pcb
-\i (00:10:49) zoom out 191.32 160.35
-\i (00:10:49) trapsize 1017
-\i (00:10:54) setwindow form.film_control
-\i (00:10:54) FORM film_control filmtree  SILKSCREEN_BOTTOM 
-\i (00:10:55) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_BOTTOM 
-\i (00:10:55) setwindow pcb
-\i (00:10:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:10:55) zoom out 1 
-\i (00:10:55) setwindow pcb
-\i (00:10:55) zoom out 898.99 642.30
-\i (00:10:55) trapsize 2034
-\i (00:10:55) zoom out 1 
-\i (00:10:55) setwindow pcb
-\i (00:10:55) zoom out 870.52 589.44
-\i (00:10:55) trapsize 4067
-\i (00:10:58) setwindow form.film_control
-\i (00:10:58) FORM film_control filmtree  SOLDERMASK_TOP 
-\i (00:11:03) FORM film_control filmtree  TOP 
-\i (00:11:04) FORM film_control filmtree popup 'Display for Visibility' TOP 
-\i (00:11:05) setwindow pcb
-\i (00:11:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:11:06) setwindow form.film_control
-\i (00:11:06) FORM film_control filmtree  'BOARD GEOMETRY/DESIGN_OUTLINE' TOP 
-\i (00:11:08) setwindow pcb
-\i (00:11:08) pick grid 3261.99 377.94
-\t (00:11:08) last pick:  3250.00 375.00
-\i (00:11:10) setwindow form.film_control
-\i (00:11:10) FORM film_control ok  
-\i (00:11:11) setwindow pcb
-\i (00:11:11) generaledit 
-\i (00:11:11) zoom in 1 
-\i (00:11:11) setwindow pcb
-\i (00:11:11) zoom in 2334.69 1777.03
-\i (00:11:11) trapsize 2034
-\i (00:11:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
-\i (00:11:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
-\i (00:11:23) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
-\i (00:11:23) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
-\i (00:11:23) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
-\i (00:11:23) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
-\i (00:11:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
-\i (00:11:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
-\i (00:11:25) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
-\i (00:11:25) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
-\i (00:11:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
-\i (00:11:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
-\i (00:11:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect
-\i (00:11:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect
-\i (00:11:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect
-\i (00:11:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect
-\i (00:11:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints
-\i (00:11:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints
-\i (00:11:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints Modes
-\i (00:11:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints Modes
-\i (00:11:29) cns cmmodesv2 
-\i (00:11:36) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged "Design for Fabrication" +
-\i (00:11:36) QtSignal Silkscreen
-\i (00:11:36) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged "Design for Fabrication" +
-\i (00:11:36) QtSignal Silkscreen
-\i (00:11:36) QtSignal m_analysisFrame_2 m_analysisTreeView clicked "Design for Fabrication" Silkscreen
-\i (00:11:45) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Physical
-\i (00:11:45) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Physical
-\i (00:11:45) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Electrical
-\i (00:11:45) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Electrical
-\i (00:11:46) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Design
-\i (00:11:46) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Design
-\i (00:11:47) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Spacing
-\i (00:11:47) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Spacing
-\i (00:11:47) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged "Same Net Spacing"
-\i (00:11:47) QtSignal m_analysisFrame_2 m_analysisTreeView clicked "Same Net Spacing"
-\i (00:11:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Constraints 0 "|" Modes
-\i (00:11:48) generaledit 
-\i (00:11:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
-\i (00:11:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
-\i (00:11:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
-\i (00:11:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
-\i (00:11:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement
-\i (00:11:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement
-\i (00:12:29) cmgr_manufacturing 
-\i (00:12:29) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
-\i (00:12:29) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
-\i (00:12:30) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Manufacturing
-\i (00:12:30) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged "Design for Fabrication" +
-\i (00:12:30) QtSignal "DFF Constraint Set" Outline
-\i (00:12:30) QtSignal Frozen_CCMViewHost403DffTransposedCsetView Frozen_CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
-\i (00:12:30) QtSignal 0 0 1
-\i (00:12:30) QtSignal Frozen_CCMViewHost403DffTransposedCsetView Frozen_CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
-\i (00:12:30) QtSignal 1 1 0
-\i (00:12:30) QtSignal CCMViewHost403DffTransposedCsetView CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
-\i (00:12:30) QtSignal 0 0 1
-\i (00:12:30) QtSignal CCMViewHost403DffTransposedCsetView CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
-\i (00:12:30) QtSignal 1 1 0
-\i (00:12:30) generaledit 
-\i (00:12:34) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
-\i (00:12:36) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
-\i (00:12:36) QtSignal m_domainSelector WS_Physical itemClicked Net "All Layers"
-\i (00:12:44) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
-\i (00:12:47) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Manufacturing
-\i (00:12:47) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged
-\i (00:12:49) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged "Design for Fabrication" +
-\i (00:12:49) QtSignal "DFF Constraint Set" Silkscreen
-\i (00:12:49) QtSignal m_domainSelector WS_Manufacturing itemClicked "Design for Fabrication" "DFF Constraint Set" +
-\i (00:12:49) QtSignal Silkscreen
-\i (00:12:56) QtFillin OK
-\i (00:13:02) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
-\i (00:13:02) QtSignal m_domainSelector WS_Physical itemSelectionChanged
-\i (00:13:02) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
-\i (00:13:24) pr
+\i (00:00:39) trapsize 2034
+\i (00:00:41) color192 
+\i (00:00:41) generaledit 
+\i (00:00:42) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:00:43) QtFillin Yes
+\i (00:00:43) trapsize 2034
+\i (00:00:43) trapsize 2034
+\i (00:00:46) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 3432.82 1878.71
+\i (00:00:46) trapsize 1017
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 3270.13 1707.89
+\i (00:00:47) trapsize 508
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 3253.87 1588.93
+\i (00:00:48) trapsize 1017
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 3251.83 1586.90
+\i (00:00:48) trapsize 2034
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 3219.29 1977.35
+\i (00:00:49) trapsize 1017
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 3221.32 1920.41
+\i (00:00:58) trapsize 2034
+\i (00:00:59) zoom out 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom out 2033.72 1623.52
+\i (00:00:59) trapsize 4067
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in 1382.99 1119.19
+\i (00:01:00) trapsize 2034
+\i (00:01:01) roam start
+\i (00:01:01) roam y 16
+\i (00:01:02) roam end
+\i (00:01:02) roam start
+\i (00:01:03) roam y 16
+\i (00:01:03) roam x 16
+\i (00:01:03) roam y 16
+\i (00:01:03) roam y 16
+\i (00:01:03) roam y 16
+\i (00:01:04) roam end
+\i (00:01:08) pick grid 2987.59 2002.83
+\t (00:01:08) last pick:  3000.00 2000.00
+\i (00:01:10) pick grid 2987.59 2002.83
+\t (00:01:10) last pick:  3000.00 2000.00
+\i (00:01:10) pick grid dbl 2987.59 2002.83
+\t (00:01:10) last pick:  3000.00 2000.00
+\i (00:01:11) pick grid 2995.72 1998.76
+\t (00:01:11) last pick:  3000.00 2000.00
+\i (00:01:11) prepopup 2995.72 1998.76
+\i (00:01:16) pop dyn_option_select '@:@Property edit' 
+\i (00:01:16) property edit 
+\i (00:01:20) setwindow form.editprop1
+\i (00:01:20) FORM editprop1 cancel  
+\i (00:01:20) setwindow pcb
+\i (00:01:20) generaledit 
+\i (00:01:53) artwork 
+\i (00:02:00) setwindow form.film_control
+\i (00:02:00) FORM film_control undefined_line_width 5.00 
+\i (00:02:00) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:02:01) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:02:01) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOTTOM 
+\i (00:02:01) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:02:01) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
+\i (00:02:01) FORM film_control filmtree  SOLDERMASK_BOTTOM 
+\i (00:02:02) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_BOTTOM 
+\i (00:02:02) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:02:02) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_TOP 
+\i (00:02:02) FORM film_control filmtree  TOP 
+\i (00:02:03) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:02:06) FORM film_control undefined_line_width 5 
+\i (00:02:06) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:02:09) FORM film_control undefined_line_width 5.00 
+\i (00:02:09) FORM film_control filmtree  SOLDERMASK_BOTTOM 
+\i (00:02:11) FORM film_control undefined_line_width 5 
+\i (00:02:11) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:02:12) FORM film_control undefined_line_width 5 
+\i (00:02:12) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:02:14) FORM film_control undefined_line_width 5 
+\i (00:02:14) FORM film_control filmtree  BOTTOM 
+\i (00:02:16) FORM film_control undefined_line_width 5 
+\i (00:02:16) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:02:17) FORM film_control filmtree  TOP 
+\i (00:02:17) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:02:17) FORM film_control filmtree  SOLDERMASK_BOTTOM 
+\i (00:02:17) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:02:17) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:02:17) FORM film_control filmtree  BOTTOM 
+\i (00:02:19) FORM film_control filmtree  TOP 
+\i (00:02:19) FORM film_control filmtree  BOTTOM 
+\i (00:02:21) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:02:22) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:02:23) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:02:24) FORM film_control filmtree  SOLDERMASK_BOTTOM 
+\i (00:02:28) FORM film_control create  
+\t (00:02:28) Checking db records
+\t (00:02:28)     checking for orphans...
+\t (00:02:28)     Checked 100 percent
+\t (00:02:28) Done dbdoctor.
+\t (00:02:28) Starting Create artwork films...
+\w (00:02:28) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:02:29) Artwork generated with warnings.

@@ -1,0 +1,62 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : IRRIGATION_PROJECT.brd                        )
+(    Software Version : 17.4S016                                      )
+(    Date/Time        : Mon Apr 18 12:11:48 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		YES
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-358): Design precision is the same as that of the drill output file data.
+ WARNING(SPMHMF-359): Data rounding errors may still be possible.
+
+
+ Drill files being output to directory 'C:/Users/jb7008/irrigation_project/schematic/allegro' ...
+
+
+
+     'IRRIGATION_PROJECT-1-2.drl' created for holes connecting TOP and BOTTOM ; Plating = PLATED
+     -------------------------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  13.0000    0.0000/  0.0000      PLATED         34
+            2.  32.0000    0.0000/  0.0000      PLATED         28
+            3.  35.0000    0.0000/  0.0000      PLATED          8
+            4.  40.0000    0.0000/  0.0000      PLATED          9
+            5.  40.1600    0.0000/  0.0000      PLATED          3
+            6.  45.0000    0.0000/  0.0000      PLATED          8
+            7.  51.1800    0.0000/  0.0000      PLATED          5
+
+     ---- Total holes:                                         95
+
+     ---- Total head travel:              3.85 feet (1.17 meters)
+

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : IRRIGATION_PROJECT.brd                        )
 (    Software Version : 17.4S016                                      )
-(    Date/Time        : Mon Apr 18 12:09:20 2022                      )
+(    Date/Time        : Mon Apr 18 11:53:18 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -34,7 +34,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                5.00 MIL
+  Undefined line width                0.00
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -42,6 +42,9 @@ Results from parameter file ...
   Plot negative                       NO
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.00 0.00) in MIL
+           ... ignored.
 
 
 
@@ -63,7 +66,7 @@ Results from parameter file ...
   SQUARE     0.06000                     0.000 NO     DARK 
   RECTANGLE  0.04000     x 0.05300       0.000 NO     DARK 
 
-     TOP created.
+     TOP created with warnings
 
 
 ================================================================
@@ -73,7 +76,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                5.00 MIL
+  Undefined line width                0.00
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -118,7 +121,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                5.00 MIL
+  Undefined line width                0.00
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -128,16 +131,16 @@ Results from parameter file ...
   Draw holes only                     NO
 
     WARNING: text composed 0 width line found at (200.00 135.00) in MIL
-           ... using undefined line width of 5.00 MIL
+           ... ignored.
 
     WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
-           ... using undefined line width of 5.00 MIL
+           ... ignored.
 
     WARNING: 0 width line found at (271.00 342.00) in MIL
-           ... using undefined line width of 5.00 MIL
+           ... ignored.
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.
-           ... using undefined line width of 5.00 MIL
+           ... ignored.
 
 
 
@@ -146,7 +149,6 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.00394                                  DARK 
-  CIRCLE     0.00500                                  DARK 
   CIRCLE     0.00787                                  DARK 
   CIRCLE     0.02000                                  DARK 
 
@@ -160,7 +162,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                5.00 MIL
+  Undefined line width                0.00
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -171,12 +173,7 @@ Results from parameter file ...
 
 
 
-  APERTURES USED (UNIT = IN):
-  ---------------------------------------------------------
-  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
-  ---------------------------------------------------------
-  CIRCLE     0.00500                                  DARK 
-
+  APERTURES USED:  NONE
      SILKSCREEN_BOTTOM created.
 
 
@@ -187,7 +184,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                5.00 MIL
+  Undefined line width                0.00
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -224,7 +221,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                5.00 MIL
+  Undefined line width                0.00
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -262,7 +259,7 @@ Results from parameter file ...
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created.
+        TOP created with warnings
         BOTTOM created.
         SILKSCREEN_TOP created with warnings
         SILKSCREEN_BOTTOM created.
