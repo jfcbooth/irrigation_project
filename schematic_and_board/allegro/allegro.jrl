@@ -1,0 +1,26 @@
+\t (00:03:30) allegro 17.4 S016 Windows SPB 64-bit Edition
+\t (00:03:30)     Journal start - Sat Apr 23 14:54:08 2022
+\t (00:03:30)         Host=MCT158W22 User=jb7008 Pid=2604 CPUs=16
+\t (00:03:30) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:03:30) 
+\d (00:03:30) Design opened: Z:/Desktop/irrigation_project_4/schematic/allegro/IRRIGATION_PROJECT.brd
+\i (00:03:30) helpcmd C:/Users/jb7008/AppData/Local/Temp/#Taaaacv02604.tmp 
+\i (00:03:31) generaledit 
+\i (00:03:39) ncdrill legend 
+\i (00:03:40) setwindow form.nc_drilllegend
+\i (00:03:40) FORM nc_drilllegend done  
+\i (00:03:42) setwindow pcb
+\i (00:03:42) pick grid 3637.12 2072.89
+\t (00:03:42) last pick:  3625.00 2075.00
+\t (00:03:42) NC Drill Legend generation successful
+\i (00:03:42) generaledit 
+\i (00:03:46) nctape_full 
+\i (00:03:47) setwindow form.nc_drill
+\i (00:03:47) FORM nc_drill execute  
+\t (00:03:47) Starting Generating NC Drill...
+\i (00:03:51) setwindow pcb
+\i (00:03:51) save 
+\i (00:03:52) fillin yes 
+\i (00:03:53) generaledit 
+\i (00:03:54) exit 
+\t (00:03:55)     Journal end - Sat Apr 23 14:54:33 2022

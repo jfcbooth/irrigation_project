@@ -1,0 +1,20 @@
+\t (00:00:05) allegro 17.4 S016 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Sat Apr 23 14:50:21 2022
+\t (00:00:05)         Host=MCT158W22 User=jb7008 Pid=8452 CPUs=16
+\t (00:00:05) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "IRRIGATION_PROJECT"
+\d (00:00:08) Design opened: Z:/Desktop/irrigation_project_3/schematic/allegro/IRRIGATION_PROJECT.brd
+\i (00:00:08) trapsize 4315
+\i (00:00:08) trapsize 4444
+\i (00:00:08) trapsize 4479
+\i (00:00:08) trapsize 4315
+\i (00:00:08) trapsize 4443
+\i (00:00:09) generaledit 
+\i (00:00:11) open 
+\i (00:00:13) fillin "menu_cancel"
+\i (00:00:13) generaledit 
+\i (00:00:14) exit 
+\t (00:00:15)     Journal end - Sat Apr 23 14:50:31 2022

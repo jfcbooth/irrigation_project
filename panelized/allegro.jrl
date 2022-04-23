@@ -1,0 +1,184 @@
+\t (00:00:21) allegro 17.4 S016 Windows SPB 64-bit Edition
+\t (00:00:21)     Journal start - Sat Apr 23 14:50:59 2022
+\t (00:00:21)         Host=MCT158W22 User=jb7008 Pid=2604 CPUs=16
+\t (00:00:21) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:21) 
+\d (00:00:21) Design opened: Z:/Desktop/irrigation_project_4/panel/panelized_board.brd
+\i (00:00:22) generaledit 
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 172.5790 270.8947
+\t (00:00:22) Grids are drawn 4.0000, 4.0000 apart for enhanced viewing.
+\i (00:00:22) trapsize 47368
+\i (00:00:27) drag_start grid 111.4737 404.9474
+\i (00:00:28) drag_stop 235.5789 25.0526
+\i (00:00:29) prepopup 191.0526 152.9474
+\i (00:00:33) pick grid 109.5789 106.5263
+\t (00:00:33) last pick:  110.0000 107.0000
+\i (00:00:35) tbx panelize 
+\i (00:00:35) helpcmd C:/Users/jb7008/AppData/Local/Temp/#Taaaaaf02604.tmp 
+   (00:00:35) Loading toolbox.cxt 
+   (00:00:35) Initializing toolbox...
+   (00:00:35) Info: Cannot retrieve relative directory
+\i (00:00:35) generaledit 
+\i (00:00:37) setwindow form.tbx_panelize_main
+\i (00:00:37) FORM tbx_panelize_main panel_grid cell 1,grid_panel_id 
+\i (00:00:39) FORM tbx_panelize_main panel_grid rpopup 1,grid_panel_id 'Delete All' 
+\i (00:00:40) FORM tbx_panelize_main setup  
+\i (00:00:41) FORM tbx_panelize_main design_grid cell 1,grid_design_browse 
+\i (00:00:45) fillin "Z:/Desktop/irrigation_project_4/schematic/allegro/IRRIGATION_PROJECT.brd"
+\i (00:00:48) FORM tbx_panelize_main sync_stackup  
+\i (00:00:50) FORM tbx_panelize_main init_modules  
+\t (00:00:51) Opening existing design...
+\t (00:00:51) Grids are drawn 12800.00, 12800.00 apart for enhanced viewing.
+\i (00:00:51) setwindow pcb
+\i (00:00:51) trapsize 4315
+\i (00:00:51) unfix 
+\t (00:00:51) Adjust find filter then select an element or group of elements.
+\i (00:00:51) prepopup 
+\i (00:00:51) prepopup 8616.69 -1111.62
+\i (00:00:51) pop unfixall 
+\i (00:00:51) prepopup 
+\i (00:00:51) prepopup 8616.69 -1111.62
+\i (00:00:51) done 
+\i (00:00:51) trapsize 4315
+\t (00:00:51) Starting dump_libraries...
+\i (00:00:51) generaledit 
+\t (00:00:53) Opening existing design...
+\t (00:00:53) Grids are drawn 4.0000, 4.0000 apart for enhanced viewing.
+\i (00:00:53) trapsize 47368
+\i (00:00:57) setwindow form.tbx_panelize_main
+\i (00:00:57) FORM tbx_panelize_main main  
+\i (00:00:58) FORM tbx_panelize_main setup  
+\i (00:01:03) FORM tbx_panelize_main place_mode  
+\i (00:01:03) tbx panelize place 
+\i (00:01:44) pick grid 20.5263 287.4737
+\t (00:01:44) last pick:  21.0000 287.0000
+\w (00:01:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+   (00:01:44) Loading skillExt.cxt 
+\i (00:01:46) setwindow pcb
+\i (00:01:46) generaledit 
+\i (00:01:47) setwindow form.tbx_panelize_main
+\i (00:01:47) FORM tbx_panelize_main done  
+   (00:01:47) Info: Due to performance reasons, On-Line DRC had been disabled. Please run DRC Update.
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in 69.7895 364.2105
+\t (00:01:48) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:01:48) trapsize 23684
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in 52.2632 368.9474
+\i (00:01:48) trapsize 11842
+\i (00:01:49) zoom out 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom out 88.0264 343.1317
+\i (00:01:49) trapsize 23684
+\i (00:01:55) save 
+\i (00:01:57) fillin yes 
+\i (00:01:57) generaledit 
+\i (00:01:59) artwork 
+\i (00:02:01) setwindow form.film_control
+\i (00:02:01) FORM film_control filmtree popup 'Display for Visibility' BOTTOM 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom in 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom in 199.8158 395.7106
+\i (00:02:02) trapsize 11842
+\i (00:02:02) zoom in 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom in 197.6842 397.1317
+\i (00:02:02) trapsize 5921
+\i (00:02:03) zoom out 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out 223.1448 397.8422
+\i (00:02:03) trapsize 11842
+\i (00:02:04) setwindow form.film_control
+\i (00:02:04) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:02:04) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:02:04) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOTTOM 
+\i (00:02:05) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:02:05) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
+\i (00:02:05) FORM film_control filmtree  SOLDERMASK_BOTTOM 
+\i (00:02:05) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_BOTTOM 
+\i (00:02:05) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:02:05) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_TOP 
+\i (00:02:06) FORM film_control filmtree  TOP 
+\i (00:02:06) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:02:07) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:02:07) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:02:08) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:02:08) FORM film_control filmtree  BOTTOM 
+\i (00:02:11) FORM film_control create  
+\t (00:02:11) Checking db records
+\t (00:02:11)     checking for orphans...
+\t (00:02:11)     Checked  44 percent
+\t (00:02:11)     Checked  88 percent
+\t (00:02:11)     Checked 100 percent
+\w (00:02:11) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:02:11) Done dbdoctor.
+\t (00:02:11) Starting Create artwork films...
+\w (00:02:12) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:02:13) Artwork generated with warnings.
+\i (00:02:28) setwindow text
+\i (00:02:28) close
+\i (00:02:29) setwindow form.film_control
+\i (00:02:29) FORM film_control ok  
+\i (00:02:30) setwindow pcb
+\i (00:02:30) generaledit 
+\i (00:02:30) zoom out 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom out 93.8290 389.0791
+   (00:02:30) Loading signal.cxt 
+\i (00:02:30) trapsize 23684
+\i (00:02:39) ncdrill legend 
+   (00:02:39) Loading mfg.cxt 
+\i (00:02:44) setwindow form.nc_drilllegend
+\i (00:02:44) FORM nc_drilllegend done  
+\i (00:02:45) setwindow pcb
+\i (00:02:45) pick grid 340.1449 407.5528
+\t (00:02:45) last pick:  340.0000 408.0000
+\t (00:02:45) NC Drill Legend generation successful
+\i (00:02:45) generaledit 
+\i (00:02:47) color192 
+\i (00:02:47) generaledit 
+\i (00:02:48) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:02:51) QtFillin Yes
+\i (00:02:51) trapsize 23684
+\i (00:02:51) trapsize 23684
+\i (00:02:51) zoom out 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom out 213.6712 355.4475
+\t (00:02:51) Grids are drawn 4.0000, 4.0000 apart for enhanced viewing.
+\i (00:02:51) trapsize 47368
+\i (00:02:53) save 
+\i (00:02:53) fillin yes 
+\i (00:02:54) generaledit 
+\i (00:03:06) nctape_full 
+\i (00:03:09) setwindow form.nc_drill
+\i (00:03:09) FORM nc_drill execute  
+\t (00:03:09) Starting Generating NC Drill...
+\e (00:03:10) ERROR(SPMHGE-268): NC Drill had errors, use Viewlog to review the log file.
+\e (00:03:11) A problem occurred, see the logfile (using Viewlog).
+\i (00:03:19) setwindow text
+\i (00:03:19) close
+\t (00:03:21) Grids are drawn 8.0000, 8.0000 apart for enhanced viewing.
+\i (00:03:21) setwindow pcb
+\i (00:03:21) trapsize 76154
+\t (00:03:22) Grids are drawn 4.0000, 4.0000 apart for enhanced viewing.
+\i (00:03:22) trapsize 47368
+\i (00:03:22) save 
+\i (00:03:23) fillin yes 
+\i (00:03:24) generaledit 
+\i (00:03:25) open 
+\i (00:03:30) fillin "Z:/Desktop/irrigation_project_4/schematic/allegro/IRRIGATION_PROJECT.brd"
+\i (00:03:30) cd "Z:/Desktop/irrigation_project_4/schematic/allegro"
+\t (00:03:30) Opening existing design...
+\t (00:03:30) Grids are drawn 12800.00, 12800.00 apart for enhanced viewing.
+\i (00:03:30) trapsize 4315
+\t (00:03:30)     Journal end - Sat Apr 23 14:54:08 2022
