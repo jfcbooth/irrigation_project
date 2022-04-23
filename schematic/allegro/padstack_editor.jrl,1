@@ -1,0 +1,24 @@
+\t (00:00:00) padstack_editor 17.4 S016 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Apr 23 14:28:44 2022
+\t (00:00:00)         Host=MCT158W22 User=jb7008 Pid=9188 CPUs=16
+\t (00:00:00) CmdLine= padstack_editor -mpssession jb7008 -file C:/Users/jb7008/irrigation_project/schematic/allegro/fiducial_1mm.pad -tempout C:/Users/jb7008/AppData/Local/Temp/#Taaaaal05144.tmp -p C:/Users/jb7008/irrigation_project/schematic/allegro
+\t (00:00:00) 
+\d (00:00:17) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:17) QtSignal 1
+\d (00:00:18) QtSignal GuidedDesignLayersTab PadDiameter editingFinished "39.4"
+\d (00:00:18) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:27) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
+\d (00:00:29) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
+\d (00:00:29) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:00:30) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:31) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:31) QtSignal 1
+\d (00:00:32) QtSignal GuidedMaskLayersTab PadDiameter editingFinished "78.7"
+\d (00:00:32) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:34) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:34) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:00:35) QtSignal GuidedSummaryTab Save clicked
+\d (00:00:39) QtFillin "fiducial_1mm.html"
+\d (00:00:39) QtFillin Yes
+\d (00:00:41) QtSignal MainWindow Save triggered
+\t (00:00:43)     Journal end - Sat Apr 23 14:29:26 2022

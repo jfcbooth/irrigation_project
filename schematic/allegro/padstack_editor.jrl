@@ -1,0 +1,7 @@
+\t (00:00:00) padstack_editor 17.4 S016 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Apr 23 14:36:15 2022
+\t (00:00:00)         Host=MCT158W22 User=jb7008 Pid=2524 CPUs=16
+\t (00:00:00) CmdLine= padstack_editor -mpssession jb7008 -file Z:/Desktop/irrigation_project/schematic/allegro/fiducial_1mm.pad -tempout C:/Users/jb7008/AppData/Local/Temp/#Taaaaaf13736.tmp -p Z:/Desktop/irrigation_project/schematic/allegro
+\t (00:00:00) 
+\d (00:00:03) QtSignal MainWindow Save triggered
+\t (00:00:05)     Journal end - Sat Apr 23 14:36:20 2022

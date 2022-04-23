@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : fiducial_1mm.dra                              )
+(    Software Version : 17.4S016                                      )
+(    Date/Time        : Sat Apr 23 14:37:35 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = Z:/Desktop/irrigation_project/schematic/allegro
+    Name      = fiducial_1mm.bsm
+    User      = jb7008
+    Machine   = MCT158W22
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

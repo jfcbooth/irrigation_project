@@ -1,13 +1,14 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    DBDOCTOR                                                         )
+(    Downrev Design                                                   )
 (                                                                     )
-(    Drawing          : IRRIGATION_PROJECT.brd                        )
+(    Drawing          : fiducial_1mm.dra                              )
 (    Software Version : 17.4S016                                      )
-(    Date/Time        : Sat Apr 23 14:48:19 2022                      )
+(    Date/Time        : Sat Apr 23 14:37:35 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-0 warnings, 0 errors detected, 0 errors could be fixed.
+Changes made to design for 17.2 compatibility.
+
