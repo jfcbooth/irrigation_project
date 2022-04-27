@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : IRRIGATION_PROJECT.brd                        )
 (    Software Version : 17.4S016                                      )
-(    Date/Time        : Mon Apr 18 11:53:18 2022                      )
+(    Date/Time        : Sat Apr 23 14:48:20 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -29,12 +29,12 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/TOP.art > ...
+     TO FILE < Z:/Desktop/irrigation_project_3/schematic/allegro/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.00
+  Undefined line width                5.00 MIL
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -42,9 +42,6 @@ Results from parameter file ...
   Plot negative                       NO
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
-
-    WARNING: rectangle or unfilled shape composed 0 width line found at (0.00 0.00) in MIL
-           ... ignored.
 
 
 
@@ -55,6 +52,7 @@ Results from parameter file ...
   CIRCLE     0.00500                                  DARK 
   CIRCLE     0.01000                                  DARK 
   CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03940                                  DARK 
   CIRCLE     0.05200                                  DARK 
   CIRCLE     0.05394                                  DARK 
   CIRCLE     0.05500                                  DARK 
@@ -66,17 +64,17 @@ Results from parameter file ...
   SQUARE     0.06000                     0.000 NO     DARK 
   RECTANGLE  0.04000     x 0.05300       0.000 NO     DARK 
 
-     TOP created with warnings
+     TOP created.
 
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/BOTTOM.art > ...
+     TO FILE < Z:/Desktop/irrigation_project_3/schematic/allegro/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.00
+  Undefined line width                5.00 MIL
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -94,6 +92,7 @@ Results from parameter file ...
   CIRCLE     0.00500                                  DARK 
   CIRCLE     0.01000                                  DARK 
   CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03940                                  DARK 
   CIRCLE     0.05200                                  DARK 
   CIRCLE     0.05394                                  DARK 
   CIRCLE     0.05500                                  DARK 
@@ -116,12 +115,12 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILKSCREEN_TOP >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/SILKSCREEN_TOP.art > ...
+     TO FILE < Z:/Desktop/irrigation_project_3/schematic/allegro/SILKSCREEN_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.00
+  Undefined line width                5.00 MIL
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -131,16 +130,16 @@ Results from parameter file ...
   Draw holes only                     NO
 
     WARNING: text composed 0 width line found at (200.00 135.00) in MIL
-           ... ignored.
+           ... using undefined line width of 5.00 MIL
 
     WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
-           ... ignored.
+           ... using undefined line width of 5.00 MIL
 
     WARNING: 0 width line found at (271.00 342.00) in MIL
-           ... ignored.
+           ... using undefined line width of 5.00 MIL
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.
-           ... ignored.
+           ... using undefined line width of 5.00 MIL
 
 
 
@@ -149,6 +148,7 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00500                                  DARK 
   CIRCLE     0.00787                                  DARK 
   CIRCLE     0.02000                                  DARK 
 
@@ -157,12 +157,12 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILKSCREEN_BOTTOM >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/SILKSCREEN_BOTTOM.art > ...
+     TO FILE < Z:/Desktop/irrigation_project_3/schematic/allegro/SILKSCREEN_BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.00
+  Undefined line width                5.00 MIL
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -173,18 +173,23 @@ Results from parameter file ...
 
 
 
-  APERTURES USED:  NONE
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
      SILKSCREEN_BOTTOM created.
 
 
 ================================================================
      PROCESSING FILM < SOLDERMASK_TOP >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/SOLDERMASK_TOP.art > ...
+     TO FILE < Z:/Desktop/irrigation_project_3/schematic/allegro/SOLDERMASK_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.00
+  Undefined line width                5.00 MIL
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -206,6 +211,7 @@ Results from parameter file ...
   CIRCLE     0.06181                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.07118                                  DARK 
+  CIRCLE     0.07870                                  DARK 
   SQUARE     0.05200                     0.000 NO     DARK 
   SQUARE     0.06000                     0.000 NO     DARK 
   SQUARE     0.06181                     0.000 NO     DARK 
@@ -216,12 +222,12 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SOLDERMASK_BOTTOM >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/SOLDERMASK_BOTTOM.art > ...
+     TO FILE < Z:/Desktop/irrigation_project_3/schematic/allegro/SOLDERMASK_BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.00
+  Undefined line width                5.00 MIL
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -243,6 +249,7 @@ Results from parameter file ...
   CIRCLE     0.06181                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.07118                                  DARK 
+  CIRCLE     0.07870                                  DARK 
   SQUARE     0.05200                     0.000 NO     DARK 
   SQUARE     0.06000                     0.000 NO     DARK 
   SQUARE     0.06181                     0.000 NO     DARK 
@@ -259,7 +266,7 @@ Results from parameter file ...
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created with warnings
+        TOP created.
         BOTTOM created.
         SILKSCREEN_TOP created with warnings
         SILKSCREEN_BOTTOM created.
