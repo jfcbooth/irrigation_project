@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : IRRIGATION_PROJECT.brd                        )
 (    Software Version : 17.4S016                                      )
-(    Date/Time        : Mon Apr 18 12:09:20 2022                      )
+(    Date/Time        : Wed Apr 27 11:23:06 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -29,7 +29,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/TOP.art > ...
+     TO FILE < Z:/Desktop/irrigation_project/schematic_and_board/allegro/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -52,6 +52,7 @@ Results from parameter file ...
   CIRCLE     0.00500                                  DARK 
   CIRCLE     0.01000                                  DARK 
   CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03940                                  DARK 
   CIRCLE     0.05200                                  DARK 
   CIRCLE     0.05394                                  DARK 
   CIRCLE     0.05500                                  DARK 
@@ -68,7 +69,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/BOTTOM.art > ...
+     TO FILE < Z:/Desktop/irrigation_project/schematic_and_board/allegro/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -91,6 +92,7 @@ Results from parameter file ...
   CIRCLE     0.00500                                  DARK 
   CIRCLE     0.01000                                  DARK 
   CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03940                                  DARK 
   CIRCLE     0.05200                                  DARK 
   CIRCLE     0.05394                                  DARK 
   CIRCLE     0.05500                                  DARK 
@@ -113,7 +115,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILKSCREEN_TOP >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/SILKSCREEN_TOP.art > ...
+     TO FILE < Z:/Desktop/irrigation_project/schematic_and_board/allegro/SILKSCREEN_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -155,7 +157,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILKSCREEN_BOTTOM >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/SILKSCREEN_BOTTOM.art > ...
+     TO FILE < Z:/Desktop/irrigation_project/schematic_and_board/allegro/SILKSCREEN_BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -182,7 +184,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SOLDERMASK_TOP >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/SOLDERMASK_TOP.art > ...
+     TO FILE < Z:/Desktop/irrigation_project/schematic_and_board/allegro/SOLDERMASK_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -209,6 +211,7 @@ Results from parameter file ...
   CIRCLE     0.06181                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.07118                                  DARK 
+  CIRCLE     0.07870                                  DARK 
   SQUARE     0.05200                     0.000 NO     DARK 
   SQUARE     0.06000                     0.000 NO     DARK 
   SQUARE     0.06181                     0.000 NO     DARK 
@@ -219,7 +222,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SOLDERMASK_BOTTOM >
-     TO FILE < C:/Users/jb7008/irrigation_project/schematic/allegro/SOLDERMASK_BOTTOM.art > ...
+     TO FILE < Z:/Desktop/irrigation_project/schematic_and_board/allegro/SOLDERMASK_BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -246,6 +249,7 @@ Results from parameter file ...
   CIRCLE     0.06181                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.07118                                  DARK 
+  CIRCLE     0.07870                                  DARK 
   SQUARE     0.05200                     0.000 NO     DARK 
   SQUARE     0.06000                     0.000 NO     DARK 
   SQUARE     0.06181                     0.000 NO     DARK 

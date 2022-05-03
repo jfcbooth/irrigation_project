@@ -1,0 +1,6 @@
+The code's purpose is to
+1. Store the Moisture, humidity, and temperature readings from the sensors onto the SD Card.
+2. Connect to the phone over bluetooth, and transfer the data from the SD card onto the phone.
+3. If the moisture reading is too low, quickly open the solenoid to add a little water to the soil, then wait to see how the moisture reading is affected. Repeat if neccesary.
+
+The code works for all soil types, since the measurment that matters is the water temperature. Every 15 seconds, the sensor's readings are taken and if the soild isn't within the appropriate range, a little bit of water is released. This makes sure the soil isn't too wet or too dry. The most the soil type options would do is adjust the time to read the sensors and adjust how much water is realsed per cycle. Without first testing the initial water release profile, it's hard to guess values for other soil types.

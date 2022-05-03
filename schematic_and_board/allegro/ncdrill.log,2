@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : IRRIGATION_PROJECT.brd                        )
 (    Software Version : 17.4S016                                      )
-(    Date/Time        : Tue May  3 10:11:51 2022                      )
+(    Date/Time        : Sat Apr 23 14:54:25 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -39,7 +39,7 @@
  WARNING(SPMHMF-359): Data rounding errors may still be possible.
 
 
- Drill files being output to directory 'Z:/Desktop/irrigation_project/schematic_and_board/allegro' ...
+ Drill files being output to directory 'Z:/Desktop/irrigation_project_4/schematic/allegro' ...
 
 
 
@@ -58,5 +58,5 @@
 
      ---- Total holes:                                         95
 
-     ---- Total head travel:              3.87 feet (1.18 meters)
+     ---- Total head travel:              3.85 feet (1.17 meters)
 

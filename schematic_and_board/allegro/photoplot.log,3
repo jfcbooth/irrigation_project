@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : IRRIGATION_PROJECT.brd                        )
 (    Software Version : 17.4S016                                      )
-(    Date/Time        : Wed Apr 27 11:23:06 2022                      )
+(    Date/Time        : Tue May  3 10:01:56 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -83,6 +83,9 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
+    WARNING: Film contains objects with associated DRCs (1).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
 
 
   APERTURES USED (UNIT = IN):
@@ -110,7 +113,7 @@ Results from parameter file ...
   RECTANGLE  0.07800     x 0.02200       0.000 NO     DARK 
   RECTANGLE  0.26700     x 0.27300      90.000 NO     DARK 
 
-     BOTTOM created.
+     BOTTOM created with warnings
 
 
 ================================================================
@@ -267,7 +270,7 @@ Results from parameter file ...
 ------------------------------------------------------
  SUMMARY:
         TOP created.
-        BOTTOM created.
+        BOTTOM created with warnings
         SILKSCREEN_TOP created with warnings
         SILKSCREEN_BOTTOM created.
         SOLDERMASK_TOP created.
